@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/673913.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>The Nonintuitive Bits</title>
+  <lastBuildDate>Fri, 28 Jun 2024 18:05:23 -0700</lastBuildDate>
+  <link>http://www.thenonintuitivebits.com</link>
+  <language>en-us</language>
+  <copyright>© 2024 The Nonintuitive Bits</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>92f13111-5662-5890-9297-3f118334ec80</podcast:guid>
+    <itunes:author></itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<p>Two and a half engineers, three different viewpoints. At the intersection of technology, business, gaming and psychology, get a second opinion about the issues of the day in the tech industry. Each opinion is held only the host sharing it (and not by our employers). *Warning:* The host may no longer hold that opinion by the end of the episode.</p>]]></description>
+  <itunes:keywords>technology, entrepreneurship, career, predictions, business</itunes:keywords>
+  <itunes:owner>
+    <itunes:name></itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/b5fafahlvg33sqebqrp4xkkqxl8e?.jpg</url>
+     <title>The Nonintuitive Bits</title>
+     <link>http://www.thenonintuitivebits.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/b5fafahlvg33sqebqrp4xkkqxl8e?.jpg" />
+  <itunes:category text="Leisure">
+    <itunes:category text="Games" />
+  </itunes:category>
+  <itunes:category text="Technology" />
+  <itunes:category text="Business">
+    <itunes:category text="Entrepreneurship" />
+  </itunes:category>
+  <item>
+    <itunes:title>Seeds of AI: The Tech Revolution in Farming. Episode 101</itunes:title>
+    <title>Seeds of AI: The Tech Revolution in Farming. Episode 101</title>
+    <itunes:summary><![CDATA[- Sicario Moe: A cinematic critique- Examining game expansions: John Wick's perspective DLC- 'The Boys': Comic vs TV Series contrast- ChargerPT – An AI Assist for software engineering fundamentals- Unpacking the Unity game engine's move towards manufacturing- John Deere's AI Agritech revolution- Unveiling the technical challenges of internet dependency- Emergence of tech monopolies and ecosystem implications- The Right to Repair and the Modern Device maze- Reflecting on farming's digital shif...]]></itunes:summary>
+    <description><![CDATA[<p>- Sicario Moe: A cinematic critique<br/>- Examining game expansions: John Wick&apos;s perspective DLC<br/>- &apos;The Boys&apos;: Comic vs TV Series contrast<br/>- ChargerPT – An AI Assist for software engineering fundamentals<br/>- Unpacking the Unity game engine&apos;s move towards manufacturing<br/>- John Deere&apos;s AI Agritech revolution<br/>- Unveiling the technical challenges of internet dependency<br/>- Emergence of tech monopolies and ecosystem implications<br/>- The Right to Repair and the Modern Device maze<br/>- Reflecting on farming&apos;s digital shift and food production reliance on tech<br/>- Addressing satellite network disruptions &amp; crop collection impacts<br/>- Cyber Security in an Automated World: Threats and Safeguards<br/>- Shipping Software Vulnerabilities: An Insight into Container Management<br/>- MH370: Netflix&apos;s exploration of a modern aviation mystery<br/>- Mentor Pilot: A must-follow for aviation geeks<br/>- Necessities of duplication &amp; emergency systems in planes<br/><br/>Please join the Discord (https://discord.gg/T38WpgkHGQ) channel for the discussions.</p>]]></description>
+    <content:encoded><![CDATA[<p>- Sicario Moe: A cinematic critique<br/>- Examining game expansions: John Wick&apos;s perspective DLC<br/>- &apos;The Boys&apos;: Comic vs TV Series contrast<br/>- ChargerPT – An AI Assist for software engineering fundamentals<br/>- Unpacking the Unity game engine&apos;s move towards manufacturing<br/>- John Deere&apos;s AI Agritech revolution<br/>- Unveiling the technical challenges of internet dependency<br/>- Emergence of tech monopolies and ecosystem implications<br/>- The Right to Repair and the Modern Device maze<br/>- Reflecting on farming&apos;s digital shift and food production reliance on tech<br/>- Addressing satellite network disruptions &amp; crop collection impacts<br/>- Cyber Security in an Automated World: Threats and Safeguards<br/>- Shipping Software Vulnerabilities: An Insight into Container Management<br/>- MH370: Netflix&apos;s exploration of a modern aviation mystery<br/>- Mentor Pilot: A must-follow for aviation geeks<br/>- Necessities of duplication &amp; emergency systems in planes<br/><br/>Please join the Discord (https://discord.gg/T38WpgkHGQ) channel for the discussions.</p>]]></content:encoded>
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/673913/15330954-seeds-of-ai-the-tech-revolution-in-farming-episode-101.mp3" length="30024544" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15330954</guid>
+    <pubDate>Fri, 28 Jun 2024 18:00:00 -0700</pubDate>
+    <itunes:duration>2499</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>AI Deep Dive: Model Reviews, Controversies, and Comparisons</itunes:title>
+    <title>AI Deep Dive: Model Reviews, Controversies, and Comparisons</title>
+    <itunes:summary><![CDATA[# Show Notes:* Personalized Zoom meeting jingles.* Features and anticipation of PlayStation 5 Pro and PlayStation Portal.* ChargeGPT use-cases for daily commuting.* Loving the LEGO STS Space Launch System model!* Latest update on Voyager 1 repair.* Advanced motorcycle features, like LCD screens with phone integration and ABS.* Exploring the Harley Davidson Panamerica and Honda CB400.* Tesla's influence on daily commuting with autopilot features.* Introductory explanation of context caching in...]]></itunes:summary>
+    <description><![CDATA[<p># Show Notes:<br/>* Personalized Zoom meeting jingles.<br/>* Features and anticipation of PlayStation 5 Pro and PlayStation Portal.<br/>* ChargeGPT use-cases for daily commuting.<br/>* Loving the LEGO STS Space Launch System model!<br/>* Latest update on Voyager 1 repair.<br/>* Advanced motorcycle features, like LCD screens with phone integration and ABS.<br/>* Exploring the Harley Davidson Panamerica and Honda CB400.<br/>* Tesla&apos;s influence on daily commuting with autopilot features.<br/>* Introductory explanation of context caching in LLMs.<br/>* Unwrapping the potential of NVIDIA&apos;s recent model and Ilya Sutskever&apos;s new venture.<br/>* OpenAI&apos;s LLM team and their tackling of challenges.<br/>* Honoring Grok and Ilyas Uskever&apos;s remarkable contributions to Chat GPT.<br/>* A comparative analysis of different AI models in the market.<br/>* Insight into Elon Musk&apos;s AI contributions.<br/>* A comprehensive guide to building a new LLM model.<br/>* Investigating the US-China competition in AI.<br/>* Cloud Opus vs. Chat GPT – A debate.<br/>* How OpenAI model handles criticism.<br/>* Introducing: Google&apos;s Gemini options.<br/>* Google Jamboard&apos;s discontinuation in December 2024.<br/>* Spotlight on PvKK – A unique simulation game set in an imaginary world.<br/>* Discussing the rising popularity of simulation games.<br/><br/>Join us for more discussions on our [Discord Channel](https://discord.gg/T38WpgkHGQ)!</p>]]></description>
+    <content:encoded><![CDATA[<p># Show Notes:<br/>* Personalized Zoom meeting jingles.<br/>* Features and anticipation of PlayStation 5 Pro and PlayStation Portal.<br/>* ChargeGPT use-cases for daily commuting.<br/>* Loving the LEGO STS Space Launch System model!<br/>* Latest update on Voyager 1 repair.<br/>* Advanced motorcycle features, like LCD screens with phone integration and ABS.<br/>* Exploring the Harley Davidson Panamerica and Honda CB400.<br/>* Tesla&apos;s influence on daily commuting with autopilot features.<br/>* Introductory explanation of context caching in LLMs.<br/>* Unwrapping the potential of NVIDIA&apos;s recent model and Ilya Sutskever&apos;s new venture.<br/>* OpenAI&apos;s LLM team and their tackling of challenges.<br/>* Honoring Grok and Ilyas Uskever&apos;s remarkable contributions to Chat GPT.<br/>* A comparative analysis of different AI models in the market.<br/>* Insight into Elon Musk&apos;s AI contributions.<br/>* A comprehensive guide to building a new LLM model.<br/>* Investigating the US-China competition in AI.<br/>* Cloud Opus vs. Chat GPT – A debate.<br/>* How OpenAI model handles criticism.<br/>* Introducing: Google&apos;s Gemini options.<br/>* Google Jamboard&apos;s discontinuation in December 2024.<br/>* Spotlight on PvKK – A unique simulation game set in an imaginary world.<br/>* Discussing the rising popularity of simulation games.<br/><br/>Join us for more discussions on our [Discord Channel](https://discord.gg/T38WpgkHGQ)!</p>]]></content:encoded>
+    <itunes:author></itunes:author>
+    <enclosure url="https://www.buzzsprout.com/673913/15292277-ai-deep-dive-model-reviews-controversies-and-comparisons.mp3" length="39333337" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-15292277</guid>
+    <pubDate>Fri, 21 Jun 2024 21:00:00 -0700</pubDate>
+    <itunes:duration>3275</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
