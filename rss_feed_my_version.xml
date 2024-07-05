@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+
+<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Sheikh Jaffer Ladak: Practical Techniques for Pondering Upon the Quran</title>
     <link>http://143.244.177.180/media/podcast_feeds/PLXYK1GTe_scZi8SGnLB7kFSZQCcq4ZxKa.xml</link>
