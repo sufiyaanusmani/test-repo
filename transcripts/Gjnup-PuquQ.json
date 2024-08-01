@@ -1,0 +1,3326 @@
+{
+    "detected_language": "en",
+    "device": "cuda",
+    "model": "large-v3",
+    "segments": [
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 4.96,
+            "id": 1,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 0,
+            "temperature": 0,
+            "text": " Docker, a tool that can package software into containers that run reliably in any environment.",
+            "tokens": [
+                50377,
+                33772,
+                11,
+                257,
+                2290,
+                300,
+                393,
+                7372,
+                4722,
+                666,
+                17089,
+                300,
+                1190,
+                49927,
+                294,
+                604,
+                2823,
+                13,
+                50620
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 7.2,
+            "id": 2,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 5.2,
+            "temperature": 0,
+            "text": " But what is a container, and why do you need one?",
+            "tokens": [
+                50636,
+                583,
+                437,
+                307,
+                257,
+                10129,
+                11,
+                293,
+                983,
+                360,
+                291,
+                643,
+                472,
+                30,
+                50729
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 10.48,
+            "id": 3,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 7.32,
+            "temperature": 0,
+            "text": " Let's imagine you built an app with COBOL that runs on some weird flavor of Linux.",
+            "tokens": [
+                50735,
+                961,
+                311,
+                3811,
+                291,
+                3094,
+                364,
+                724,
+                365,
+                34812,
+                5046,
+                300,
+                6676,
+                322,
+                512,
+                3657,
+                6813,
+                295,
+                18734,
+                13,
+                50897
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 13.6,
+            "id": 4,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 10.72,
+            "temperature": 0,
+            "text": " You want to share this app with your friend, but he has an entirely different system.",
+            "tokens": [
+                50911,
+                509,
+                528,
+                281,
+                2073,
+                341,
+                724,
+                365,
+                428,
+                1277,
+                11,
+                457,
+                415,
+                575,
+                364,
+                7696,
+                819,
+                1185,
+                13,
+                51049
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 17.8,
+            "id": 5,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 13.8,
+            "temperature": 0,
+            "text": " So the problem becomes, how do we replicate the environment our software needs on any machine?",
+            "tokens": [
+                51059,
+                407,
+                264,
+                1154,
+                3643,
+                11,
+                577,
+                360,
+                321,
+                25356,
+                264,
+                2823,
+                527,
+                4722,
+                2203,
+                322,
+                604,
+                3479,
+                30,
+                51260
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 19.92,
+            "id": 6,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 17.98,
+            "temperature": 0,
+            "text": " One way to package an app is with a virtual machine,",
+            "tokens": [
+                51269,
+                1485,
+                636,
+                281,
+                7372,
+                364,
+                724,
+                307,
+                365,
+                257,
+                6374,
+                3479,
+                11,
+                51370
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 23.68,
+            "id": 7,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 20.12,
+            "temperature": 0,
+            "text": " where the hardware is simulated, then installed with the required OS and dependencies.",
+            "tokens": [
+                51377,
+                689,
+                264,
+                8837,
+                307,
+                41713,
+                11,
+                550,
+                8899,
+                365,
+                264,
+                4739,
+                12731,
+                293,
+                36606,
+                13,
+                51557
+            ]
+        },
+        {
+            "avg_logprob": -0.1192781690140845,
+            "compression_ratio": 1.6952908587257618,
+            "end": 26.58,
+            "id": 8,
+            "no_speech_prob": 0.07568359375,
+            "seek": 2658,
+            "start": 24.06,
+            "temperature": 0,
+            "text": " This allows us to run multiple apps on the same infrastructure.",
+            "tokens": [
+                51580,
+                639,
+                4045,
+                505,
+                281,
+                1190,
+                3866,
+                7733,
+                322,
+                264,
+                912,
+                6896,
+                13,
+                51705
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 31.72,
+            "id": 9,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 26.58,
+            "temperature": 0,
+            "text": " However, because each VM is running its own operating system, they tend to be bulky and slow.",
+            "tokens": [
+                50365,
+                2908,
+                11,
+                570,
+                1184,
+                18038,
+                307,
+                2614,
+                1080,
+                1065,
+                7447,
+                1185,
+                11,
+                436,
+                3928,
+                281,
+                312,
+                42986,
+                293,
+                2964,
+                13,
+                50630
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 36.22,
+            "id": 10,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 31.92,
+            "temperature": 0,
+            "text": " Now, a Docker container is conceptually very similar to a VM, with one key difference.",
+            "tokens": [
+                50647,
+                823,
+                11,
+                257,
+                33772,
+                10129,
+                307,
+                3410,
+                671,
+                588,
+                2531,
+                281,
+                257,
+                18038,
+                11,
+                365,
+                472,
+                2141,
+                2649,
+                13,
+                50856
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 39.86,
+            "id": 11,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 36.5,
+            "temperature": 0,
+            "text": " Instead of virtualizing hardware, containers only virtualize the OS.",
+            "tokens": [
+                50873,
+                7156,
+                295,
+                6374,
+                3319,
+                8837,
+                11,
+                17089,
+                787,
+                6374,
+                1125,
+                264,
+                12731,
+                13,
+                51043
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 43.9,
+            "id": 12,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 40.2,
+            "temperature": 0,
+            "text": " Or in other words, all apps or containers are run by a single kernel,",
+            "tokens": [
+                51059,
+                1610,
+                294,
+                661,
+                2283,
+                11,
+                439,
+                7733,
+                420,
+                17089,
+                366,
+                1190,
+                538,
+                257,
+                2167,
+                28256,
+                11,
+                51235
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 46.3,
+            "id": 13,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 44.04,
+            "temperature": 0,
+            "text": " and this makes almost everything faster and more efficient.",
+            "tokens": [
+                51246,
+                293,
+                341,
+                1669,
+                1920,
+                1203,
+                4663,
+                293,
+                544,
+                7148,
+                13,
+                51355
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 49.3,
+            "id": 14,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 46.52,
+            "temperature": 0,
+            "text": " There are three fundamental elements in the universe of Docker.",
+            "tokens": [
+                51376,
+                821,
+                366,
+                1045,
+                8088,
+                4959,
+                294,
+                264,
+                6445,
+                295,
+                33772,
+                13,
+                51507
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 52.2,
+            "id": 15,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 49.48,
+            "temperature": 0,
+            "text": " The Dockerfile, the image, and the container.",
+            "tokens": [
+                51526,
+                440,
+                33772,
+                69,
+                794,
+                11,
+                264,
+                3256,
+                11,
+                293,
+                264,
+                10129,
+                13,
+                51654
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 54.14,
+            "id": 16,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 52.46,
+            "temperature": 0,
+            "text": " The Dockerfile is like DNA.",
+            "tokens": [
+                51687,
+                440,
+                33772,
+                69,
+                794,
+                307,
+                411,
+                8272,
+                13,
+                51751
+            ]
+        },
+        {
+            "avg_logprob": -0.1156478102189781,
+            "compression_ratio": 1.6901840490797546,
+            "end": 56.12,
+            "id": 17,
+            "no_speech_prob": 8.416175842285156e-05,
+            "seek": 5612,
+            "start": 54.38,
+            "temperature": 0,
+            "text": " It's just code that tells Docker,",
+            "tokens": [
+                51770,
+                467,
+                311,
+                445,
+                3089,
+                300,
+                5112,
+                33772,
+                11,
+                51850
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 59.9,
+            "id": 18,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 56.12,
+            "temperature": 0,
+            "text": " how to build an image, which itself is a snapshot of your software,",
+            "tokens": [
+                50365,
+                577,
+                281,
+                1322,
+                364,
+                3256,
+                11,
+                597,
+                2564,
+                307,
+                257,
+                30163,
+                295,
+                428,
+                4722,
+                11,
+                50559
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 63.04,
+            "id": 19,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 60.04,
+            "temperature": 0,
+            "text": " along with all of its dependencies down to the operating system level.",
+            "tokens": [
+                50568,
+                2051,
+                365,
+                439,
+                295,
+                1080,
+                36606,
+                760,
+                281,
+                264,
+                7447,
+                1185,
+                1496,
+                13,
+                50717
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 66.52,
+            "id": 20,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 63.16,
+            "temperature": 0,
+            "text": " The image is immutable, and it can be used to spin up multiple containers,",
+            "tokens": [
+                50724,
+                440,
+                3256,
+                307,
+                3397,
+                32148,
+                11,
+                293,
+                309,
+                393,
+                312,
+                1143,
+                281,
+                6060,
+                493,
+                3866,
+                17089,
+                11,
+                50889
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 69.08,
+            "id": 21,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 66.66,
+            "temperature": 0,
+            "text": " which is your actual software running in the real world.",
+            "tokens": [
+                50905,
+                597,
+                307,
+                428,
+                3539,
+                4722,
+                2614,
+                294,
+                264,
+                957,
+                1002,
+                13,
+                51017
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 73.42,
+            "id": 22,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 69.18,
+            "temperature": 0,
+            "text": " Create a Dockerfile, and use from to start from an existing template, like Ubuntu.",
+            "tokens": [
+                51035,
+                20248,
+                257,
+                33772,
+                69,
+                794,
+                11,
+                293,
+                764,
+                490,
+                281,
+                722,
+                490,
+                364,
+                6741,
+                12379,
+                11,
+                411,
+                30230,
+                45605,
+                13,
+                51234
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 75.64,
+            "id": 23,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 73.6,
+            "temperature": 0,
+            "text": " This base image gets pulled down from the cloud,",
+            "tokens": [
+                51244,
+                639,
+                3096,
+                3256,
+                2170,
+                7373,
+                760,
+                490,
+                264,
+                4588,
+                11,
+                51348
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 79.54,
+            "id": 24,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 75.8,
+            "temperature": 0,
+            "text": " and you can also upload your own images to a variety of different Docker registries.",
+            "tokens": [
+                51356,
+                293,
+                291,
+                393,
+                611,
+                6580,
+                428,
+                1065,
+                5267,
+                281,
+                257,
+                5673,
+                295,
+                819,
+                33772,
+                11376,
+                2244,
+                13,
+                51540
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 82.32,
+            "id": 25,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 79.66,
+            "temperature": 0,
+            "text": " From there, you might want to use run to run a terminal command",
+            "tokens": [
+                51552,
+                3358,
+                456,
+                11,
+                291,
+                1062,
+                528,
+                281,
+                764,
+                1190,
+                281,
+                1190,
+                257,
+                14709,
+                5622,
+                51683
+            ]
+        },
+        {
+            "avg_logprob": -0.09251077586206896,
+            "compression_ratio": 1.7655786350148368,
+            "end": 84.24,
+            "id": 26,
+            "no_speech_prob": 0.001224517822265625,
+            "seek": 8424,
+            "start": 82.32,
+            "temperature": 0,
+            "text": " that installs dependencies into your image.",
+            "tokens": [
+                51683,
+                300,
+                3625,
+                82,
+                36606,
+                666,
+                428,
+                3256,
+                13,
+                51777
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 87.04,
+            "id": 27,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 84.24,
+            "temperature": 0,
+            "text": " You can set environment variables, and do all kinds of other stuff.",
+            "tokens": [
+                50365,
+                509,
+                393,
+                992,
+                2823,
+                9102,
+                11,
+                293,
+                360,
+                439,
+                3685,
+                295,
+                661,
+                1507,
+                13,
+                50509
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 91.12,
+            "id": 28,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 87.22,
+            "temperature": 0,
+            "text": " Then the last thing you'll do is set a default command that's executed when you start up a container.",
+            "tokens": [
+                50509,
+                1396,
+                264,
+                1036,
+                551,
+                291,
+                603,
+                360,
+                307,
+                992,
+                257,
+                7576,
+                5622,
+                300,
+                311,
+                17577,
+                562,
+                291,
+                722,
+                493,
+                257,
+                10129,
+                13,
+                50715
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 94.5,
+            "id": 29,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 91.36,
+            "temperature": 0,
+            "text": " And now, we can create the image file by running the docker build command.",
+            "tokens": [
+                50715,
+                400,
+                586,
+                11,
+                321,
+                393,
+                1884,
+                264,
+                3256,
+                3991,
+                538,
+                2614,
+                264,
+                360,
+                9178,
+                1322,
+                5622,
+                13,
+                50888
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 98.24,
+            "id": 30,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 94.78,
+            "temperature": 0,
+            "text": " It goes through each step in our Dockerfile to build the image layer by layer.",
+            "tokens": [
+                50888,
+                467,
+                1709,
+                807,
+                1184,
+                1823,
+                294,
+                527,
+                33772,
+                69,
+                794,
+                281,
+                1322,
+                264,
+                3256,
+                4583,
+                538,
+                4583,
+                13,
+                51068
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 102.18,
+            "id": 31,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 98.42,
+            "temperature": 0,
+            "text": " We can then bring this image to life as a container with the docker run command.",
+            "tokens": [
+                51074,
+                492,
+                393,
+                550,
+                1565,
+                341,
+                3256,
+                281,
+                993,
+                382,
+                257,
+                10129,
+                365,
+                264,
+                360,
+                9178,
+                1190,
+                5622,
+                13,
+                51277
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 103.98,
+            "id": 32,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 102.48,
+            "temperature": 0,
+            "text": " As your app demands more resources,",
+            "tokens": [
+                51277,
+                1018,
+                428,
+                724,
+                15107,
+                544,
+                3593,
+                11,
+                51356
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 108.72,
+            "id": 33,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 104.2,
+            "temperature": 0,
+            "text": " you can run it on multiple machines, multiple clouds, on-prem, or wherever you want reliably.",
+            "tokens": [
+                51356,
+                291,
+                393,
+                1190,
+                309,
+                322,
+                3866,
+                8379,
+                11,
+                3866,
+                12193,
+                11,
+                322,
+                12,
+                29403,
+                11,
+                420,
+                8660,
+                291,
+                528,
+                49927,
+                13,
+                51608
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 111.14,
+            "id": 34,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 109.2,
+            "temperature": 0,
+            "text": " This has been Docker in 100 seconds.",
+            "tokens": [
+                51608,
+                639,
+                575,
+                668,
+                33772,
+                294,
+                2319,
+                3949,
+                13,
+                51718
+            ]
+        },
+        {
+            "avg_logprob": -0.2157643312101911,
+            "compression_ratio": 1.7353760445682451,
+            "end": 113.28,
+            "id": 35,
+            "no_speech_prob": 0.01203155517578125,
+            "seek": 11328,
+            "start": 111.34,
+            "temperature": 0,
+            "text": " If you enjoyed it, make sure to like and subscribe,",
+            "tokens": [
+                51718,
+                759,
+                291,
+                4626,
+                309,
+                11,
+                652,
+                988,
+                281,
+                411,
+                293,
+                3022,
+                11,
+                51833
+            ]
+        },
+        {
+            "avg_logprob": -0.2296142578125,
+            "compression_ratio": 1.1923076923076923,
+            "end": 116.28,
+            "id": 36,
+            "no_speech_prob": 0.09344482421875,
+            "seek": 12652,
+            "start": 113.28,
+            "temperature": 0,
+            "text": " and stay tuned for more Docker content coming to this channel soon.",
+            "tokens": [
+                50365,
+                293,
+                1754,
+                10870,
+                337,
+                544,
+                33772,
+                2701,
+                1348,
+                281,
+                341,
+                2269,
+                2321,
+                13,
+                50530
+            ]
+        },
+        {
+            "avg_logprob": -0.2296142578125,
+            "compression_ratio": 1.1923076923076923,
+            "end": 118.98,
+            "id": 37,
+            "no_speech_prob": 0.09344482421875,
+            "seek": 12652,
+            "start": 116.56,
+            "temperature": 0,
+            "text": " Thanks for watching, and I will see you in the next one.",
+            "tokens": [
+                50530,
+                2561,
+                337,
+                1976,
+                11,
+                293,
+                286,
+                486,
+                536,
+                291,
+                294,
+                264,
+                958,
+                472,
+                13,
+                50665
+            ]
+        }
+    ],
+    "transcription": "Docker, a tool that can package software into containers that run reliably in any environment.\nBut what is a container, and why do you need one?\nLet's imagine you built an app with COBOL that runs on some weird flavor of Linux.\nYou want to share this app with your friend, but he has an entirely different system.\nSo the problem becomes, how do we replicate the environment our software needs on any machine?\nOne way to package an app is with a virtual machine,\nwhere the hardware is simulated, then installed with the required OS and dependencies.\nThis allows us to run multiple apps on the same infrastructure.\nHowever, because each VM is running its own operating system, they tend to be bulky and slow.\nNow, a Docker container is conceptually very similar to a VM, with one key difference.\nInstead of virtualizing hardware, containers only virtualize the OS.\nOr in other words, all apps or containers are run by a single kernel,\nand this makes almost everything faster and more efficient.\nThere are three fundamental elements in the universe of Docker.\nThe Dockerfile, the image, and the container.\nThe Dockerfile is like DNA.\nIt's just code that tells Docker,\nhow to build an image, which itself is a snapshot of your software,\nalong with all of its dependencies down to the operating system level.\nThe image is immutable, and it can be used to spin up multiple containers,\nwhich is your actual software running in the real world.\nCreate a Dockerfile, and use from to start from an existing template, like Ubuntu.\nThis base image gets pulled down from the cloud,\nand you can also upload your own images to a variety of different Docker registries.\nFrom there, you might want to use run to run a terminal command\nthat installs dependencies into your image.\nYou can set environment variables, and do all kinds of other stuff.\nThen the last thing you'll do is set a default command that's executed when you start up a container.\nAnd now, we can create the image file by running the docker build command.\nIt goes through each step in our Dockerfile to build the image layer by layer.\nWe can then bring this image to life as a container with the docker run command.\nAs your app demands more resources,\nyou can run it on multiple machines, multiple clouds, on-prem, or wherever you want reliably.\nThis has been Docker in 100 seconds.\nIf you enjoyed it, make sure to like and subscribe,\nand stay tuned for more Docker content coming to this channel soon.\nThanks for watching, and I will see you in the next one.",
+    "translation": "1\n00:00:00,280 --> 00:00:05,480\nDocker, a tool that can package software into containers that run reliably in any environment.\n\n2\n00:00:05,480 --> 00:00:07,480\nBut what is a container, and why do you need one?\n\n3\n00:00:07,480 --> 00:00:10,960\nLet's imagine you built an app with COBOL that runs on some weird flavor of Linux.\n\n4\n00:00:10,960 --> 00:00:13,960\nYou want to share this app with your friend, but he has an entirely different system.\n\n5\n00:00:13,960 --> 00:00:17,600\nSo the problem becomes, how do we replicate the environment our software needs on any\n\n6\n00:00:17,600 --> 00:00:18,600\nmachine?\n\n7\n00:00:18,600 --> 00:00:21,640\nOne way to package an app is with a virtual machine, where the hardware is simulated,\n\n8\n00:00:21,640 --> 00:00:24,440\nthen installed with the required OS and dependencies.\n\n9\n00:00:24,440 --> 00:00:28,160\nThis allows us to run multiple apps on the same infrastructure, however, because each\n\n10\n00:00:28,160 --> 00:00:32,040\nVM is running its own operating system, they tend to be bulky and slow.\n\n11\n00:00:32,040 --> 00:00:37,000\nNow, a Docker container is conceptually very similar to a VM, with one key difference.\n\n12\n00:00:37,000 --> 00:00:40,560\nInstead of virtualizing hardware, containers only virtualize the OS.\n\n13\n00:00:40,560 --> 00:00:44,560\nOr in other words, all apps or containers are run by a single kernel, and this makes\n\n14\n00:00:44,560 --> 00:00:46,940\nalmost everything faster and more efficient.\n\n15\n00:00:46,940 --> 00:00:49,880\nThere are three fundamental elements in the universe of Docker.\n\n16\n00:00:49,880 --> 00:00:52,860\nThe Dockerfile, the image, and the container.\n\n17\n00:00:52,860 --> 00:00:58,020\nThe Dockerfile is like DNA, it's just code that tells Docker how to build an image, which\n\n18\n00:00:58,020 --> 00:01:02,060\nitself is a snapshot of your software, along with all of its dependencies down to the\n\n19\n00:01:02,060 --> 00:01:03,340\noperating system level.\n\n20\n00:01:03,340 --> 00:01:07,240\nThe image is immutable, and it can be used to spin up multiple containers, which is your\n\n21\n00:01:07,240 --> 00:01:09,680\nactual software running in the real world.\n\n22\n00:01:09,680 --> 00:01:13,840\nCreate a Dockerfile, and use from to start from an existing template, like Ubuntu.\n\n23\n00:01:13,840 --> 00:01:17,660\nThis base image gets pulled down from the cloud, and you can also upload your own images\n\n24\n00:01:17,660 --> 00:01:20,020\nto a variety of different Docker registries.\n\n25\n00:01:20,020 --> 00:01:23,660\nFrom there, you might want to use run to run a terminal command that installs dependencies\n\n26\n00:01:23,660 --> 00:01:24,660\ninto your image.\n\n27\n00:01:24,660 --> 00:01:27,900\nYou can set environment variables and do all kinds of other stuff, then the last thing\n\n28\n00:01:27,900 --> 00:01:31,660\nyou'll do is set a default command that's executed when you start up a container.\n\n29\n00:01:31,660 --> 00:01:35,040\nAnd now, we can create the image file by running the docker build command.\n\n30\n00:01:35,040 --> 00:01:38,860\nIt goes through each step in our Dockerfile to build the image layer by layer.\n\n31\n00:01:38,860 --> 00:01:42,780\nWe can then bring this image to life as a container with the docker run command.\n\n32\n00:01:42,780 --> 00:01:47,020\nAs your app demands more resources, you can run it on multiple machines, multiple clouds,\n\n33\n00:01:47,020 --> 00:01:49,500\non-prem, or wherever you want reliably.\n\n34\n00:01:49,500 --> 00:01:51,540\nThis has been Docker in 100 seconds.\n\n35\n00:01:51,540 --> 00:01:55,600\nIf you enjoyed it, make sure to like and subscribe, and stay tuned for more Docker content coming\n\n36\n00:01:55,600 --> 00:01:56,780\nto this channel soon.\n\n37\n00:01:56,780 --> 00:01:57,780\nThanks for watching.\n\n38\n00:01:57,780 --> 00:01:59,020\nAnd I will see you in the next one.\n\n",
+    "word_timestamps": [
+        {
+            "end": 0.58,
+            "start": 0,
+            "word": " Docker,"
+        },
+        {
+            "end": 0.96,
+            "start": 0.68,
+            "word": " a"
+        },
+        {
+            "end": 1.2,
+            "start": 0.96,
+            "word": " tool"
+        },
+        {
+            "end": 1.32,
+            "start": 1.2,
+            "word": " that"
+        },
+        {
+            "end": 1.42,
+            "start": 1.32,
+            "word": " can"
+        },
+        {
+            "end": 1.74,
+            "start": 1.42,
+            "word": " package"
+        },
+        {
+            "end": 2.02,
+            "start": 1.74,
+            "word": " software"
+        },
+        {
+            "end": 2.42,
+            "start": 2.02,
+            "word": " into"
+        },
+        {
+            "end": 2.88,
+            "start": 2.42,
+            "word": " containers"
+        },
+        {
+            "end": 3.2,
+            "start": 2.88,
+            "word": " that"
+        },
+        {
+            "end": 3.4,
+            "start": 3.2,
+            "word": " run"
+        },
+        {
+            "end": 3.86,
+            "start": 3.4,
+            "word": " reliably"
+        },
+        {
+            "end": 4.28,
+            "start": 3.86,
+            "word": " in"
+        },
+        {
+            "end": 4.54,
+            "start": 4.28,
+            "word": " any"
+        },
+        {
+            "end": 4.96,
+            "start": 4.54,
+            "word": " environment."
+        },
+        {
+            "end": 5.48,
+            "start": 5.2,
+            "word": " But"
+        },
+        {
+            "end": 5.62,
+            "start": 5.48,
+            "word": " what"
+        },
+        {
+            "end": 5.72,
+            "start": 5.62,
+            "word": " is"
+        },
+        {
+            "end": 5.76,
+            "start": 5.72,
+            "word": " a"
+        },
+        {
+            "end": 6.1,
+            "start": 5.76,
+            "word": " container,"
+        },
+        {
+            "end": 6.48,
+            "start": 6.32,
+            "word": " and"
+        },
+        {
+            "end": 6.66,
+            "start": 6.48,
+            "word": " why"
+        },
+        {
+            "end": 6.78,
+            "start": 6.66,
+            "word": " do"
+        },
+        {
+            "end": 6.86,
+            "start": 6.78,
+            "word": " you"
+        },
+        {
+            "end": 7.02,
+            "start": 6.86,
+            "word": " need"
+        },
+        {
+            "end": 7.2,
+            "start": 7.02,
+            "word": " one?"
+        },
+        {
+            "end": 7.54,
+            "start": 7.32,
+            "word": " Let's"
+        },
+        {
+            "end": 7.76,
+            "start": 7.54,
+            "word": " imagine"
+        },
+        {
+            "end": 7.92,
+            "start": 7.76,
+            "word": " you"
+        },
+        {
+            "end": 8.08,
+            "start": 7.92,
+            "word": " built"
+        },
+        {
+            "end": 8.18,
+            "start": 8.08,
+            "word": " an"
+        },
+        {
+            "end": 8.32,
+            "start": 8.18,
+            "word": " app"
+        },
+        {
+            "end": 8.4,
+            "start": 8.32,
+            "word": " with"
+        },
+        {
+            "end": 8.76,
+            "start": 8.4,
+            "word": " COBOL"
+        },
+        {
+            "end": 8.94,
+            "start": 8.76,
+            "word": " that"
+        },
+        {
+            "end": 9.18,
+            "start": 8.94,
+            "word": " runs"
+        },
+        {
+            "end": 9.34,
+            "start": 9.18,
+            "word": " on"
+        },
+        {
+            "end": 9.52,
+            "start": 9.34,
+            "word": " some"
+        },
+        {
+            "end": 9.78,
+            "start": 9.52,
+            "word": " weird"
+        },
+        {
+            "end": 10.06,
+            "start": 9.78,
+            "word": " flavor"
+        },
+        {
+            "end": 10.26,
+            "start": 10.06,
+            "word": " of"
+        },
+        {
+            "end": 10.48,
+            "start": 10.26,
+            "word": " Linux."
+        },
+        {
+            "end": 10.94,
+            "start": 10.72,
+            "word": " You"
+        },
+        {
+            "end": 11.06,
+            "start": 10.94,
+            "word": " want"
+        },
+        {
+            "end": 11.14,
+            "start": 11.06,
+            "word": " to"
+        },
+        {
+            "end": 11.26,
+            "start": 11.14,
+            "word": " share"
+        },
+        {
+            "end": 11.38,
+            "start": 11.26,
+            "word": " this"
+        },
+        {
+            "end": 11.54,
+            "start": 11.38,
+            "word": " app"
+        },
+        {
+            "end": 11.66,
+            "start": 11.54,
+            "word": " with"
+        },
+        {
+            "end": 11.78,
+            "start": 11.66,
+            "word": " your"
+        },
+        {
+            "end": 12.04,
+            "start": 11.78,
+            "word": " friend,"
+        },
+        {
+            "end": 12.34,
+            "start": 12.14,
+            "word": " but"
+        },
+        {
+            "end": 12.42,
+            "start": 12.34,
+            "word": " he"
+        },
+        {
+            "end": 12.56,
+            "start": 12.42,
+            "word": " has"
+        },
+        {
+            "end": 12.66,
+            "start": 12.56,
+            "word": " an"
+        },
+        {
+            "end": 12.9,
+            "start": 12.66,
+            "word": " entirely"
+        },
+        {
+            "end": 13.2,
+            "start": 12.9,
+            "word": " different"
+        },
+        {
+            "end": 13.6,
+            "start": 13.2,
+            "word": " system."
+        },
+        {
+            "end": 13.96,
+            "start": 13.8,
+            "word": " So"
+        },
+        {
+            "end": 14.06,
+            "start": 13.96,
+            "word": " the"
+        },
+        {
+            "end": 14.3,
+            "start": 14.06,
+            "word": " problem"
+        },
+        {
+            "end": 14.62,
+            "start": 14.3,
+            "word": " becomes,"
+        },
+        {
+            "end": 15.04,
+            "start": 14.82,
+            "word": " how"
+        },
+        {
+            "end": 15.14,
+            "start": 15.04,
+            "word": " do"
+        },
+        {
+            "end": 15.24,
+            "start": 15.14,
+            "word": " we"
+        },
+        {
+            "end": 15.58,
+            "start": 15.24,
+            "word": " replicate"
+        },
+        {
+            "end": 15.84,
+            "start": 15.58,
+            "word": " the"
+        },
+        {
+            "end": 16.12,
+            "start": 15.84,
+            "word": " environment"
+        },
+        {
+            "end": 16.32,
+            "start": 16.12,
+            "word": " our"
+        },
+        {
+            "end": 16.58,
+            "start": 16.32,
+            "word": " software"
+        },
+        {
+            "end": 16.9,
+            "start": 16.58,
+            "word": " needs"
+        },
+        {
+            "end": 17.22,
+            "start": 16.9,
+            "word": " on"
+        },
+        {
+            "end": 17.5,
+            "start": 17.22,
+            "word": " any"
+        },
+        {
+            "end": 17.8,
+            "start": 17.5,
+            "word": " machine?"
+        },
+        {
+            "end": 18.16,
+            "start": 17.98,
+            "word": " One"
+        },
+        {
+            "end": 18.28,
+            "start": 18.16,
+            "word": " way"
+        },
+        {
+            "end": 18.36,
+            "start": 18.28,
+            "word": " to"
+        },
+        {
+            "end": 18.62,
+            "start": 18.36,
+            "word": " package"
+        },
+        {
+            "end": 18.76,
+            "start": 18.62,
+            "word": " an"
+        },
+        {
+            "end": 18.9,
+            "start": 18.76,
+            "word": " app"
+        },
+        {
+            "end": 19.08,
+            "start": 18.9,
+            "word": " is"
+        },
+        {
+            "end": 19.22,
+            "start": 19.08,
+            "word": " with"
+        },
+        {
+            "end": 19.32,
+            "start": 19.22,
+            "word": " a"
+        },
+        {
+            "end": 19.58,
+            "start": 19.32,
+            "word": " virtual"
+        },
+        {
+            "end": 19.92,
+            "start": 19.58,
+            "word": " machine,"
+        },
+        {
+            "end": 20.34,
+            "start": 20.12,
+            "word": " where"
+        },
+        {
+            "end": 20.44,
+            "start": 20.34,
+            "word": " the"
+        },
+        {
+            "end": 20.68,
+            "start": 20.44,
+            "word": " hardware"
+        },
+        {
+            "end": 20.84,
+            "start": 20.68,
+            "word": " is"
+        },
+        {
+            "end": 21.14,
+            "start": 20.84,
+            "word": " simulated,"
+        },
+        {
+            "end": 21.64,
+            "start": 21.44,
+            "word": " then"
+        },
+        {
+            "end": 21.96,
+            "start": 21.64,
+            "word": " installed"
+        },
+        {
+            "end": 22.22,
+            "start": 21.96,
+            "word": " with"
+        },
+        {
+            "end": 22.28,
+            "start": 22.22,
+            "word": " the"
+        },
+        {
+            "end": 22.58,
+            "start": 22.28,
+            "word": " required"
+        },
+        {
+            "end": 23.04,
+            "start": 22.58,
+            "word": " OS"
+        },
+        {
+            "end": 23.32,
+            "start": 23.04,
+            "word": " and"
+        },
+        {
+            "end": 23.68,
+            "start": 23.32,
+            "word": " dependencies."
+        },
+        {
+            "end": 24.42,
+            "start": 24.06,
+            "word": " This"
+        },
+        {
+            "end": 24.62,
+            "start": 24.42,
+            "word": " allows"
+        },
+        {
+            "end": 24.84,
+            "start": 24.62,
+            "word": " us"
+        },
+        {
+            "end": 24.94,
+            "start": 24.84,
+            "word": " to"
+        },
+        {
+            "end": 25.06,
+            "start": 24.94,
+            "word": " run"
+        },
+        {
+            "end": 25.32,
+            "start": 25.06,
+            "word": " multiple"
+        },
+        {
+            "end": 25.62,
+            "start": 25.32,
+            "word": " apps"
+        },
+        {
+            "end": 25.88,
+            "start": 25.62,
+            "word": " on"
+        },
+        {
+            "end": 26,
+            "start": 25.88,
+            "word": " the"
+        },
+        {
+            "end": 26.12,
+            "start": 26,
+            "word": " same"
+        },
+        {
+            "end": 26.58,
+            "start": 26.12,
+            "word": " infrastructure."
+        },
+        {
+            "end": 27.16,
+            "start": 26.58,
+            "word": " However,"
+        },
+        {
+            "end": 27.84,
+            "start": 27.52,
+            "word": " because"
+        },
+        {
+            "end": 28.14,
+            "start": 27.84,
+            "word": " each"
+        },
+        {
+            "end": 28.44,
+            "start": 28.14,
+            "word": " VM"
+        },
+        {
+            "end": 28.76,
+            "start": 28.44,
+            "word": " is"
+        },
+        {
+            "end": 29.02,
+            "start": 28.76,
+            "word": " running"
+        },
+        {
+            "end": 29.18,
+            "start": 29.02,
+            "word": " its"
+        },
+        {
+            "end": 29.32,
+            "start": 29.18,
+            "word": " own"
+        },
+        {
+            "end": 29.68,
+            "start": 29.32,
+            "word": " operating"
+        },
+        {
+            "end": 30.04,
+            "start": 29.68,
+            "word": " system,"
+        },
+        {
+            "end": 30.5,
+            "start": 30.34,
+            "word": " they"
+        },
+        {
+            "end": 30.7,
+            "start": 30.5,
+            "word": " tend"
+        },
+        {
+            "end": 30.8,
+            "start": 30.7,
+            "word": " to"
+        },
+        {
+            "end": 30.92,
+            "start": 30.8,
+            "word": " be"
+        },
+        {
+            "end": 31.24,
+            "start": 30.92,
+            "word": " bulky"
+        },
+        {
+            "end": 31.44,
+            "start": 31.24,
+            "word": " and"
+        },
+        {
+            "end": 31.72,
+            "start": 31.44,
+            "word": " slow."
+        },
+        {
+            "end": 32.32,
+            "start": 31.92,
+            "word": " Now,"
+        },
+        {
+            "end": 32.48,
+            "start": 32.34,
+            "word": " a"
+        },
+        {
+            "end": 32.74,
+            "start": 32.48,
+            "word": " Docker"
+        },
+        {
+            "end": 33.02,
+            "start": 32.74,
+            "word": " container"
+        },
+        {
+            "end": 33.46,
+            "start": 33.02,
+            "word": " is"
+        },
+        {
+            "end": 34.08,
+            "start": 33.46,
+            "word": " conceptually"
+        },
+        {
+            "end": 34.28,
+            "start": 34.08,
+            "word": " very"
+        },
+        {
+            "end": 34.6,
+            "start": 34.28,
+            "word": " similar"
+        },
+        {
+            "end": 34.8,
+            "start": 34.6,
+            "word": " to"
+        },
+        {
+            "end": 34.92,
+            "start": 34.8,
+            "word": " a"
+        },
+        {
+            "end": 35.16,
+            "start": 34.92,
+            "word": " VM,"
+        },
+        {
+            "end": 35.54,
+            "start": 35.32,
+            "word": " with"
+        },
+        {
+            "end": 35.7,
+            "start": 35.54,
+            "word": " one"
+        },
+        {
+            "end": 35.92,
+            "start": 35.7,
+            "word": " key"
+        },
+        {
+            "end": 36.22,
+            "start": 35.92,
+            "word": " difference."
+        },
+        {
+            "end": 36.88,
+            "start": 36.5,
+            "word": " Instead"
+        },
+        {
+            "end": 37.08,
+            "start": 36.88,
+            "word": " of"
+        },
+        {
+            "end": 37.52,
+            "start": 37.08,
+            "word": " virtualizing"
+        },
+        {
+            "end": 37.8,
+            "start": 37.52,
+            "word": " hardware,"
+        },
+        {
+            "end": 38.44,
+            "start": 38.12,
+            "word": " containers"
+        },
+        {
+            "end": 38.78,
+            "start": 38.44,
+            "word": " only"
+        },
+        {
+            "end": 39.46,
+            "start": 38.78,
+            "word": " virtualize"
+        },
+        {
+            "end": 39.6,
+            "start": 39.46,
+            "word": " the"
+        },
+        {
+            "end": 39.86,
+            "start": 39.6,
+            "word": " OS."
+        },
+        {
+            "end": 40.52,
+            "start": 40.2,
+            "word": " Or"
+        },
+        {
+            "end": 40.6,
+            "start": 40.52,
+            "word": " in"
+        },
+        {
+            "end": 40.76,
+            "start": 40.6,
+            "word": " other"
+        },
+        {
+            "end": 41.1,
+            "start": 40.76,
+            "word": " words,"
+        },
+        {
+            "end": 41.4,
+            "start": 41.18,
+            "word": " all"
+        },
+        {
+            "end": 41.78,
+            "start": 41.4,
+            "word": " apps"
+        },
+        {
+            "end": 41.96,
+            "start": 41.78,
+            "word": " or"
+        },
+        {
+            "end": 42.36,
+            "start": 41.96,
+            "word": " containers"
+        },
+        {
+            "end": 42.72,
+            "start": 42.36,
+            "word": " are"
+        },
+        {
+            "end": 42.9,
+            "start": 42.72,
+            "word": " run"
+        },
+        {
+            "end": 43.08,
+            "start": 42.9,
+            "word": " by"
+        },
+        {
+            "end": 43.22,
+            "start": 43.08,
+            "word": " a"
+        },
+        {
+            "end": 43.5,
+            "start": 43.22,
+            "word": " single"
+        },
+        {
+            "end": 43.9,
+            "start": 43.5,
+            "word": " kernel,"
+        },
+        {
+            "end": 44.22,
+            "start": 44.04,
+            "word": " and"
+        },
+        {
+            "end": 44.32,
+            "start": 44.22,
+            "word": " this"
+        },
+        {
+            "end": 44.5,
+            "start": 44.32,
+            "word": " makes"
+        },
+        {
+            "end": 44.7,
+            "start": 44.5,
+            "word": " almost"
+        },
+        {
+            "end": 45.1,
+            "start": 44.7,
+            "word": " everything"
+        },
+        {
+            "end": 45.66,
+            "start": 45.1,
+            "word": " faster"
+        },
+        {
+            "end": 45.86,
+            "start": 45.66,
+            "word": " and"
+        },
+        {
+            "end": 45.96,
+            "start": 45.86,
+            "word": " more"
+        },
+        {
+            "end": 46.3,
+            "start": 45.96,
+            "word": " efficient."
+        },
+        {
+            "end": 46.92,
+            "start": 46.52,
+            "word": " There"
+        },
+        {
+            "end": 47.08,
+            "start": 46.92,
+            "word": " are"
+        },
+        {
+            "end": 47.28,
+            "start": 47.08,
+            "word": " three"
+        },
+        {
+            "end": 47.66,
+            "start": 47.28,
+            "word": " fundamental"
+        },
+        {
+            "end": 48.1,
+            "start": 47.66,
+            "word": " elements"
+        },
+        {
+            "end": 48.42,
+            "start": 48.1,
+            "word": " in"
+        },
+        {
+            "end": 48.5,
+            "start": 48.42,
+            "word": " the"
+        },
+        {
+            "end": 48.82,
+            "start": 48.5,
+            "word": " universe"
+        },
+        {
+            "end": 49.02,
+            "start": 48.82,
+            "word": " of"
+        },
+        {
+            "end": 49.3,
+            "start": 49.02,
+            "word": " Docker."
+        },
+        {
+            "end": 49.88,
+            "start": 49.48,
+            "word": " The"
+        },
+        {
+            "end": 50.5,
+            "start": 49.88,
+            "word": " Dockerfile,"
+        },
+        {
+            "end": 50.98,
+            "start": 50.62,
+            "word": " the"
+        },
+        {
+            "end": 51.28,
+            "start": 50.98,
+            "word": " image,"
+        },
+        {
+            "end": 51.8,
+            "start": 51.5,
+            "word": " and"
+        },
+        {
+            "end": 51.88,
+            "start": 51.8,
+            "word": " the"
+        },
+        {
+            "end": 52.2,
+            "start": 51.88,
+            "word": " container."
+        },
+        {
+            "end": 52.86,
+            "start": 52.46,
+            "word": " The"
+        },
+        {
+            "end": 53.36,
+            "start": 52.86,
+            "word": " Dockerfile"
+        },
+        {
+            "end": 53.68,
+            "start": 53.36,
+            "word": " is"
+        },
+        {
+            "end": 53.84,
+            "start": 53.68,
+            "word": " like"
+        },
+        {
+            "end": 54.14,
+            "start": 53.84,
+            "word": " DNA."
+        },
+        {
+            "end": 54.72,
+            "start": 54.38,
+            "word": " It's"
+        },
+        {
+            "end": 54.88,
+            "start": 54.72,
+            "word": " just"
+        },
+        {
+            "end": 55.2,
+            "start": 54.88,
+            "word": " code"
+        },
+        {
+            "end": 55.56,
+            "start": 55.2,
+            "word": " that"
+        },
+        {
+            "end": 55.78,
+            "start": 55.56,
+            "word": " tells"
+        },
+        {
+            "end": 56.12,
+            "start": 55.78,
+            "word": " Docker,"
+        },
+        {
+            "end": 56.46,
+            "start": 56.12,
+            "word": " how"
+        },
+        {
+            "end": 56.72,
+            "start": 56.46,
+            "word": " to"
+        },
+        {
+            "end": 57.14,
+            "start": 56.72,
+            "word": " build"
+        },
+        {
+            "end": 57.4,
+            "start": 57.14,
+            "word": " an"
+        },
+        {
+            "end": 57.7,
+            "start": 57.4,
+            "word": " image,"
+        },
+        {
+            "end": 58.02,
+            "start": 57.82,
+            "word": " which"
+        },
+        {
+            "end": 58.26,
+            "start": 58.02,
+            "word": " itself"
+        },
+        {
+            "end": 58.54,
+            "start": 58.26,
+            "word": " is"
+        },
+        {
+            "end": 58.64,
+            "start": 58.54,
+            "word": " a"
+        },
+        {
+            "end": 59.02,
+            "start": 58.64,
+            "word": " snapshot"
+        },
+        {
+            "end": 59.32,
+            "start": 59.02,
+            "word": " of"
+        },
+        {
+            "end": 59.46,
+            "start": 59.32,
+            "word": " your"
+        },
+        {
+            "end": 59.9,
+            "start": 59.46,
+            "word": " software,"
+        },
+        {
+            "end": 60.3,
+            "start": 60.04,
+            "word": " along"
+        },
+        {
+            "end": 60.52,
+            "start": 60.3,
+            "word": " with"
+        },
+        {
+            "end": 60.7,
+            "start": 60.52,
+            "word": " all"
+        },
+        {
+            "end": 60.8,
+            "start": 60.7,
+            "word": " of"
+        },
+        {
+            "end": 60.9,
+            "start": 60.8,
+            "word": " its"
+        },
+        {
+            "end": 61.28,
+            "start": 60.9,
+            "word": " dependencies"
+        },
+        {
+            "end": 61.78,
+            "start": 61.28,
+            "word": " down"
+        },
+        {
+            "end": 61.92,
+            "start": 61.78,
+            "word": " to"
+        },
+        {
+            "end": 62.02,
+            "start": 61.92,
+            "word": " the"
+        },
+        {
+            "end": 62.38,
+            "start": 62.02,
+            "word": " operating"
+        },
+        {
+            "end": 62.68,
+            "start": 62.38,
+            "word": " system"
+        },
+        {
+            "end": 63.04,
+            "start": 62.68,
+            "word": " level."
+        },
+        {
+            "end": 63.34,
+            "start": 63.16,
+            "word": " The"
+        },
+        {
+            "end": 63.64,
+            "start": 63.34,
+            "word": " image"
+        },
+        {
+            "end": 63.86,
+            "start": 63.64,
+            "word": " is"
+        },
+        {
+            "end": 64.2,
+            "start": 63.86,
+            "word": " immutable,"
+        },
+        {
+            "end": 64.64,
+            "start": 64.32,
+            "word": " and"
+        },
+        {
+            "end": 64.72,
+            "start": 64.64,
+            "word": " it"
+        },
+        {
+            "end": 64.8,
+            "start": 64.72,
+            "word": " can"
+        },
+        {
+            "end": 64.9,
+            "start": 64.8,
+            "word": " be"
+        },
+        {
+            "end": 65.24,
+            "start": 64.9,
+            "word": " used"
+        },
+        {
+            "end": 65.46,
+            "start": 65.24,
+            "word": " to"
+        },
+        {
+            "end": 65.68,
+            "start": 65.46,
+            "word": " spin"
+        },
+        {
+            "end": 65.78,
+            "start": 65.68,
+            "word": " up"
+        },
+        {
+            "end": 66.02,
+            "start": 65.78,
+            "word": " multiple"
+        },
+        {
+            "end": 66.52,
+            "start": 66.02,
+            "word": " containers,"
+        },
+        {
+            "end": 66.98,
+            "start": 66.66,
+            "word": " which"
+        },
+        {
+            "end": 67.06,
+            "start": 66.98,
+            "word": " is"
+        },
+        {
+            "end": 67.2,
+            "start": 67.06,
+            "word": " your"
+        },
+        {
+            "end": 67.48,
+            "start": 67.2,
+            "word": " actual"
+        },
+        {
+            "end": 67.86,
+            "start": 67.48,
+            "word": " software"
+        },
+        {
+            "end": 68.28,
+            "start": 67.86,
+            "word": " running"
+        },
+        {
+            "end": 68.54,
+            "start": 68.28,
+            "word": " in"
+        },
+        {
+            "end": 68.62,
+            "start": 68.54,
+            "word": " the"
+        },
+        {
+            "end": 68.78,
+            "start": 68.62,
+            "word": " real"
+        },
+        {
+            "end": 69.08,
+            "start": 68.78,
+            "word": " world."
+        },
+        {
+            "end": 69.58,
+            "start": 69.18,
+            "word": " Create"
+        },
+        {
+            "end": 69.7,
+            "start": 69.58,
+            "word": " a"
+        },
+        {
+            "end": 70.18,
+            "start": 69.7,
+            "word": " Dockerfile,"
+        },
+        {
+            "end": 70.6,
+            "start": 70.32,
+            "word": " and"
+        },
+        {
+            "end": 70.74,
+            "start": 70.6,
+            "word": " use"
+        },
+        {
+            "end": 70.94,
+            "start": 70.74,
+            "word": " from"
+        },
+        {
+            "end": 71.34,
+            "start": 70.94,
+            "word": " to"
+        },
+        {
+            "end": 71.52,
+            "start": 71.34,
+            "word": " start"
+        },
+        {
+            "end": 71.76,
+            "start": 71.52,
+            "word": " from"
+        },
+        {
+            "end": 71.86,
+            "start": 71.76,
+            "word": " an"
+        },
+        {
+            "end": 72.12,
+            "start": 71.86,
+            "word": " existing"
+        },
+        {
+            "end": 72.62,
+            "start": 72.12,
+            "word": " template,"
+        },
+        {
+            "end": 73,
+            "start": 72.8,
+            "word": " like"
+        },
+        {
+            "end": 73.42,
+            "start": 73,
+            "word": " Ubuntu."
+        },
+        {
+            "end": 73.8,
+            "start": 73.6,
+            "word": " This"
+        },
+        {
+            "end": 74,
+            "start": 73.8,
+            "word": " base"
+        },
+        {
+            "end": 74.22,
+            "start": 74,
+            "word": " image"
+        },
+        {
+            "end": 74.52,
+            "start": 74.22,
+            "word": " gets"
+        },
+        {
+            "end": 74.8,
+            "start": 74.52,
+            "word": " pulled"
+        },
+        {
+            "end": 75.04,
+            "start": 74.8,
+            "word": " down"
+        },
+        {
+            "end": 75.28,
+            "start": 75.04,
+            "word": " from"
+        },
+        {
+            "end": 75.44,
+            "start": 75.28,
+            "word": " the"
+        },
+        {
+            "end": 75.64,
+            "start": 75.44,
+            "word": " cloud,"
+        },
+        {
+            "end": 75.98,
+            "start": 75.8,
+            "word": " and"
+        },
+        {
+            "end": 76.1,
+            "start": 75.98,
+            "word": " you"
+        },
+        {
+            "end": 76.16,
+            "start": 76.1,
+            "word": " can"
+        },
+        {
+            "end": 76.38,
+            "start": 76.16,
+            "word": " also"
+        },
+        {
+            "end": 76.74,
+            "start": 76.38,
+            "word": " upload"
+        },
+        {
+            "end": 76.92,
+            "start": 76.74,
+            "word": " your"
+        },
+        {
+            "end": 77.14,
+            "start": 76.92,
+            "word": " own"
+        },
+        {
+            "end": 77.5,
+            "start": 77.14,
+            "word": " images"
+        },
+        {
+            "end": 77.74,
+            "start": 77.5,
+            "word": " to"
+        },
+        {
+            "end": 77.88,
+            "start": 77.74,
+            "word": " a"
+        },
+        {
+            "end": 78.18,
+            "start": 77.88,
+            "word": " variety"
+        },
+        {
+            "end": 78.38,
+            "start": 78.18,
+            "word": " of"
+        },
+        {
+            "end": 78.58,
+            "start": 78.38,
+            "word": " different"
+        },
+        {
+            "end": 78.92,
+            "start": 78.58,
+            "word": " Docker"
+        },
+        {
+            "end": 79.54,
+            "start": 78.92,
+            "word": " registries."
+        },
+        {
+            "end": 79.92,
+            "start": 79.66,
+            "word": " From"
+        },
+        {
+            "end": 80.14,
+            "start": 79.92,
+            "word": " there,"
+        },
+        {
+            "end": 80.42,
+            "start": 80.24,
+            "word": " you"
+        },
+        {
+            "end": 80.56,
+            "start": 80.42,
+            "word": " might"
+        },
+        {
+            "end": 80.68,
+            "start": 80.56,
+            "word": " want"
+        },
+        {
+            "end": 80.76,
+            "start": 80.68,
+            "word": " to"
+        },
+        {
+            "end": 80.9,
+            "start": 80.76,
+            "word": " use"
+        },
+        {
+            "end": 81.14,
+            "start": 80.9,
+            "word": " run"
+        },
+        {
+            "end": 81.44,
+            "start": 81.14,
+            "word": " to"
+        },
+        {
+            "end": 81.66,
+            "start": 81.44,
+            "word": " run"
+        },
+        {
+            "end": 81.78,
+            "start": 81.66,
+            "word": " a"
+        },
+        {
+            "end": 82.02,
+            "start": 81.78,
+            "word": " terminal"
+        },
+        {
+            "end": 82.32,
+            "start": 82.02,
+            "word": " command"
+        },
+        {
+            "end": 82.7,
+            "start": 82.32,
+            "word": " that"
+        },
+        {
+            "end": 83.08,
+            "start": 82.7,
+            "word": " installs"
+        },
+        {
+            "end": 83.36,
+            "start": 83.08,
+            "word": " dependencies"
+        },
+        {
+            "end": 83.84,
+            "start": 83.36,
+            "word": " into"
+        },
+        {
+            "end": 83.98,
+            "start": 83.84,
+            "word": " your"
+        },
+        {
+            "end": 84.24,
+            "start": 83.98,
+            "word": " image."
+        },
+        {
+            "end": 84.58,
+            "start": 84.24,
+            "word": " You"
+        },
+        {
+            "end": 84.7,
+            "start": 84.58,
+            "word": " can"
+        },
+        {
+            "end": 84.88,
+            "start": 84.7,
+            "word": " set"
+        },
+        {
+            "end": 85.14,
+            "start": 84.88,
+            "word": " environment"
+        },
+        {
+            "end": 85.56,
+            "start": 85.14,
+            "word": " variables,"
+        },
+        {
+            "end": 85.96,
+            "start": 85.78,
+            "word": " and"
+        },
+        {
+            "end": 86.12,
+            "start": 85.96,
+            "word": " do"
+        },
+        {
+            "end": 86.28,
+            "start": 86.12,
+            "word": " all"
+        },
+        {
+            "end": 86.46,
+            "start": 86.28,
+            "word": " kinds"
+        },
+        {
+            "end": 86.62,
+            "start": 86.46,
+            "word": " of"
+        },
+        {
+            "end": 86.78,
+            "start": 86.62,
+            "word": " other"
+        },
+        {
+            "end": 87.04,
+            "start": 86.78,
+            "word": " stuff."
+        },
+        {
+            "end": 87.42,
+            "start": 87.22,
+            "word": " Then"
+        },
+        {
+            "end": 87.52,
+            "start": 87.42,
+            "word": " the"
+        },
+        {
+            "end": 87.68,
+            "start": 87.52,
+            "word": " last"
+        },
+        {
+            "end": 87.86,
+            "start": 87.68,
+            "word": " thing"
+        },
+        {
+            "end": 87.98,
+            "start": 87.86,
+            "word": " you'll"
+        },
+        {
+            "end": 88.14,
+            "start": 87.98,
+            "word": " do"
+        },
+        {
+            "end": 88.4,
+            "start": 88.14,
+            "word": " is"
+        },
+        {
+            "end": 88.56,
+            "start": 88.4,
+            "word": " set"
+        },
+        {
+            "end": 88.68,
+            "start": 88.56,
+            "word": " a"
+        },
+        {
+            "end": 89,
+            "start": 88.68,
+            "word": " default"
+        },
+        {
+            "end": 89.24,
+            "start": 89,
+            "word": " command"
+        },
+        {
+            "end": 89.5,
+            "start": 89.24,
+            "word": " that's"
+        },
+        {
+            "end": 89.9,
+            "start": 89.5,
+            "word": " executed"
+        },
+        {
+            "end": 90.28,
+            "start": 89.9,
+            "word": " when"
+        },
+        {
+            "end": 90.38,
+            "start": 90.28,
+            "word": " you"
+        },
+        {
+            "end": 90.6,
+            "start": 90.38,
+            "word": " start"
+        },
+        {
+            "end": 90.74,
+            "start": 90.6,
+            "word": " up"
+        },
+        {
+            "end": 90.82,
+            "start": 90.74,
+            "word": " a"
+        },
+        {
+            "end": 91.12,
+            "start": 90.82,
+            "word": " container."
+        },
+        {
+            "end": 91.62,
+            "start": 91.36,
+            "word": " And"
+        },
+        {
+            "end": 91.82,
+            "start": 91.62,
+            "word": " now,"
+        },
+        {
+            "end": 92.12,
+            "start": 91.94,
+            "word": " we"
+        },
+        {
+            "end": 92.24,
+            "start": 92.12,
+            "word": " can"
+        },
+        {
+            "end": 92.46,
+            "start": 92.24,
+            "word": " create"
+        },
+        {
+            "end": 92.58,
+            "start": 92.46,
+            "word": " the"
+        },
+        {
+            "end": 92.8,
+            "start": 92.58,
+            "word": " image"
+        },
+        {
+            "end": 93.02,
+            "start": 92.8,
+            "word": " file"
+        },
+        {
+            "end": 93.32,
+            "start": 93.02,
+            "word": " by"
+        },
+        {
+            "end": 93.52,
+            "start": 93.32,
+            "word": " running"
+        },
+        {
+            "end": 93.68,
+            "start": 93.52,
+            "word": " the"
+        },
+        {
+            "end": 94,
+            "start": 93.68,
+            "word": " docker"
+        },
+        {
+            "end": 94.18,
+            "start": 94,
+            "word": " build"
+        },
+        {
+            "end": 94.5,
+            "start": 94.18,
+            "word": " command."
+        },
+        {
+            "end": 95,
+            "start": 94.78,
+            "word": " It"
+        },
+        {
+            "end": 95.16,
+            "start": 95,
+            "word": " goes"
+        },
+        {
+            "end": 95.34,
+            "start": 95.16,
+            "word": " through"
+        },
+        {
+            "end": 95.56,
+            "start": 95.34,
+            "word": " each"
+        },
+        {
+            "end": 95.8,
+            "start": 95.56,
+            "word": " step"
+        },
+        {
+            "end": 95.96,
+            "start": 95.8,
+            "word": " in"
+        },
+        {
+            "end": 96.02,
+            "start": 95.96,
+            "word": " our"
+        },
+        {
+            "end": 96.5,
+            "start": 96.02,
+            "word": " Dockerfile"
+        },
+        {
+            "end": 96.8,
+            "start": 96.5,
+            "word": " to"
+        },
+        {
+            "end": 97.12,
+            "start": 96.8,
+            "word": " build"
+        },
+        {
+            "end": 97.24,
+            "start": 97.12,
+            "word": " the"
+        },
+        {
+            "end": 97.48,
+            "start": 97.24,
+            "word": " image"
+        },
+        {
+            "end": 97.76,
+            "start": 97.48,
+            "word": " layer"
+        },
+        {
+            "end": 97.98,
+            "start": 97.76,
+            "word": " by"
+        },
+        {
+            "end": 98.24,
+            "start": 97.98,
+            "word": " layer."
+        },
+        {
+            "end": 98.86,
+            "start": 98.42,
+            "word": " We"
+        },
+        {
+            "end": 98.98,
+            "start": 98.86,
+            "word": " can"
+        },
+        {
+            "end": 99.1,
+            "start": 98.98,
+            "word": " then"
+        },
+        {
+            "end": 99.34,
+            "start": 99.1,
+            "word": " bring"
+        },
+        {
+            "end": 99.48,
+            "start": 99.34,
+            "word": " this"
+        },
+        {
+            "end": 99.74,
+            "start": 99.48,
+            "word": " image"
+        },
+        {
+            "end": 99.94,
+            "start": 99.74,
+            "word": " to"
+        },
+        {
+            "end": 100.16,
+            "start": 99.94,
+            "word": " life"
+        },
+        {
+            "end": 100.44,
+            "start": 100.16,
+            "word": " as"
+        },
+        {
+            "end": 100.54,
+            "start": 100.44,
+            "word": " a"
+        },
+        {
+            "end": 100.88,
+            "start": 100.54,
+            "word": " container"
+        },
+        {
+            "end": 101.24,
+            "start": 100.88,
+            "word": " with"
+        },
+        {
+            "end": 101.34,
+            "start": 101.24,
+            "word": " the"
+        },
+        {
+            "end": 101.66,
+            "start": 101.34,
+            "word": " docker"
+        },
+        {
+            "end": 101.9,
+            "start": 101.66,
+            "word": " run"
+        },
+        {
+            "end": 102.18,
+            "start": 101.9,
+            "word": " command."
+        },
+        {
+            "end": 102.76,
+            "start": 102.48,
+            "word": " As"
+        },
+        {
+            "end": 102.9,
+            "start": 102.76,
+            "word": " your"
+        },
+        {
+            "end": 103.08,
+            "start": 102.9,
+            "word": " app"
+        },
+        {
+            "end": 103.26,
+            "start": 103.08,
+            "word": " demands"
+        },
+        {
+            "end": 103.54,
+            "start": 103.26,
+            "word": " more"
+        },
+        {
+            "end": 103.98,
+            "start": 103.54,
+            "word": " resources,"
+        },
+        {
+            "end": 104.32,
+            "start": 104.2,
+            "word": " you"
+        },
+        {
+            "end": 104.44,
+            "start": 104.32,
+            "word": " can"
+        },
+        {
+            "end": 104.6,
+            "start": 104.44,
+            "word": " run"
+        },
+        {
+            "end": 104.72,
+            "start": 104.6,
+            "word": " it"
+        },
+        {
+            "end": 104.88,
+            "start": 104.72,
+            "word": " on"
+        },
+        {
+            "end": 105.18,
+            "start": 104.88,
+            "word": " multiple"
+        },
+        {
+            "end": 105.54,
+            "start": 105.18,
+            "word": " machines,"
+        },
+        {
+            "end": 106.04,
+            "start": 105.88,
+            "word": " multiple"
+        },
+        {
+            "end": 106.52,
+            "start": 106.04,
+            "word": " clouds,"
+        },
+        {
+            "end": 107.04,
+            "start": 106.86,
+            "word": " on"
+        },
+        {
+            "end": 107.3,
+            "start": 107.04,
+            "word": "-prem,"
+        },
+        {
+            "end": 107.72,
+            "start": 107.5,
+            "word": " or"
+        },
+        {
+            "end": 108,
+            "start": 107.72,
+            "word": " wherever"
+        },
+        {
+            "end": 108.2,
+            "start": 108,
+            "word": " you"
+        },
+        {
+            "end": 108.42,
+            "start": 108.2,
+            "word": " want"
+        },
+        {
+            "end": 108.72,
+            "start": 108.42,
+            "word": " reliably."
+        },
+        {
+            "end": 109.52,
+            "start": 109.2,
+            "word": " This"
+        },
+        {
+            "end": 109.6,
+            "start": 109.52,
+            "word": " has"
+        },
+        {
+            "end": 109.76,
+            "start": 109.6,
+            "word": " been"
+        },
+        {
+            "end": 110.1,
+            "start": 109.76,
+            "word": " Docker"
+        },
+        {
+            "end": 110.4,
+            "start": 110.1,
+            "word": " in"
+        },
+        {
+            "end": 110.66,
+            "start": 110.4,
+            "word": " 100"
+        },
+        {
+            "end": 111.14,
+            "start": 110.66,
+            "word": " seconds."
+        },
+        {
+            "end": 111.52,
+            "start": 111.34,
+            "word": " If"
+        },
+        {
+            "end": 111.62,
+            "start": 111.52,
+            "word": " you"
+        },
+        {
+            "end": 111.92,
+            "start": 111.62,
+            "word": " enjoyed"
+        },
+        {
+            "end": 112.06,
+            "start": 111.92,
+            "word": " it,"
+        },
+        {
+            "end": 112.28,
+            "start": 112.14,
+            "word": " make"
+        },
+        {
+            "end": 112.46,
+            "start": 112.28,
+            "word": " sure"
+        },
+        {
+            "end": 112.66,
+            "start": 112.46,
+            "word": " to"
+        },
+        {
+            "end": 112.88,
+            "start": 112.66,
+            "word": " like"
+        },
+        {
+            "end": 112.98,
+            "start": 112.88,
+            "word": " and"
+        },
+        {
+            "end": 113.28,
+            "start": 112.98,
+            "word": " subscribe,"
+        },
+        {
+            "end": 113.72,
+            "start": 113.28,
+            "word": " and"
+        },
+        {
+            "end": 113.92,
+            "start": 113.72,
+            "word": " stay"
+        },
+        {
+            "end": 114.2,
+            "start": 113.92,
+            "word": " tuned"
+        },
+        {
+            "end": 114.38,
+            "start": 114.2,
+            "word": " for"
+        },
+        {
+            "end": 114.58,
+            "start": 114.38,
+            "word": " more"
+        },
+        {
+            "end": 114.76,
+            "start": 114.58,
+            "word": " Docker"
+        },
+        {
+            "end": 115.14,
+            "start": 114.76,
+            "word": " content"
+        },
+        {
+            "end": 115.54,
+            "start": 115.14,
+            "word": " coming"
+        },
+        {
+            "end": 115.66,
+            "start": 115.54,
+            "word": " to"
+        },
+        {
+            "end": 115.78,
+            "start": 115.66,
+            "word": " this"
+        },
+        {
+            "end": 116.02,
+            "start": 115.78,
+            "word": " channel"
+        },
+        {
+            "end": 116.28,
+            "start": 116.02,
+            "word": " soon."
+        },
+        {
+            "end": 116.92,
+            "start": 116.56,
+            "word": " Thanks"
+        },
+        {
+            "end": 117.04,
+            "start": 116.92,
+            "word": " for"
+        },
+        {
+            "end": 117.34,
+            "start": 117.04,
+            "word": " watching,"
+        },
+        {
+            "end": 117.76,
+            "start": 117.5,
+            "word": " and"
+        },
+        {
+            "end": 117.86,
+            "start": 117.76,
+            "word": " I"
+        },
+        {
+            "end": 118,
+            "start": 117.86,
+            "word": " will"
+        },
+        {
+            "end": 118.18,
+            "start": 118,
+            "word": " see"
+        },
+        {
+            "end": 118.34,
+            "start": 118.18,
+            "word": " you"
+        },
+        {
+            "end": 118.5,
+            "start": 118.34,
+            "word": " in"
+        },
+        {
+            "end": 118.62,
+            "start": 118.5,
+            "word": " the"
+        },
+        {
+            "end": 118.8,
+            "start": 118.62,
+            "word": " next"
+        },
+        {
+            "end": 118.98,
+            "start": 118.8,
+            "word": " one."
+        }
+    ]
+}

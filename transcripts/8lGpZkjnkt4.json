@@ -1,0 +1,3322 @@
+{
+    "detected_language": "en",
+    "device": "cuda",
+    "model": "large-v3",
+    "segments": [
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 5.12,
+            "id": 1,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 0,
+            "temperature": 0,
+            "text": " Pull Request, a way for you to submit a contribution to another developer's repository on GitHub.",
+            "tokens": [
+                50365,
+                15074,
+                1300,
+                20343,
+                11,
+                257,
+                636,
+                337,
+                291,
+                281,
+                10315,
+                257,
+                13150,
+                281,
+                1071,
+                10754,
+                311,
+                25841,
+                322,
+                23331,
+                13,
+                50627
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 8.18,
+            "id": 2,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 5.38,
+            "temperature": 0,
+            "text": " First, find a GitHub repo that you want to contribute to.",
+            "tokens": [
+                50642,
+                2386,
+                11,
+                915,
+                257,
+                23331,
+                49040,
+                300,
+                291,
+                528,
+                281,
+                10586,
+                281,
+                13,
+                50779
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 12,
+            "id": 3,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 8.48,
+            "temperature": 0,
+            "text": " Hmm, this looks like a good one. Submit a pull request and get a free sticker in the mail.",
+            "tokens": [
+                50792,
+                8239,
+                11,
+                341,
+                1542,
+                411,
+                257,
+                665,
+                472,
+                13,
+                8511,
+                3508,
+                257,
+                2235,
+                5308,
+                293,
+                483,
+                257,
+                1737,
+                20400,
+                294,
+                264,
+                10071,
+                13,
+                50970
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 14.14,
+            "id": 4,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 12.18,
+            "temperature": 0,
+            "text": " The first thing you'll need to do is fork the repo.",
+            "tokens": [
+                50981,
+                440,
+                700,
+                551,
+                291,
+                603,
+                643,
+                281,
+                360,
+                307,
+                17716,
+                264,
+                49040,
+                13,
+                51078
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 17.42,
+            "id": 5,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 14.42,
+            "temperature": 0,
+            "text": " When you fork a repo, it will be copied over to your own GitHub account.",
+            "tokens": [
+                51093,
+                1133,
+                291,
+                17716,
+                257,
+                49040,
+                11,
+                309,
+                486,
+                312,
+                25365,
+                670,
+                281,
+                428,
+                1065,
+                23331,
+                2696,
+                13,
+                51246
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 23.06,
+            "id": 6,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 17.7,
+            "temperature": 0,
+            "text": " The fork maintains a link to the original upstream repo, and that means you can pull in future changes when necessary.",
+            "tokens": [
+                51258,
+                440,
+                17716,
+                33385,
+                257,
+                2113,
+                281,
+                264,
+                3380,
+                33915,
+                49040,
+                11,
+                293,
+                300,
+                1355,
+                291,
+                393,
+                2235,
+                294,
+                2027,
+                2962,
+                562,
+                4818,
+                13,
+                51530
+            ]
+        },
+        {
+            "avg_logprob": -0.11222550675675676,
+            "compression_ratio": 1.7863501483679525,
+            "end": 28.08,
+            "id": 7,
+            "no_speech_prob": 0.037872314453125,
+            "seek": 2808,
+            "start": 23.42,
+            "temperature": 0,
+            "text": " From there, you'll want to clone your fork onto your local system so you can start developing your own changes.",
+            "tokens": [
+                51545,
+                3358,
+                456,
+                11,
+                291,
+                603,
+                528,
+                281,
+                26506,
+                428,
+                17716,
+                3911,
+                428,
+                2654,
+                1185,
+                370,
+                291,
+                393,
+                722,
+                6416,
+                428,
+                1065,
+                2962,
+                13,
+                51772
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 31,
+            "id": 8,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 28.08,
+            "temperature": 0,
+            "text": " Next, open up the project in your preferred code editor.",
+            "tokens": [
+                50365,
+                3087,
+                11,
+                1269,
+                493,
+                264,
+                1716,
+                294,
+                428,
+                16494,
+                3089,
+                9839,
+                13,
+                50516
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 35.76,
+            "id": 9,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 31.24,
+            "temperature": 0,
+            "text": " Use the git branch command to create a new branch that describes the changes that you're going to make.",
+            "tokens": [
+                50541,
+                8278,
+                264,
+                18331,
+                9819,
+                5622,
+                281,
+                1884,
+                257,
+                777,
+                9819,
+                300,
+                15626,
+                264,
+                2962,
+                300,
+                291,
+                434,
+                516,
+                281,
+                652,
+                13,
+                50757
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 38.52,
+            "id": 10,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 35.92,
+            "temperature": 0,
+            "text": " Use git switch or checkout to move into that branch.",
+            "tokens": [
+                50768,
+                8278,
+                18331,
+                3679,
+                420,
+                37153,
+                281,
+                1286,
+                666,
+                300,
+                9819,
+                13,
+                50893
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 40.62,
+            "id": 11,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 38.7,
+            "temperature": 0,
+            "text": " Now it's your job to make the software better.",
+            "tokens": [
+                50907,
+                823,
+                309,
+                311,
+                428,
+                1691,
+                281,
+                652,
+                264,
+                4722,
+                1101,
+                13,
+                50997
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 45.32,
+            "id": 12,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 40.86,
+            "temperature": 0,
+            "text": " This particular repo tells us how to encrypt our address so we can upload it and get a free sticker.",
+            "tokens": [
+                51018,
+                639,
+                1729,
+                49040,
+                5112,
+                505,
+                577,
+                281,
+                17972,
+                662,
+                527,
+                2985,
+                370,
+                321,
+                393,
+                6580,
+                309,
+                293,
+                483,
+                257,
+                1737,
+                20400,
+                13,
+                51233
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 50.88,
+            "id": 13,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 45.56,
+            "temperature": 0,
+            "text": " After you make your changes, use git add to stage the files, and then git commit to commit them to the repo.",
+            "tokens": [
+                51248,
+                2381,
+                291,
+                652,
+                428,
+                2962,
+                11,
+                764,
+                18331,
+                909,
+                281,
+                3233,
+                264,
+                7098,
+                11,
+                293,
+                550,
+                18331,
+                5599,
+                281,
+                5599,
+                552,
+                281,
+                264,
+                49040,
+                13,
+                51511
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 53.08,
+            "id": 14,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 51.18,
+            "temperature": 0,
+            "text": " Now we need to get our files back to GitHub.",
+            "tokens": [
+                51534,
+                823,
+                321,
+                643,
+                281,
+                483,
+                527,
+                7098,
+                646,
+                281,
+                23331,
+                13,
+                51620
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 55.24,
+            "id": 15,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 53.5,
+            "temperature": 0,
+            "text": " git push is the command that can do that.",
+            "tokens": [
+                51644,
+                18331,
+                2944,
+                307,
+                264,
+                5622,
+                300,
+                393,
+                360,
+                300,
+                13,
+                51730
+            ]
+        },
+        {
+            "avg_logprob": -0.1063508064516129,
+            "compression_ratio": 1.8035190615835777,
+            "end": 57.88,
+            "id": 16,
+            "no_speech_prob": 0.00032258033752441406,
+            "seek": 5808,
+            "start": 55.38,
+            "temperature": 0,
+            "text": " We tell it to use origin, which is our remote repository,",
+            "tokens": [
+                51730,
+                492,
+                980,
+                309,
+                281,
+                764,
+                4957,
+                11,
+                597,
+                307,
+                527,
+                8607,
+                25841,
+                11,
+                51860
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 60.84,
+            "id": 17,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 58.08,
+            "temperature": 0,
+            "text": " followed by the branch name that we're currently working on.",
+            "tokens": [
+                50365,
+                6263,
+                538,
+                264,
+                9819,
+                1315,
+                300,
+                321,
+                434,
+                4362,
+                1364,
+                322,
+                13,
+                50503
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 66.02,
+            "id": 18,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 60.9,
+            "temperature": 0,
+            "text": " When we go back to our fork on GitHub, we should see our changes, as well as a button to open a new pull request.",
+            "tokens": [
+                50503,
+                1133,
+                321,
+                352,
+                646,
+                281,
+                527,
+                17716,
+                322,
+                23331,
+                11,
+                321,
+                820,
+                536,
+                527,
+                2962,
+                11,
+                382,
+                731,
+                382,
+                257,
+                2960,
+                281,
+                1269,
+                257,
+                777,
+                2235,
+                5308,
+                13,
+                50768
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 69.56,
+            "id": 19,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 66.28,
+            "temperature": 0,
+            "text": " Make sure that you follow the contribution guidelines for the owner's repo carefully,",
+            "tokens": [
+                50768,
+                4387,
+                988,
+                300,
+                291,
+                1524,
+                264,
+                13150,
+                12470,
+                337,
+                264,
+                7289,
+                311,
+                49040,
+                7500,
+                11,
+                50947
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 74.5,
+            "id": 20,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 69.72,
+            "temperature": 0,
+            "text": " because it's typically bad GitHub etiquette to submit a pull request without first discussing it in the issues.",
+            "tokens": [
+                50947,
+                570,
+                309,
+                311,
+                5850,
+                1578,
+                23331,
+                42177,
+                3007,
+                281,
+                10315,
+                257,
+                2235,
+                5308,
+                1553,
+                700,
+                10850,
+                309,
+                294,
+                264,
+                2663,
+                13,
+                51191
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 77.7,
+            "id": 21,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 74.72,
+            "temperature": 0,
+            "text": " But if you're confident about your changes, go ahead and click the green button.",
+            "tokens": [
+                51191,
+                583,
+                498,
+                291,
+                434,
+                6679,
+                466,
+                428,
+                2962,
+                11,
+                352,
+                2286,
+                293,
+                2052,
+                264,
+                3092,
+                2960,
+                13,
+                51351
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 78.84,
+            "id": 22,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 77.84,
+            "temperature": 0,
+            "text": " And that's all there is to it.",
+            "tokens": [
+                51351,
+                400,
+                300,
+                311,
+                439,
+                456,
+                307,
+                281,
+                309,
+                13,
+                51406
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 82.28,
+            "id": 23,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 78.92,
+            "temperature": 0,
+            "text": " After your PR is merged, you should receive a sticker in the mail a few weeks later.",
+            "tokens": [
+                51406,
+                2381,
+                428,
+                11568,
+                307,
+                36427,
+                11,
+                291,
+                820,
+                4774,
+                257,
+                20400,
+                294,
+                264,
+                10071,
+                257,
+                1326,
+                3259,
+                1780,
+                13,
+                51576
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 85.16,
+            "id": 24,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 82.56,
+            "temperature": 0,
+            "text": " But we still have a few seconds to kill, so here's a little pro tip.",
+            "tokens": [
+                51582,
+                583,
+                321,
+                920,
+                362,
+                257,
+                1326,
+                3949,
+                281,
+                1961,
+                11,
+                370,
+                510,
+                311,
+                257,
+                707,
+                447,
+                4125,
+                13,
+                51723
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 86.72,
+            "id": 25,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 85.36,
+            "temperature": 0,
+            "text": " When working with a fork locally,",
+            "tokens": [
+                51723,
+                1133,
+                1364,
+                365,
+                257,
+                17716,
+                16143,
+                11,
+                51801
+            ]
+        },
+        {
+            "avg_logprob": -0.25141331658291455,
+            "compression_ratio": 1.937046004842615,
+            "end": 88.06,
+            "id": 26,
+            "no_speech_prob": 0.002063751220703125,
+            "seek": 8808,
+            "start": 86.86,
+            "temperature": 0,
+            "text": " you can keep it in sync with your network.",
+            "tokens": [
+                51801,
+                291,
+                393,
+                1066,
+                309,
+                294,
+                20271,
+                365,
+                428,
+                3209,
+                13,
+                51833
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 91.22,
+            "id": 27,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 88.08,
+            "temperature": 0,
+            "text": " By first adding a remote link to the upstream repo.",
+            "tokens": [
+                50365,
+                3146,
+                700,
+                5127,
+                257,
+                8607,
+                2113,
+                281,
+                264,
+                33915,
+                49040,
+                13,
+                50537
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 95.22,
+            "id": 28,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 91.58,
+            "temperature": 0,
+            "text": " Now when things change in that repo, you can use git fetch to download the changes,",
+            "tokens": [
+                50537,
+                823,
+                562,
+                721,
+                1319,
+                294,
+                300,
+                49040,
+                11,
+                291,
+                393,
+                764,
+                18331,
+                23673,
+                281,
+                5484,
+                264,
+                2962,
+                11,
+                50737
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 98.94,
+            "id": 29,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 95.42,
+            "temperature": 0,
+            "text": " and then git rebase to add those changes on top of your existing work.",
+            "tokens": [
+                50737,
+                293,
+                550,
+                18331,
+                12970,
+                651,
+                281,
+                909,
+                729,
+                2962,
+                322,
+                1192,
+                295,
+                428,
+                6741,
+                589,
+                13,
+                50917
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 101.76,
+            "id": 30,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 99.12,
+            "temperature": 0,
+            "text": " And stay tuned for a future video all about git rebase.",
+            "tokens": [
+                50917,
+                400,
+                1754,
+                10870,
+                337,
+                257,
+                2027,
+                960,
+                439,
+                466,
+                18331,
+                12970,
+                651,
+                13,
+                51057
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 104.66,
+            "id": 31,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 101.84,
+            "temperature": 0,
+            "text": " This has been your first GitHub pull request in 100 seconds.",
+            "tokens": [
+                51057,
+                639,
+                575,
+                668,
+                428,
+                700,
+                23331,
+                2235,
+                5308,
+                294,
+                2319,
+                3949,
+                13,
+                51205
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 107.66,
+            "id": 32,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 104.9,
+            "temperature": 0,
+            "text": " Make sure to hit the like button if you want to see more short videos like this.",
+            "tokens": [
+                51205,
+                4387,
+                988,
+                281,
+                2045,
+                264,
+                411,
+                2960,
+                498,
+                291,
+                528,
+                281,
+                536,
+                544,
+                2099,
+                2145,
+                411,
+                341,
+                13,
+                51353
+            ]
+        },
+        {
+            "avg_logprob": -0.19791666666666666,
+            "compression_ratio": 1.6464285714285714,
+            "end": 110.28,
+            "id": 33,
+            "no_speech_prob": 0.00589752197265625,
+            "seek": 11178,
+            "start": 107.82,
+            "temperature": 0,
+            "text": " Thanks for watching, and I will see you in the next one.",
+            "tokens": [
+                51353,
+                2561,
+                337,
+                1976,
+                11,
+                293,
+                286,
+                486,
+                536,
+                291,
+                294,
+                264,
+                958,
+                472,
+                13,
+                51537
+            ]
+        }
+    ],
+    "transcription": "Pull Request, a way for you to submit a contribution to another developer's repository on GitHub.\nFirst, find a GitHub repo that you want to contribute to.\nHmm, this looks like a good one. Submit a pull request and get a free sticker in the mail.\nThe first thing you'll need to do is fork the repo.\nWhen you fork a repo, it will be copied over to your own GitHub account.\nThe fork maintains a link to the original upstream repo, and that means you can pull in future changes when necessary.\nFrom there, you'll want to clone your fork onto your local system so you can start developing your own changes.\nNext, open up the project in your preferred code editor.\nUse the git branch command to create a new branch that describes the changes that you're going to make.\nUse git switch or checkout to move into that branch.\nNow it's your job to make the software better.\nThis particular repo tells us how to encrypt our address so we can upload it and get a free sticker.\nAfter you make your changes, use git add to stage the files, and then git commit to commit them to the repo.\nNow we need to get our files back to GitHub.\ngit push is the command that can do that.\nWe tell it to use origin, which is our remote repository,\nfollowed by the branch name that we're currently working on.\nWhen we go back to our fork on GitHub, we should see our changes, as well as a button to open a new pull request.\nMake sure that you follow the contribution guidelines for the owner's repo carefully,\nbecause it's typically bad GitHub etiquette to submit a pull request without first discussing it in the issues.\nBut if you're confident about your changes, go ahead and click the green button.\nAnd that's all there is to it.\nAfter your PR is merged, you should receive a sticker in the mail a few weeks later.\nBut we still have a few seconds to kill, so here's a little pro tip.\nWhen working with a fork locally,\nyou can keep it in sync with your network.\nBy first adding a remote link to the upstream repo.\nNow when things change in that repo, you can use git fetch to download the changes,\nand then git rebase to add those changes on top of your existing work.\nAnd stay tuned for a future video all about git rebase.\nThis has been your first GitHub pull request in 100 seconds.\nMake sure to hit the like button if you want to see more short videos like this.\nThanks for watching, and I will see you in the next one.",
+    "translation": "1\n00:00:00,000 --> 00:00:05,500\nPull request, a way for you to submit a contribution to another developer's repository on GitHub.\n\n2\n00:00:05,500 --> 00:00:08,500\nFirst, find a GitHub repo that you want to contribute to.\n\n3\n00:00:08,500 --> 00:00:12,300\nHmm, this looks like a good one. Submit a pull request and get a free sticker in the mail.\n\n4\n00:00:12,300 --> 00:00:14,500\nThe first thing you'll need to do is fork the repo.\n\n5\n00:00:14,500 --> 00:00:17,800\nWhen you fork a repo, it will be copied over to your own GitHub account.\n\n6\n00:00:17,800 --> 00:00:23,500\nThe fork maintains a link to the original, upstream repo, and that means you can pull in future changes when necessary.\n\n7\n00:00:23,500 --> 00:00:28,500\nFrom there, you'll want to clone your fork onto your local system so you can start developing your own changes.\n\n8\n00:00:28,500 --> 00:00:31,500\nNext, open up the project in your preferred code editor.\n\n9\n00:00:31,500 --> 00:00:36,000\nUse the git branch command to create a new branch that describes the changes that you're going to make.\n\n10\n00:00:36,000 --> 00:00:39,000\nUse git switch or checkout to move into that branch.\n\n11\n00:00:39,000 --> 00:00:41,000\nNow it's your job to make the software better.\n\n12\n00:00:41,000 --> 00:00:45,500\nThis particular repo tells us how to encrypt our address so we can upload it and get a free sticker.\n\n13\n00:00:45,500 --> 00:00:51,500\nAfter you make your changes, use git add to stage the files, and then git commit to commit them to the repo.\n\n14\n00:00:51,500 --> 00:00:53,500\nNow we need to get our files back to GitHub.\n\n15\n00:00:53,500 --> 00:00:55,500\ngit push is the command that can do that.\n\n16\n00:00:55,500 --> 00:00:58,500\nWe tell it to use origin, which is our remote repository on GitHub.\n\n17\n00:00:58,500 --> 00:01:01,000\nFollowed by the branch name that we're currently working on.\n\n18\n00:01:01,000 --> 00:01:06,000\nWhen we go back to our fork on GitHub, we should see our changes, as well as a button to open a new pull request.\n\n19\n00:01:06,000 --> 00:01:09,500\nMake sure that you follow the contribution guidelines for the owner's repo carefully.\n\n20\n00:01:09,500 --> 00:01:14,500\nBecause it's typically bad GitHub etiquette to submit a pull request without first discussing it in the issues.\n\n21\n00:01:14,500 --> 00:01:17,500\nBut if you're confident about your changes, go ahead and click the green button.\n\n22\n00:01:17,500 --> 00:01:19,000\nAnd that's all there is to it.\n\n23\n00:01:19,000 --> 00:01:22,500\nAfter your PR is merged, you should receive a sticker in the mail a few weeks later.\n\n24\n00:01:22,500 --> 00:01:25,500\nBut we still have a few seconds to kill, so here's a little pro tip.\n\n25\n00:01:25,500 --> 00:01:28,500\nWhen working with a fork locally, you can keep it in sync with the original.\n\n26\n00:01:28,500 --> 00:01:31,500\nBy first adding a remote link to the upstream repo.\n\n27\n00:01:31,500 --> 00:01:35,500\nNow when things change in that repo, you can use git fetch to download the changes.\n\n28\n00:01:35,500 --> 00:01:38,500\nAnd then git rebase to add those changes on top of your existing work.\n\n29\n00:01:38,500 --> 00:01:41,500\nAnd stay tuned for a future video all about git rebase.\n\n30\n00:01:41,500 --> 00:01:44,500\nThis has been your first GitHub pull request in 100 seconds.\n\n31\n00:01:44,500 --> 00:01:47,500\nMake sure to hit the like button if you want to see more short videos like this.\n\n32\n00:01:47,500 --> 00:01:50,500\nThanks for watching, and I will see you in the next one.\n\n",
+    "word_timestamps": [
+        {
+            "end": 0.3,
+            "start": 0,
+            "word": " Pull"
+        },
+        {
+            "end": 0.78,
+            "start": 0.3,
+            "word": " Request,"
+        },
+        {
+            "end": 1.06,
+            "start": 0.86,
+            "word": " a"
+        },
+        {
+            "end": 1.22,
+            "start": 1.06,
+            "word": " way"
+        },
+        {
+            "end": 1.36,
+            "start": 1.22,
+            "word": " for"
+        },
+        {
+            "end": 1.58,
+            "start": 1.36,
+            "word": " you"
+        },
+        {
+            "end": 1.82,
+            "start": 1.58,
+            "word": " to"
+        },
+        {
+            "end": 2.06,
+            "start": 1.82,
+            "word": " submit"
+        },
+        {
+            "end": 2.16,
+            "start": 2.06,
+            "word": " a"
+        },
+        {
+            "end": 2.56,
+            "start": 2.16,
+            "word": " contribution"
+        },
+        {
+            "end": 3.08,
+            "start": 2.56,
+            "word": " to"
+        },
+        {
+            "end": 3.3,
+            "start": 3.08,
+            "word": " another"
+        },
+        {
+            "end": 4,
+            "start": 3.3,
+            "word": " developer's"
+        },
+        {
+            "end": 4.38,
+            "start": 4,
+            "word": " repository"
+        },
+        {
+            "end": 4.88,
+            "start": 4.38,
+            "word": " on"
+        },
+        {
+            "end": 5.12,
+            "start": 4.88,
+            "word": " GitHub."
+        },
+        {
+            "end": 5.7,
+            "start": 5.38,
+            "word": " First,"
+        },
+        {
+            "end": 6.14,
+            "start": 5.88,
+            "word": " find"
+        },
+        {
+            "end": 6.28,
+            "start": 6.14,
+            "word": " a"
+        },
+        {
+            "end": 6.52,
+            "start": 6.28,
+            "word": " GitHub"
+        },
+        {
+            "end": 6.8,
+            "start": 6.52,
+            "word": " repo"
+        },
+        {
+            "end": 7.08,
+            "start": 6.8,
+            "word": " that"
+        },
+        {
+            "end": 7.22,
+            "start": 7.08,
+            "word": " you"
+        },
+        {
+            "end": 7.4,
+            "start": 7.22,
+            "word": " want"
+        },
+        {
+            "end": 7.54,
+            "start": 7.4,
+            "word": " to"
+        },
+        {
+            "end": 7.86,
+            "start": 7.54,
+            "word": " contribute"
+        },
+        {
+            "end": 8.18,
+            "start": 7.86,
+            "word": " to."
+        },
+        {
+            "end": 8.58,
+            "start": 8.48,
+            "word": " Hmm,"
+        },
+        {
+            "end": 8.98,
+            "start": 8.7,
+            "word": " this"
+        },
+        {
+            "end": 9.12,
+            "start": 8.98,
+            "word": " looks"
+        },
+        {
+            "end": 9.28,
+            "start": 9.12,
+            "word": " like"
+        },
+        {
+            "end": 9.38,
+            "start": 9.28,
+            "word": " a"
+        },
+        {
+            "end": 9.5,
+            "start": 9.38,
+            "word": " good"
+        },
+        {
+            "end": 9.64,
+            "start": 9.5,
+            "word": " one."
+        },
+        {
+            "end": 10.1,
+            "start": 9.74,
+            "word": " Submit"
+        },
+        {
+            "end": 10.16,
+            "start": 10.1,
+            "word": " a"
+        },
+        {
+            "end": 10.28,
+            "start": 10.16,
+            "word": " pull"
+        },
+        {
+            "end": 10.6,
+            "start": 10.28,
+            "word": " request"
+        },
+        {
+            "end": 10.9,
+            "start": 10.6,
+            "word": " and"
+        },
+        {
+            "end": 11.06,
+            "start": 10.9,
+            "word": " get"
+        },
+        {
+            "end": 11.14,
+            "start": 11.06,
+            "word": " a"
+        },
+        {
+            "end": 11.26,
+            "start": 11.14,
+            "word": " free"
+        },
+        {
+            "end": 11.56,
+            "start": 11.26,
+            "word": " sticker"
+        },
+        {
+            "end": 11.76,
+            "start": 11.56,
+            "word": " in"
+        },
+        {
+            "end": 11.8,
+            "start": 11.76,
+            "word": " the"
+        },
+        {
+            "end": 12,
+            "start": 11.8,
+            "word": " mail."
+        },
+        {
+            "end": 12.38,
+            "start": 12.18,
+            "word": " The"
+        },
+        {
+            "end": 12.54,
+            "start": 12.38,
+            "word": " first"
+        },
+        {
+            "end": 12.72,
+            "start": 12.54,
+            "word": " thing"
+        },
+        {
+            "end": 12.84,
+            "start": 12.72,
+            "word": " you'll"
+        },
+        {
+            "end": 12.94,
+            "start": 12.84,
+            "word": " need"
+        },
+        {
+            "end": 13.04,
+            "start": 12.94,
+            "word": " to"
+        },
+        {
+            "end": 13.2,
+            "start": 13.04,
+            "word": " do"
+        },
+        {
+            "end": 13.46,
+            "start": 13.2,
+            "word": " is"
+        },
+        {
+            "end": 13.74,
+            "start": 13.46,
+            "word": " fork"
+        },
+        {
+            "end": 13.94,
+            "start": 13.74,
+            "word": " the"
+        },
+        {
+            "end": 14.14,
+            "start": 13.94,
+            "word": " repo."
+        },
+        {
+            "end": 14.62,
+            "start": 14.42,
+            "word": " When"
+        },
+        {
+            "end": 14.76,
+            "start": 14.62,
+            "word": " you"
+        },
+        {
+            "end": 14.94,
+            "start": 14.76,
+            "word": " fork"
+        },
+        {
+            "end": 15.06,
+            "start": 14.94,
+            "word": " a"
+        },
+        {
+            "end": 15.26,
+            "start": 15.06,
+            "word": " repo,"
+        },
+        {
+            "end": 15.62,
+            "start": 15.48,
+            "word": " it"
+        },
+        {
+            "end": 15.7,
+            "start": 15.62,
+            "word": " will"
+        },
+        {
+            "end": 15.82,
+            "start": 15.7,
+            "word": " be"
+        },
+        {
+            "end": 16.16,
+            "start": 15.82,
+            "word": " copied"
+        },
+        {
+            "end": 16.38,
+            "start": 16.16,
+            "word": " over"
+        },
+        {
+            "end": 16.52,
+            "start": 16.38,
+            "word": " to"
+        },
+        {
+            "end": 16.68,
+            "start": 16.52,
+            "word": " your"
+        },
+        {
+            "end": 16.9,
+            "start": 16.68,
+            "word": " own"
+        },
+        {
+            "end": 17.14,
+            "start": 16.9,
+            "word": " GitHub"
+        },
+        {
+            "end": 17.42,
+            "start": 17.14,
+            "word": " account."
+        },
+        {
+            "end": 17.86,
+            "start": 17.7,
+            "word": " The"
+        },
+        {
+            "end": 18.08,
+            "start": 17.86,
+            "word": " fork"
+        },
+        {
+            "end": 18.38,
+            "start": 18.08,
+            "word": " maintains"
+        },
+        {
+            "end": 18.64,
+            "start": 18.38,
+            "word": " a"
+        },
+        {
+            "end": 18.86,
+            "start": 18.64,
+            "word": " link"
+        },
+        {
+            "end": 19.1,
+            "start": 18.86,
+            "word": " to"
+        },
+        {
+            "end": 19.2,
+            "start": 19.1,
+            "word": " the"
+        },
+        {
+            "end": 19.6,
+            "start": 19.2,
+            "word": " original"
+        },
+        {
+            "end": 20.06,
+            "start": 19.6,
+            "word": " upstream"
+        },
+        {
+            "end": 20.56,
+            "start": 20.06,
+            "word": " repo,"
+        },
+        {
+            "end": 20.94,
+            "start": 20.72,
+            "word": " and"
+        },
+        {
+            "end": 21.02,
+            "start": 20.94,
+            "word": " that"
+        },
+        {
+            "end": 21.22,
+            "start": 21.02,
+            "word": " means"
+        },
+        {
+            "end": 21.38,
+            "start": 21.22,
+            "word": " you"
+        },
+        {
+            "end": 21.46,
+            "start": 21.38,
+            "word": " can"
+        },
+        {
+            "end": 21.66,
+            "start": 21.46,
+            "word": " pull"
+        },
+        {
+            "end": 21.82,
+            "start": 21.66,
+            "word": " in"
+        },
+        {
+            "end": 22.04,
+            "start": 21.82,
+            "word": " future"
+        },
+        {
+            "end": 22.44,
+            "start": 22.04,
+            "word": " changes"
+        },
+        {
+            "end": 22.76,
+            "start": 22.44,
+            "word": " when"
+        },
+        {
+            "end": 23.06,
+            "start": 22.76,
+            "word": " necessary."
+        },
+        {
+            "end": 23.66,
+            "start": 23.42,
+            "word": " From"
+        },
+        {
+            "end": 23.88,
+            "start": 23.66,
+            "word": " there,"
+        },
+        {
+            "end": 24.2,
+            "start": 23.98,
+            "word": " you'll"
+        },
+        {
+            "end": 24.36,
+            "start": 24.2,
+            "word": " want"
+        },
+        {
+            "end": 24.5,
+            "start": 24.36,
+            "word": " to"
+        },
+        {
+            "end": 24.8,
+            "start": 24.5,
+            "word": " clone"
+        },
+        {
+            "end": 24.94,
+            "start": 24.8,
+            "word": " your"
+        },
+        {
+            "end": 25.22,
+            "start": 24.94,
+            "word": " fork"
+        },
+        {
+            "end": 25.48,
+            "start": 25.22,
+            "word": " onto"
+        },
+        {
+            "end": 25.6,
+            "start": 25.48,
+            "word": " your"
+        },
+        {
+            "end": 25.84,
+            "start": 25.6,
+            "word": " local"
+        },
+        {
+            "end": 26.18,
+            "start": 25.84,
+            "word": " system"
+        },
+        {
+            "end": 26.54,
+            "start": 26.18,
+            "word": " so"
+        },
+        {
+            "end": 26.64,
+            "start": 26.54,
+            "word": " you"
+        },
+        {
+            "end": 26.74,
+            "start": 26.64,
+            "word": " can"
+        },
+        {
+            "end": 26.94,
+            "start": 26.74,
+            "word": " start"
+        },
+        {
+            "end": 27.3,
+            "start": 26.94,
+            "word": " developing"
+        },
+        {
+            "end": 27.52,
+            "start": 27.3,
+            "word": " your"
+        },
+        {
+            "end": 27.72,
+            "start": 27.52,
+            "word": " own"
+        },
+        {
+            "end": 28.08,
+            "start": 27.72,
+            "word": " changes."
+        },
+        {
+            "end": 28.66,
+            "start": 28.08,
+            "word": " Next,"
+        },
+        {
+            "end": 29.24,
+            "start": 28.96,
+            "word": " open"
+        },
+        {
+            "end": 29.42,
+            "start": 29.24,
+            "word": " up"
+        },
+        {
+            "end": 29.48,
+            "start": 29.42,
+            "word": " the"
+        },
+        {
+            "end": 29.8,
+            "start": 29.48,
+            "word": " project"
+        },
+        {
+            "end": 30.06,
+            "start": 29.8,
+            "word": " in"
+        },
+        {
+            "end": 30.16,
+            "start": 30.06,
+            "word": " your"
+        },
+        {
+            "end": 30.44,
+            "start": 30.16,
+            "word": " preferred"
+        },
+        {
+            "end": 30.66,
+            "start": 30.44,
+            "word": " code"
+        },
+        {
+            "end": 31,
+            "start": 30.66,
+            "word": " editor."
+        },
+        {
+            "end": 31.64,
+            "start": 31.24,
+            "word": " Use"
+        },
+        {
+            "end": 31.88,
+            "start": 31.64,
+            "word": " the"
+        },
+        {
+            "end": 32.12,
+            "start": 31.88,
+            "word": " git"
+        },
+        {
+            "end": 32.28,
+            "start": 32.12,
+            "word": " branch"
+        },
+        {
+            "end": 32.6,
+            "start": 32.28,
+            "word": " command"
+        },
+        {
+            "end": 32.98,
+            "start": 32.6,
+            "word": " to"
+        },
+        {
+            "end": 33.2,
+            "start": 32.98,
+            "word": " create"
+        },
+        {
+            "end": 33.34,
+            "start": 33.2,
+            "word": " a"
+        },
+        {
+            "end": 33.46,
+            "start": 33.34,
+            "word": " new"
+        },
+        {
+            "end": 33.78,
+            "start": 33.46,
+            "word": " branch"
+        },
+        {
+            "end": 34,
+            "start": 33.78,
+            "word": " that"
+        },
+        {
+            "end": 34.32,
+            "start": 34,
+            "word": " describes"
+        },
+        {
+            "end": 34.6,
+            "start": 34.32,
+            "word": " the"
+        },
+        {
+            "end": 34.96,
+            "start": 34.6,
+            "word": " changes"
+        },
+        {
+            "end": 35.18,
+            "start": 34.96,
+            "word": " that"
+        },
+        {
+            "end": 35.32,
+            "start": 35.18,
+            "word": " you're"
+        },
+        {
+            "end": 35.44,
+            "start": 35.32,
+            "word": " going"
+        },
+        {
+            "end": 35.58,
+            "start": 35.44,
+            "word": " to"
+        },
+        {
+            "end": 35.76,
+            "start": 35.58,
+            "word": " make."
+        },
+        {
+            "end": 36.24,
+            "start": 35.92,
+            "word": " Use"
+        },
+        {
+            "end": 36.5,
+            "start": 36.24,
+            "word": " git"
+        },
+        {
+            "end": 36.76,
+            "start": 36.5,
+            "word": " switch"
+        },
+        {
+            "end": 37.14,
+            "start": 36.76,
+            "word": " or"
+        },
+        {
+            "end": 37.48,
+            "start": 37.14,
+            "word": " checkout"
+        },
+        {
+            "end": 37.8,
+            "start": 37.48,
+            "word": " to"
+        },
+        {
+            "end": 37.94,
+            "start": 37.8,
+            "word": " move"
+        },
+        {
+            "end": 38.12,
+            "start": 37.94,
+            "word": " into"
+        },
+        {
+            "end": 38.26,
+            "start": 38.12,
+            "word": " that"
+        },
+        {
+            "end": 38.52,
+            "start": 38.26,
+            "word": " branch."
+        },
+        {
+            "end": 39,
+            "start": 38.7,
+            "word": " Now"
+        },
+        {
+            "end": 39.16,
+            "start": 39,
+            "word": " it's"
+        },
+        {
+            "end": 39.26,
+            "start": 39.16,
+            "word": " your"
+        },
+        {
+            "end": 39.56,
+            "start": 39.26,
+            "word": " job"
+        },
+        {
+            "end": 39.74,
+            "start": 39.56,
+            "word": " to"
+        },
+        {
+            "end": 39.92,
+            "start": 39.74,
+            "word": " make"
+        },
+        {
+            "end": 40.06,
+            "start": 39.92,
+            "word": " the"
+        },
+        {
+            "end": 40.3,
+            "start": 40.06,
+            "word": " software"
+        },
+        {
+            "end": 40.62,
+            "start": 40.3,
+            "word": " better."
+        },
+        {
+            "end": 41.18,
+            "start": 40.86,
+            "word": " This"
+        },
+        {
+            "end": 41.5,
+            "start": 41.18,
+            "word": " particular"
+        },
+        {
+            "end": 41.86,
+            "start": 41.5,
+            "word": " repo"
+        },
+        {
+            "end": 42.18,
+            "start": 41.86,
+            "word": " tells"
+        },
+        {
+            "end": 42.38,
+            "start": 42.18,
+            "word": " us"
+        },
+        {
+            "end": 42.5,
+            "start": 42.38,
+            "word": " how"
+        },
+        {
+            "end": 42.62,
+            "start": 42.5,
+            "word": " to"
+        },
+        {
+            "end": 42.98,
+            "start": 42.62,
+            "word": " encrypt"
+        },
+        {
+            "end": 43.12,
+            "start": 42.98,
+            "word": " our"
+        },
+        {
+            "end": 43.34,
+            "start": 43.12,
+            "word": " address"
+        },
+        {
+            "end": 43.74,
+            "start": 43.34,
+            "word": " so"
+        },
+        {
+            "end": 43.84,
+            "start": 43.74,
+            "word": " we"
+        },
+        {
+            "end": 43.96,
+            "start": 43.84,
+            "word": " can"
+        },
+        {
+            "end": 44.3,
+            "start": 43.96,
+            "word": " upload"
+        },
+        {
+            "end": 44.5,
+            "start": 44.3,
+            "word": " it"
+        },
+        {
+            "end": 44.66,
+            "start": 44.5,
+            "word": " and"
+        },
+        {
+            "end": 44.84,
+            "start": 44.66,
+            "word": " get"
+        },
+        {
+            "end": 44.94,
+            "start": 44.84,
+            "word": " a"
+        },
+        {
+            "end": 45.04,
+            "start": 44.94,
+            "word": " free"
+        },
+        {
+            "end": 45.32,
+            "start": 45.04,
+            "word": " sticker."
+        },
+        {
+            "end": 45.9,
+            "start": 45.56,
+            "word": " After"
+        },
+        {
+            "end": 46.02,
+            "start": 45.9,
+            "word": " you"
+        },
+        {
+            "end": 46.14,
+            "start": 46.02,
+            "word": " make"
+        },
+        {
+            "end": 46.24,
+            "start": 46.14,
+            "word": " your"
+        },
+        {
+            "end": 46.62,
+            "start": 46.24,
+            "word": " changes,"
+        },
+        {
+            "end": 47.02,
+            "start": 46.82,
+            "word": " use"
+        },
+        {
+            "end": 47.26,
+            "start": 47.02,
+            "word": " git"
+        },
+        {
+            "end": 47.4,
+            "start": 47.26,
+            "word": " add"
+        },
+        {
+            "end": 47.72,
+            "start": 47.4,
+            "word": " to"
+        },
+        {
+            "end": 48.08,
+            "start": 47.72,
+            "word": " stage"
+        },
+        {
+            "end": 48.22,
+            "start": 48.08,
+            "word": " the"
+        },
+        {
+            "end": 48.56,
+            "start": 48.22,
+            "word": " files,"
+        },
+        {
+            "end": 48.98,
+            "start": 48.66,
+            "word": " and"
+        },
+        {
+            "end": 49.08,
+            "start": 48.98,
+            "word": " then"
+        },
+        {
+            "end": 49.26,
+            "start": 49.08,
+            "word": " git"
+        },
+        {
+            "end": 49.52,
+            "start": 49.26,
+            "word": " commit"
+        },
+        {
+            "end": 49.92,
+            "start": 49.52,
+            "word": " to"
+        },
+        {
+            "end": 50.16,
+            "start": 49.92,
+            "word": " commit"
+        },
+        {
+            "end": 50.36,
+            "start": 50.16,
+            "word": " them"
+        },
+        {
+            "end": 50.54,
+            "start": 50.36,
+            "word": " to"
+        },
+        {
+            "end": 50.66,
+            "start": 50.54,
+            "word": " the"
+        },
+        {
+            "end": 50.88,
+            "start": 50.66,
+            "word": " repo."
+        },
+        {
+            "end": 51.58,
+            "start": 51.18,
+            "word": " Now"
+        },
+        {
+            "end": 51.7,
+            "start": 51.58,
+            "word": " we"
+        },
+        {
+            "end": 51.86,
+            "start": 51.7,
+            "word": " need"
+        },
+        {
+            "end": 51.98,
+            "start": 51.86,
+            "word": " to"
+        },
+        {
+            "end": 52.12,
+            "start": 51.98,
+            "word": " get"
+        },
+        {
+            "end": 52.22,
+            "start": 52.12,
+            "word": " our"
+        },
+        {
+            "end": 52.5,
+            "start": 52.22,
+            "word": " files"
+        },
+        {
+            "end": 52.68,
+            "start": 52.5,
+            "word": " back"
+        },
+        {
+            "end": 52.86,
+            "start": 52.68,
+            "word": " to"
+        },
+        {
+            "end": 53.08,
+            "start": 52.86,
+            "word": " GitHub."
+        },
+        {
+            "end": 53.74,
+            "start": 53.5,
+            "word": " git"
+        },
+        {
+            "end": 53.96,
+            "start": 53.74,
+            "word": " push"
+        },
+        {
+            "end": 54.36,
+            "start": 53.96,
+            "word": " is"
+        },
+        {
+            "end": 54.46,
+            "start": 54.36,
+            "word": " the"
+        },
+        {
+            "end": 54.7,
+            "start": 54.46,
+            "word": " command"
+        },
+        {
+            "end": 54.84,
+            "start": 54.7,
+            "word": " that"
+        },
+        {
+            "end": 54.94,
+            "start": 54.84,
+            "word": " can"
+        },
+        {
+            "end": 55.08,
+            "start": 54.94,
+            "word": " do"
+        },
+        {
+            "end": 55.24,
+            "start": 55.08,
+            "word": " that."
+        },
+        {
+            "end": 55.58,
+            "start": 55.38,
+            "word": " We"
+        },
+        {
+            "end": 55.72,
+            "start": 55.58,
+            "word": " tell"
+        },
+        {
+            "end": 55.84,
+            "start": 55.72,
+            "word": " it"
+        },
+        {
+            "end": 55.9,
+            "start": 55.84,
+            "word": " to"
+        },
+        {
+            "end": 56.04,
+            "start": 55.9,
+            "word": " use"
+        },
+        {
+            "end": 56.42,
+            "start": 56.04,
+            "word": " origin,"
+        },
+        {
+            "end": 56.9,
+            "start": 56.6,
+            "word": " which"
+        },
+        {
+            "end": 57.02,
+            "start": 56.9,
+            "word": " is"
+        },
+        {
+            "end": 57.12,
+            "start": 57.02,
+            "word": " our"
+        },
+        {
+            "end": 57.38,
+            "start": 57.12,
+            "word": " remote"
+        },
+        {
+            "end": 57.88,
+            "start": 57.38,
+            "word": " repository,"
+        },
+        {
+            "end": 58.54,
+            "start": 58.08,
+            "word": " followed"
+        },
+        {
+            "end": 59.18,
+            "start": 58.54,
+            "word": " by"
+        },
+        {
+            "end": 59.38,
+            "start": 59.18,
+            "word": " the"
+        },
+        {
+            "end": 59.64,
+            "start": 59.38,
+            "word": " branch"
+        },
+        {
+            "end": 59.86,
+            "start": 59.64,
+            "word": " name"
+        },
+        {
+            "end": 60,
+            "start": 59.86,
+            "word": " that"
+        },
+        {
+            "end": 60.14,
+            "start": 60,
+            "word": " we're"
+        },
+        {
+            "end": 60.32,
+            "start": 60.14,
+            "word": " currently"
+        },
+        {
+            "end": 60.6,
+            "start": 60.32,
+            "word": " working"
+        },
+        {
+            "end": 60.84,
+            "start": 60.6,
+            "word": " on."
+        },
+        {
+            "end": 61.2,
+            "start": 60.9,
+            "word": " When"
+        },
+        {
+            "end": 61.32,
+            "start": 61.2,
+            "word": " we"
+        },
+        {
+            "end": 61.42,
+            "start": 61.32,
+            "word": " go"
+        },
+        {
+            "end": 61.62,
+            "start": 61.42,
+            "word": " back"
+        },
+        {
+            "end": 61.74,
+            "start": 61.62,
+            "word": " to"
+        },
+        {
+            "end": 61.86,
+            "start": 61.74,
+            "word": " our"
+        },
+        {
+            "end": 62.04,
+            "start": 61.86,
+            "word": " fork"
+        },
+        {
+            "end": 62.18,
+            "start": 62.04,
+            "word": " on"
+        },
+        {
+            "end": 62.46,
+            "start": 62.18,
+            "word": " GitHub,"
+        },
+        {
+            "end": 62.84,
+            "start": 62.66,
+            "word": " we"
+        },
+        {
+            "end": 63,
+            "start": 62.84,
+            "word": " should"
+        },
+        {
+            "end": 63.16,
+            "start": 63,
+            "word": " see"
+        },
+        {
+            "end": 63.34,
+            "start": 63.16,
+            "word": " our"
+        },
+        {
+            "end": 63.68,
+            "start": 63.34,
+            "word": " changes,"
+        },
+        {
+            "end": 64.04,
+            "start": 63.86,
+            "word": " as"
+        },
+        {
+            "end": 64.18,
+            "start": 64.04,
+            "word": " well"
+        },
+        {
+            "end": 64.32,
+            "start": 64.18,
+            "word": " as"
+        },
+        {
+            "end": 64.42,
+            "start": 64.32,
+            "word": " a"
+        },
+        {
+            "end": 64.7,
+            "start": 64.42,
+            "word": " button"
+        },
+        {
+            "end": 64.94,
+            "start": 64.7,
+            "word": " to"
+        },
+        {
+            "end": 65.28,
+            "start": 64.94,
+            "word": " open"
+        },
+        {
+            "end": 65.46,
+            "start": 65.28,
+            "word": " a"
+        },
+        {
+            "end": 65.56,
+            "start": 65.46,
+            "word": " new"
+        },
+        {
+            "end": 65.74,
+            "start": 65.56,
+            "word": " pull"
+        },
+        {
+            "end": 66.02,
+            "start": 65.74,
+            "word": " request."
+        },
+        {
+            "end": 66.44,
+            "start": 66.28,
+            "word": " Make"
+        },
+        {
+            "end": 66.6,
+            "start": 66.44,
+            "word": " sure"
+        },
+        {
+            "end": 66.72,
+            "start": 66.6,
+            "word": " that"
+        },
+        {
+            "end": 66.8,
+            "start": 66.72,
+            "word": " you"
+        },
+        {
+            "end": 67.02,
+            "start": 66.8,
+            "word": " follow"
+        },
+        {
+            "end": 67.2,
+            "start": 67.02,
+            "word": " the"
+        },
+        {
+            "end": 67.58,
+            "start": 67.2,
+            "word": " contribution"
+        },
+        {
+            "end": 68.04,
+            "start": 67.58,
+            "word": " guidelines"
+        },
+        {
+            "end": 68.42,
+            "start": 68.04,
+            "word": " for"
+        },
+        {
+            "end": 68.56,
+            "start": 68.42,
+            "word": " the"
+        },
+        {
+            "end": 68.92,
+            "start": 68.56,
+            "word": " owner's"
+        },
+        {
+            "end": 69.1,
+            "start": 68.92,
+            "word": " repo"
+        },
+        {
+            "end": 69.56,
+            "start": 69.1,
+            "word": " carefully,"
+        },
+        {
+            "end": 70.02,
+            "start": 69.72,
+            "word": " because"
+        },
+        {
+            "end": 70.26,
+            "start": 70.02,
+            "word": " it's"
+        },
+        {
+            "end": 70.5,
+            "start": 70.26,
+            "word": " typically"
+        },
+        {
+            "end": 70.88,
+            "start": 70.5,
+            "word": " bad"
+        },
+        {
+            "end": 71.22,
+            "start": 70.88,
+            "word": " GitHub"
+        },
+        {
+            "end": 71.76,
+            "start": 71.22,
+            "word": " etiquette"
+        },
+        {
+            "end": 71.94,
+            "start": 71.76,
+            "word": " to"
+        },
+        {
+            "end": 72.2,
+            "start": 71.94,
+            "word": " submit"
+        },
+        {
+            "end": 72.32,
+            "start": 72.2,
+            "word": " a"
+        },
+        {
+            "end": 72.42,
+            "start": 72.32,
+            "word": " pull"
+        },
+        {
+            "end": 72.78,
+            "start": 72.42,
+            "word": " request"
+        },
+        {
+            "end": 73.08,
+            "start": 72.78,
+            "word": " without"
+        },
+        {
+            "end": 73.34,
+            "start": 73.08,
+            "word": " first"
+        },
+        {
+            "end": 73.74,
+            "start": 73.34,
+            "word": " discussing"
+        },
+        {
+            "end": 74,
+            "start": 73.74,
+            "word": " it"
+        },
+        {
+            "end": 74.14,
+            "start": 74,
+            "word": " in"
+        },
+        {
+            "end": 74.2,
+            "start": 74.14,
+            "word": " the"
+        },
+        {
+            "end": 74.5,
+            "start": 74.2,
+            "word": " issues."
+        },
+        {
+            "end": 74.9,
+            "start": 74.72,
+            "word": " But"
+        },
+        {
+            "end": 75,
+            "start": 74.9,
+            "word": " if"
+        },
+        {
+            "end": 75.08,
+            "start": 75,
+            "word": " you're"
+        },
+        {
+            "end": 75.38,
+            "start": 75.08,
+            "word": " confident"
+        },
+        {
+            "end": 75.6,
+            "start": 75.38,
+            "word": " about"
+        },
+        {
+            "end": 75.74,
+            "start": 75.6,
+            "word": " your"
+        },
+        {
+            "end": 76.1,
+            "start": 75.74,
+            "word": " changes,"
+        },
+        {
+            "end": 76.44,
+            "start": 76.26,
+            "word": " go"
+        },
+        {
+            "end": 76.64,
+            "start": 76.44,
+            "word": " ahead"
+        },
+        {
+            "end": 76.9,
+            "start": 76.64,
+            "word": " and"
+        },
+        {
+            "end": 77.14,
+            "start": 76.9,
+            "word": " click"
+        },
+        {
+            "end": 77.32,
+            "start": 77.14,
+            "word": " the"
+        },
+        {
+            "end": 77.42,
+            "start": 77.32,
+            "word": " green"
+        },
+        {
+            "end": 77.7,
+            "start": 77.42,
+            "word": " button."
+        },
+        {
+            "end": 78.08,
+            "start": 77.84,
+            "word": " And"
+        },
+        {
+            "end": 78.24,
+            "start": 78.08,
+            "word": " that's"
+        },
+        {
+            "end": 78.34,
+            "start": 78.24,
+            "word": " all"
+        },
+        {
+            "end": 78.44,
+            "start": 78.34,
+            "word": " there"
+        },
+        {
+            "end": 78.56,
+            "start": 78.44,
+            "word": " is"
+        },
+        {
+            "end": 78.66,
+            "start": 78.56,
+            "word": " to"
+        },
+        {
+            "end": 78.84,
+            "start": 78.66,
+            "word": " it."
+        },
+        {
+            "end": 79.2,
+            "start": 78.92,
+            "word": " After"
+        },
+        {
+            "end": 79.36,
+            "start": 79.2,
+            "word": " your"
+        },
+        {
+            "end": 79.6,
+            "start": 79.36,
+            "word": " PR"
+        },
+        {
+            "end": 79.72,
+            "start": 79.6,
+            "word": " is"
+        },
+        {
+            "end": 80,
+            "start": 79.72,
+            "word": " merged,"
+        },
+        {
+            "end": 80.24,
+            "start": 80.14,
+            "word": " you"
+        },
+        {
+            "end": 80.4,
+            "start": 80.24,
+            "word": " should"
+        },
+        {
+            "end": 80.6,
+            "start": 80.4,
+            "word": " receive"
+        },
+        {
+            "end": 80.8,
+            "start": 80.6,
+            "word": " a"
+        },
+        {
+            "end": 81.06,
+            "start": 80.8,
+            "word": " sticker"
+        },
+        {
+            "end": 81.26,
+            "start": 81.06,
+            "word": " in"
+        },
+        {
+            "end": 81.28,
+            "start": 81.26,
+            "word": " the"
+        },
+        {
+            "end": 81.54,
+            "start": 81.28,
+            "word": " mail"
+        },
+        {
+            "end": 81.72,
+            "start": 81.54,
+            "word": " a"
+        },
+        {
+            "end": 81.84,
+            "start": 81.72,
+            "word": " few"
+        },
+        {
+            "end": 82,
+            "start": 81.84,
+            "word": " weeks"
+        },
+        {
+            "end": 82.28,
+            "start": 82,
+            "word": " later."
+        },
+        {
+            "end": 82.92,
+            "start": 82.56,
+            "word": " But"
+        },
+        {
+            "end": 83,
+            "start": 82.92,
+            "word": " we"
+        },
+        {
+            "end": 83.16,
+            "start": 83,
+            "word": " still"
+        },
+        {
+            "end": 83.26,
+            "start": 83.16,
+            "word": " have"
+        },
+        {
+            "end": 83.32,
+            "start": 83.26,
+            "word": " a"
+        },
+        {
+            "end": 83.44,
+            "start": 83.32,
+            "word": " few"
+        },
+        {
+            "end": 83.66,
+            "start": 83.44,
+            "word": " seconds"
+        },
+        {
+            "end": 83.86,
+            "start": 83.66,
+            "word": " to"
+        },
+        {
+            "end": 84.04,
+            "start": 83.86,
+            "word": " kill,"
+        },
+        {
+            "end": 84.32,
+            "start": 84.14,
+            "word": " so"
+        },
+        {
+            "end": 84.56,
+            "start": 84.32,
+            "word": " here's"
+        },
+        {
+            "end": 84.62,
+            "start": 84.56,
+            "word": " a"
+        },
+        {
+            "end": 84.76,
+            "start": 84.62,
+            "word": " little"
+        },
+        {
+            "end": 84.94,
+            "start": 84.76,
+            "word": " pro"
+        },
+        {
+            "end": 85.16,
+            "start": 84.94,
+            "word": " tip."
+        },
+        {
+            "end": 85.66,
+            "start": 85.36,
+            "word": " When"
+        },
+        {
+            "end": 85.92,
+            "start": 85.66,
+            "word": " working"
+        },
+        {
+            "end": 86.1,
+            "start": 85.92,
+            "word": " with"
+        },
+        {
+            "end": 86.14,
+            "start": 86.1,
+            "word": " a"
+        },
+        {
+            "end": 86.32,
+            "start": 86.14,
+            "word": " fork"
+        },
+        {
+            "end": 86.72,
+            "start": 86.32,
+            "word": " locally,"
+        },
+        {
+            "end": 87.08,
+            "start": 86.86,
+            "word": " you"
+        },
+        {
+            "end": 87.18,
+            "start": 87.08,
+            "word": " can"
+        },
+        {
+            "end": 87.36,
+            "start": 87.18,
+            "word": " keep"
+        },
+        {
+            "end": 87.5,
+            "start": 87.36,
+            "word": " it"
+        },
+        {
+            "end": 87.6,
+            "start": 87.5,
+            "word": " in"
+        },
+        {
+            "end": 87.9,
+            "start": 87.6,
+            "word": " sync"
+        },
+        {
+            "end": 88.06,
+            "start": 87.9,
+            "word": " with"
+        },
+        {
+            "end": 88.06,
+            "start": 88.06,
+            "word": " your"
+        },
+        {
+            "end": 88.06,
+            "start": 88.06,
+            "word": " network."
+        },
+        {
+            "end": 88.72,
+            "start": 88.08,
+            "word": " By"
+        },
+        {
+            "end": 89.2,
+            "start": 88.72,
+            "word": " first"
+        },
+        {
+            "end": 89.48,
+            "start": 89.2,
+            "word": " adding"
+        },
+        {
+            "end": 89.66,
+            "start": 89.48,
+            "word": " a"
+        },
+        {
+            "end": 89.88,
+            "start": 89.66,
+            "word": " remote"
+        },
+        {
+            "end": 90.16,
+            "start": 89.88,
+            "word": " link"
+        },
+        {
+            "end": 90.38,
+            "start": 90.16,
+            "word": " to"
+        },
+        {
+            "end": 90.52,
+            "start": 90.38,
+            "word": " the"
+        },
+        {
+            "end": 90.82,
+            "start": 90.52,
+            "word": " upstream"
+        },
+        {
+            "end": 91.22,
+            "start": 90.82,
+            "word": " repo."
+        },
+        {
+            "end": 91.98,
+            "start": 91.58,
+            "word": " Now"
+        },
+        {
+            "end": 92.06,
+            "start": 91.98,
+            "word": " when"
+        },
+        {
+            "end": 92.24,
+            "start": 92.06,
+            "word": " things"
+        },
+        {
+            "end": 92.52,
+            "start": 92.24,
+            "word": " change"
+        },
+        {
+            "end": 92.68,
+            "start": 92.52,
+            "word": " in"
+        },
+        {
+            "end": 92.76,
+            "start": 92.68,
+            "word": " that"
+        },
+        {
+            "end": 92.98,
+            "start": 92.76,
+            "word": " repo,"
+        },
+        {
+            "end": 93.32,
+            "start": 93.18,
+            "word": " you"
+        },
+        {
+            "end": 93.46,
+            "start": 93.32,
+            "word": " can"
+        },
+        {
+            "end": 93.6,
+            "start": 93.46,
+            "word": " use"
+        },
+        {
+            "end": 93.78,
+            "start": 93.6,
+            "word": " git"
+        },
+        {
+            "end": 93.98,
+            "start": 93.78,
+            "word": " fetch"
+        },
+        {
+            "end": 94.3,
+            "start": 93.98,
+            "word": " to"
+        },
+        {
+            "end": 94.66,
+            "start": 94.3,
+            "word": " download"
+        },
+        {
+            "end": 94.86,
+            "start": 94.66,
+            "word": " the"
+        },
+        {
+            "end": 95.22,
+            "start": 94.86,
+            "word": " changes,"
+        },
+        {
+            "end": 95.64,
+            "start": 95.42,
+            "word": " and"
+        },
+        {
+            "end": 95.78,
+            "start": 95.64,
+            "word": " then"
+        },
+        {
+            "end": 95.98,
+            "start": 95.78,
+            "word": " git"
+        },
+        {
+            "end": 96.56,
+            "start": 95.98,
+            "word": " rebase"
+        },
+        {
+            "end": 96.78,
+            "start": 96.56,
+            "word": " to"
+        },
+        {
+            "end": 97.08,
+            "start": 96.78,
+            "word": " add"
+        },
+        {
+            "end": 97.22,
+            "start": 97.08,
+            "word": " those"
+        },
+        {
+            "end": 97.58,
+            "start": 97.22,
+            "word": " changes"
+        },
+        {
+            "end": 97.8,
+            "start": 97.58,
+            "word": " on"
+        },
+        {
+            "end": 98.02,
+            "start": 97.8,
+            "word": " top"
+        },
+        {
+            "end": 98.2,
+            "start": 98.02,
+            "word": " of"
+        },
+        {
+            "end": 98.28,
+            "start": 98.2,
+            "word": " your"
+        },
+        {
+            "end": 98.58,
+            "start": 98.28,
+            "word": " existing"
+        },
+        {
+            "end": 98.94,
+            "start": 98.58,
+            "word": " work."
+        },
+        {
+            "end": 99.36,
+            "start": 99.12,
+            "word": " And"
+        },
+        {
+            "end": 99.54,
+            "start": 99.36,
+            "word": " stay"
+        },
+        {
+            "end": 99.76,
+            "start": 99.54,
+            "word": " tuned"
+        },
+        {
+            "end": 99.9,
+            "start": 99.76,
+            "word": " for"
+        },
+        {
+            "end": 100.02,
+            "start": 99.9,
+            "word": " a"
+        },
+        {
+            "end": 100.2,
+            "start": 100.02,
+            "word": " future"
+        },
+        {
+            "end": 100.5,
+            "start": 100.2,
+            "word": " video"
+        },
+        {
+            "end": 100.8,
+            "start": 100.5,
+            "word": " all"
+        },
+        {
+            "end": 101.02,
+            "start": 100.8,
+            "word": " about"
+        },
+        {
+            "end": 101.26,
+            "start": 101.02,
+            "word": " git"
+        },
+        {
+            "end": 101.76,
+            "start": 101.26,
+            "word": " rebase."
+        },
+        {
+            "end": 102.14,
+            "start": 101.84,
+            "word": " This"
+        },
+        {
+            "end": 102.24,
+            "start": 102.14,
+            "word": " has"
+        },
+        {
+            "end": 102.4,
+            "start": 102.24,
+            "word": " been"
+        },
+        {
+            "end": 102.54,
+            "start": 102.4,
+            "word": " your"
+        },
+        {
+            "end": 102.78,
+            "start": 102.54,
+            "word": " first"
+        },
+        {
+            "end": 103.08,
+            "start": 102.78,
+            "word": " GitHub"
+        },
+        {
+            "end": 103.3,
+            "start": 103.08,
+            "word": " pull"
+        },
+        {
+            "end": 103.66,
+            "start": 103.3,
+            "word": " request"
+        },
+        {
+            "end": 103.92,
+            "start": 103.66,
+            "word": " in"
+        },
+        {
+            "end": 104.18,
+            "start": 103.92,
+            "word": " 100"
+        },
+        {
+            "end": 104.66,
+            "start": 104.18,
+            "word": " seconds."
+        },
+        {
+            "end": 105.14,
+            "start": 104.9,
+            "word": " Make"
+        },
+        {
+            "end": 105.28,
+            "start": 105.14,
+            "word": " sure"
+        },
+        {
+            "end": 105.36,
+            "start": 105.28,
+            "word": " to"
+        },
+        {
+            "end": 105.46,
+            "start": 105.36,
+            "word": " hit"
+        },
+        {
+            "end": 105.54,
+            "start": 105.46,
+            "word": " the"
+        },
+        {
+            "end": 105.7,
+            "start": 105.54,
+            "word": " like"
+        },
+        {
+            "end": 105.94,
+            "start": 105.7,
+            "word": " button"
+        },
+        {
+            "end": 106.16,
+            "start": 105.94,
+            "word": " if"
+        },
+        {
+            "end": 106.26,
+            "start": 106.16,
+            "word": " you"
+        },
+        {
+            "end": 106.34,
+            "start": 106.26,
+            "word": " want"
+        },
+        {
+            "end": 106.42,
+            "start": 106.34,
+            "word": " to"
+        },
+        {
+            "end": 106.52,
+            "start": 106.42,
+            "word": " see"
+        },
+        {
+            "end": 106.7,
+            "start": 106.52,
+            "word": " more"
+        },
+        {
+            "end": 106.9,
+            "start": 106.7,
+            "word": " short"
+        },
+        {
+            "end": 107.1,
+            "start": 106.9,
+            "word": " videos"
+        },
+        {
+            "end": 107.4,
+            "start": 107.1,
+            "word": " like"
+        },
+        {
+            "end": 107.66,
+            "start": 107.4,
+            "word": " this."
+        },
+        {
+            "end": 108.1,
+            "start": 107.82,
+            "word": " Thanks"
+        },
+        {
+            "end": 108.24,
+            "start": 108.1,
+            "word": " for"
+        },
+        {
+            "end": 108.6,
+            "start": 108.24,
+            "word": " watching,"
+        },
+        {
+            "end": 108.98,
+            "start": 108.76,
+            "word": " and"
+        },
+        {
+            "end": 109.08,
+            "start": 108.98,
+            "word": " I"
+        },
+        {
+            "end": 109.24,
+            "start": 109.08,
+            "word": " will"
+        },
+        {
+            "end": 109.42,
+            "start": 109.24,
+            "word": " see"
+        },
+        {
+            "end": 109.58,
+            "start": 109.42,
+            "word": " you"
+        },
+        {
+            "end": 109.74,
+            "start": 109.58,
+            "word": " in"
+        },
+        {
+            "end": 109.9,
+            "start": 109.74,
+            "word": " the"
+        },
+        {
+            "end": 110.1,
+            "start": 109.9,
+            "word": " next"
+        },
+        {
+            "end": 110.28,
+            "start": 110.1,
+            "word": " one."
+        }
+    ]
+}

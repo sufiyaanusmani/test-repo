@@ -1,0 +1,3442 @@
+{
+    "detected_language": "en",
+    "device": "cuda",
+    "model": "large-v3",
+    "segments": [
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 4.1,
+            "id": 1,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 0,
+            "temperature": 0,
+            "text": " Git, a system for keeping track of changes that happen across a set of files.",
+            "tokens": [
+                50383,
+                16939,
+                11,
+                257,
+                1185,
+                337,
+                5145,
+                2837,
+                295,
+                2962,
+                300,
+                1051,
+                2108,
+                257,
+                992,
+                295,
+                7098,
+                13,
+                50589
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 8.72,
+            "id": 2,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 4.32,
+            "temperature": 0,
+            "text": " Open a directory on your local system with an editor like VSCode, then run git init from",
+            "tokens": [
+                50589,
+                7238,
+                257,
+                21120,
+                322,
+                428,
+                2654,
+                1185,
+                365,
+                364,
+                9839,
+                411,
+                691,
+                20839,
+                1429,
+                11,
+                550,
+                1190,
+                18331,
+                3157,
+                490,
+                50803
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 9.28,
+            "id": 3,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 8.72,
+            "temperature": 0,
+            "text": " the command line.",
+            "tokens": [
+                50803,
+                264,
+                5622,
+                1622,
+                13,
+                50853
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 11.66,
+            "id": 4,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 9.42,
+            "temperature": 0,
+            "text": " You just created a git repository or repo.",
+            "tokens": [
+                50853,
+                509,
+                445,
+                2942,
+                257,
+                18331,
+                25841,
+                420,
+                49040,
+                13,
+                50977
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 15.64,
+            "id": 5,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 11.9,
+            "temperature": 0,
+            "text": " It lives in this hidden git directory and keeps track of all the changes that happen",
+            "tokens": [
+                50977,
+                467,
+                2909,
+                294,
+                341,
+                7633,
+                18331,
+                21120,
+                293,
+                5965,
+                2837,
+                295,
+                439,
+                264,
+                2962,
+                300,
+                1051,
+                51152
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 16.22,
+            "id": 6,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 15.64,
+            "temperature": 0,
+            "text": " to these files.",
+            "tokens": [
+                51152,
+                281,
+                613,
+                7098,
+                13,
+                51204
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 20.7,
+            "id": 7,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 16.48,
+            "temperature": 0,
+            "text": " As you work on a codebase, you take snapshots or commits of the current state of these files.",
+            "tokens": [
+                51204,
+                1018,
+                291,
+                589,
+                322,
+                257,
+                3089,
+                17429,
+                11,
+                291,
+                747,
+                19206,
+                27495,
+                420,
+                48311,
+                295,
+                264,
+                2190,
+                1785,
+                295,
+                613,
+                7098,
+                13,
+                51430
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 24.7,
+            "id": 8,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 20.98,
+            "temperature": 0,
+            "text": " Every commit has a unique ID and is linked to its parent, and this means we can travel",
+            "tokens": [
+                51430,
+                2048,
+                5599,
+                575,
+                257,
+                3845,
+                7348,
+                293,
+                307,
+                9408,
+                281,
+                1080,
+                2596,
+                11,
+                293,
+                341,
+                1355,
+                321,
+                393,
+                3147,
+                51603
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 27.04,
+            "id": 9,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 24.7,
+            "temperature": 0,
+            "text": " back in time to a previous version of our files.",
+            "tokens": [
+                51603,
+                646,
+                294,
+                565,
+                281,
+                257,
+                3894,
+                3037,
+                295,
+                527,
+                7098,
+                13,
+                51741
+            ]
+        },
+        {
+            "avg_logprob": -0.1190137987012987,
+            "compression_ratio": 1.760932944606414,
+            "end": 29.36,
+            "id": 10,
+            "no_speech_prob": 0.0297393798828125,
+            "seek": 2936,
+            "start": 27.2,
+            "temperature": 0,
+            "text": " Notice how our source control icon is lit up.",
+            "tokens": [
+                51741,
+                13428,
+                577,
+                527,
+                4009,
+                1969,
+                6528,
+                307,
+                7997,
+                493,
+                13,
+                51849
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 32.96,
+            "id": 11,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 29.36,
+            "temperature": 0,
+            "text": " Currently, all of our files are untracked because we need to add them to the repo.",
+            "tokens": [
+                50365,
+                19964,
+                11,
+                439,
+                295,
+                527,
+                7098,
+                366,
+                1701,
+                81,
+                25949,
+                570,
+                321,
+                643,
+                281,
+                909,
+                552,
+                281,
+                264,
+                49040,
+                13,
+                50578
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 37.74,
+            "id": 12,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 33.18,
+            "temperature": 0,
+            "text": " Run git add to include or stage these files in the repo, then create a snapshot of their",
+            "tokens": [
+                50578,
+                8950,
+                18331,
+                909,
+                281,
+                4090,
+                420,
+                3233,
+                613,
+                7098,
+                294,
+                264,
+                49040,
+                11,
+                550,
+                1884,
+                257,
+                30163,
+                295,
+                641,
+                50784
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 41.46,
+            "id": 13,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 37.74,
+            "temperature": 0,
+            "text": " current state by running git commit along with a message about what you did to these",
+            "tokens": [
+                50784,
+                2190,
+                1785,
+                538,
+                2614,
+                18331,
+                5599,
+                2051,
+                365,
+                257,
+                3636,
+                466,
+                437,
+                291,
+                630,
+                281,
+                613,
+                50970
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 41.74,
+            "id": 14,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 41.46,
+            "temperature": 0,
+            "text": " files.",
+            "tokens": [
+                50970,
+                7098,
+                13,
+                51020
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 45.8,
+            "id": 15,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 42.04,
+            "temperature": 0,
+            "text": " Congratulations, you just created the first commit on the head of the master branch in",
+            "tokens": [
+                51020,
+                9694,
+                11,
+                291,
+                445,
+                2942,
+                264,
+                700,
+                5599,
+                322,
+                264,
+                1378,
+                295,
+                264,
+                4505,
+                9819,
+                294,
+                51190
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 46.24,
+            "id": 16,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 45.8,
+            "temperature": 0,
+            "text": " this repo.",
+            "tokens": [
+                51190,
+                341,
+                49040,
+                13,
+                51240
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 49.38,
+            "id": 17,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 46.42,
+            "temperature": 0,
+            "text": " The changed files disappeared, and you're now on a clean working directory.",
+            "tokens": [
+                51240,
+                440,
+                3105,
+                7098,
+                13954,
+                11,
+                293,
+                291,
+                434,
+                586,
+                322,
+                257,
+                2541,
+                1364,
+                21120,
+                13,
+                51392
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 51.38,
+            "id": 18,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 49.62,
+            "temperature": 0,
+            "text": " The head represents the most recent commit.",
+            "tokens": [
+                51392,
+                440,
+                1378,
+                8855,
+                264,
+                881,
+                5162,
+                5599,
+                13,
+                51493
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 55.66,
+            "id": 19,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 51.56,
+            "temperature": 0,
+            "text": " If we make some changes, commit them to the repo, the head moves forward, but we still",
+            "tokens": [
+                51493,
+                759,
+                321,
+                652,
+                512,
+                2962,
+                11,
+                5599,
+                552,
+                281,
+                264,
+                49040,
+                11,
+                264,
+                1378,
+                6067,
+                2128,
+                11,
+                457,
+                321,
+                920,
+                51682
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 58.54,
+            "id": 20,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 55.66,
+            "temperature": 0,
+            "text": " have a reference to our previous commit, so we can always go back to it.",
+            "tokens": [
+                51682,
+                362,
+                257,
+                6408,
+                281,
+                527,
+                3894,
+                5599,
+                11,
+                370,
+                321,
+                393,
+                1009,
+                352,
+                646,
+                281,
+                309,
+                13,
+                51848
+            ]
+        },
+        {
+            "avg_logprob": -0.14179238505747127,
+            "compression_ratio": 1.853018372703412,
+            "end": 59.34,
+            "id": 21,
+            "no_speech_prob": 0.0011873245239257812,
+            "seek": 5936,
+            "start": 58.66,
+            "temperature": 0,
+            "text": " But the thing about git commit is that it's not always the case.",
+            "tokens": [
+                51848,
+                583,
+                264,
+                551,
+                466,
+                18331,
+                5599,
+                307,
+                300,
+                309,
+                311,
+                406,
+                1009,
+                264,
+                1389,
+                13,
+                51855
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 61.86,
+            "id": 22,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 59.36,
+            "temperature": 0,
+            "text": " The thing about software is that it's developed in a non-linear fashion.",
+            "tokens": [
+                50365,
+                440,
+                551,
+                466,
+                4722,
+                307,
+                300,
+                309,
+                311,
+                4743,
+                294,
+                257,
+                2107,
+                12,
+                28263,
+                6700,
+                13,
+                50516
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 65.96,
+            "id": 23,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 62.12,
+            "temperature": 0,
+            "text": " You might have multiple teams working on different features for the same codebase simultaneously.",
+            "tokens": [
+                50516,
+                509,
+                1062,
+                362,
+                3866,
+                5491,
+                1364,
+                322,
+                819,
+                4122,
+                337,
+                264,
+                912,
+                3089,
+                17429,
+                16561,
+                13,
+                50753
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 68.68,
+            "id": 24,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 66.68,
+            "temperature": 0,
+            "text": " Git makes that possible by branching.",
+            "tokens": [
+                50753,
+                16939,
+                1669,
+                300,
+                1944,
+                538,
+                9819,
+                278,
+                13,
+                50863
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 72.92,
+            "id": 25,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 68.82,
+            "temperature": 0,
+            "text": " Create one by running git branch, and then run git checkout to move into that branch.",
+            "tokens": [
+                50863,
+                20248,
+                472,
+                538,
+                2614,
+                18331,
+                9819,
+                11,
+                293,
+                550,
+                1190,
+                18331,
+                37153,
+                281,
+                1286,
+                666,
+                300,
+                9819,
+                13,
+                51070
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 76.94,
+            "id": 26,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 73.12,
+            "temperature": 0,
+            "text": " You can now safely work on your feature in this branch without affecting the code or",
+            "tokens": [
+                51070,
+                509,
+                393,
+                586,
+                11750,
+                589,
+                322,
+                428,
+                4111,
+                294,
+                341,
+                9819,
+                1553,
+                17476,
+                264,
+                3089,
+                420,
+                51247
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 78.24,
+            "id": 27,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 76.94,
+            "temperature": 0,
+            "text": " files in the master branch.",
+            "tokens": [
+                51247,
+                7098,
+                294,
+                264,
+                4505,
+                9819,
+                13,
+                51330
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 81.72,
+            "id": 28,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 78.46,
+            "temperature": 0,
+            "text": " The commits you make here live in an alternate universe with its own unique history.",
+            "tokens": [
+                51330,
+                440,
+                48311,
+                291,
+                652,
+                510,
+                1621,
+                294,
+                364,
+                18873,
+                6445,
+                365,
+                1080,
+                1065,
+                3845,
+                2503,
+                13,
+                51505
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 85.28,
+            "id": 29,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 81.9,
+            "temperature": 0,
+            "text": " At some point, though, you'll likely want to merge this history with the history in",
+            "tokens": [
+                51505,
+                1711,
+                512,
+                935,
+                11,
+                1673,
+                11,
+                291,
+                603,
+                3700,
+                528,
+                281,
+                22183,
+                341,
+                2503,
+                365,
+                264,
+                2503,
+                294,
+                51662
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 85.88,
+            "id": 30,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 85.28,
+            "temperature": 0,
+            "text": " the master branch.",
+            "tokens": [
+                51662,
+                264,
+                4505,
+                9819,
+                13,
+                51723
+            ]
+        },
+        {
+            "avg_logprob": -0.09364983974358974,
+            "compression_ratio": 1.850415512465374,
+            "end": 88.92,
+            "id": 31,
+            "no_speech_prob": 0.0740966796875,
+            "seek": 8892,
+            "start": 86.1,
+            "temperature": 0,
+            "text": " When you're ready, go back to the master branch by running git checkout.",
+            "tokens": [
+                51723,
+                1133,
+                291,
+                434,
+                1919,
+                11,
+                352,
+                646,
+                281,
+                264,
+                4505,
+                9819,
+                538,
+                2614,
+                18331,
+                37153,
+                13,
+                51848
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 91.2,
+            "id": 32,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 88.92,
+            "temperature": 0,
+            "text": " Then run git merge on your alternate universe.",
+            "tokens": [
+                50365,
+                1396,
+                1190,
+                18331,
+                22183,
+                322,
+                428,
+                18873,
+                6445,
+                13,
+                50520
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 94.8,
+            "id": 33,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 91.64000000000001,
+            "temperature": 0,
+            "text": " The tip of your feature branch now becomes the head of the master branch.",
+            "tokens": [
+                50520,
+                440,
+                4125,
+                295,
+                428,
+                4111,
+                9819,
+                586,
+                3643,
+                264,
+                1378,
+                295,
+                264,
+                4505,
+                9819,
+                13,
+                50695
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 97.96,
+            "id": 34,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 95.08,
+            "temperature": 0,
+            "text": " Or in other words, our fragmented universe has become one.",
+            "tokens": [
+                50695,
+                1610,
+                294,
+                661,
+                2283,
+                11,
+                527,
+                9241,
+                14684,
+                6445,
+                575,
+                1813,
+                472,
+                13,
+                50843
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 102.38,
+            "id": 35,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 98.16,
+            "temperature": 0,
+            "text": " Unless you ran into a merge conflict, in which case you'll just have to wait for the sequel.",
+            "tokens": [
+                50843,
+                16581,
+                291,
+                5872,
+                666,
+                257,
+                22183,
+                6596,
+                11,
+                294,
+                597,
+                1389,
+                291,
+                603,
+                445,
+                362,
+                281,
+                1699,
+                337,
+                264,
+                20622,
+                13,
+                51062
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 104.88,
+            "id": 36,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 102.62,
+            "temperature": 0,
+            "text": " This has been Git Explained in 100 seconds.",
+            "tokens": [
+                51062,
+                639,
+                575,
+                668,
+                16939,
+                12514,
+                3563,
+                294,
+                2319,
+                3949,
+                13,
+                51189
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 108.72,
+            "id": 37,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 105.1,
+            "temperature": 0,
+            "text": " If you want to see more short videos like this, make sure to hit the like button, subscribe,",
+            "tokens": [
+                51189,
+                759,
+                291,
+                528,
+                281,
+                536,
+                544,
+                2099,
+                2145,
+                411,
+                341,
+                11,
+                652,
+                988,
+                281,
+                2045,
+                264,
+                411,
+                2960,
+                11,
+                3022,
+                11,
+                51381
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 110.34,
+            "id": 38,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 109,
+            "temperature": 0,
+            "text": " and let me know what you think in the comments.",
+            "tokens": [
+                51381,
+                293,
+                718,
+                385,
+                458,
+                437,
+                291,
+                519,
+                294,
+                264,
+                3053,
+                13,
+                51455
+            ]
+        },
+        {
+            "avg_logprob": -0.1316793893129771,
+            "compression_ratio": 1.6634304207119741,
+            "end": 112.86,
+            "id": 39,
+            "no_speech_prob": 0.004261016845703125,
+            "seek": 11684,
+            "start": 110.54,
+            "temperature": 0,
+            "text": " Thanks for watching, and I will see you in the next one.",
+            "tokens": [
+                51455,
+                2561,
+                337,
+                1976,
+                11,
+                293,
+                286,
+                486,
+                536,
+                291,
+                294,
+                264,
+                958,
+                472,
+                13,
+                51565
+            ]
+        }
+    ],
+    "transcription": "Git, a system for keeping track of changes that happen across a set of files.\nOpen a directory on your local system with an editor like VSCode, then run git init from\nthe command line.\nYou just created a git repository or repo.\nIt lives in this hidden git directory and keeps track of all the changes that happen\nto these files.\nAs you work on a codebase, you take snapshots or commits of the current state of these files.\nEvery commit has a unique ID and is linked to its parent, and this means we can travel\nback in time to a previous version of our files.\nNotice how our source control icon is lit up.\nCurrently, all of our files are untracked because we need to add them to the repo.\nRun git add to include or stage these files in the repo, then create a snapshot of their\ncurrent state by running git commit along with a message about what you did to these\nfiles.\nCongratulations, you just created the first commit on the head of the master branch in\nthis repo.\nThe changed files disappeared, and you're now on a clean working directory.\nThe head represents the most recent commit.\nIf we make some changes, commit them to the repo, the head moves forward, but we still\nhave a reference to our previous commit, so we can always go back to it.\nBut the thing about git commit is that it's not always the case.\nThe thing about software is that it's developed in a non-linear fashion.\nYou might have multiple teams working on different features for the same codebase simultaneously.\nGit makes that possible by branching.\nCreate one by running git branch, and then run git checkout to move into that branch.\nYou can now safely work on your feature in this branch without affecting the code or\nfiles in the master branch.\nThe commits you make here live in an alternate universe with its own unique history.\nAt some point, though, you'll likely want to merge this history with the history in\nthe master branch.\nWhen you're ready, go back to the master branch by running git checkout.\nThen run git merge on your alternate universe.\nThe tip of your feature branch now becomes the head of the master branch.\nOr in other words, our fragmented universe has become one.\nUnless you ran into a merge conflict, in which case you'll just have to wait for the sequel.\nThis has been Git Explained in 100 seconds.\nIf you want to see more short videos like this, make sure to hit the like button, subscribe,\nand let me know what you think in the comments.\nThanks for watching, and I will see you in the next one.",
+    "translation": "1\n00:00:00,320 --> 00:00:04,480\nGit, a system for keeping track of changes that happen across a set of files.\n\n2\n00:00:04,480 --> 00:00:07,520\nOpen a directory on your local system with an editor like VS Code.\n\n3\n00:00:07,520 --> 00:00:09,520\nThen run git init from the command line.\n\n4\n00:00:09,520 --> 00:00:12,080\nYou just created a git repository or repo.\n\n5\n00:00:12,080 --> 00:00:16,560\nIt lives in this hidden git directory and keeps track of all the changes that happen to these files.\n\n6\n00:00:16,560 --> 00:00:21,040\nAs you work on a codebase, you take snapshots or commits of the current state of these files.\n\n7\n00:00:21,040 --> 00:00:23,760\nEvery commit has a unique ID and is linked to its parent,\n\n8\n00:00:23,760 --> 00:00:27,280\nand this means we can travel back in time to a previous version of our files.\n\n9\n00:00:27,280 --> 00:00:29,520\nNotice how our source control icon is lit up.\n\n10\n00:00:29,520 --> 00:00:33,360\nCurrently, all of our files are untracked because we need to add them to the repo.\n\n11\n00:00:33,360 --> 00:00:36,480\nRun git add to include or stage these files in the repo.\n\n12\n00:00:36,480 --> 00:00:39,520\nThen create a snapshot of their current state by running git commit\n\n13\n00:00:39,520 --> 00:00:42,000\nalong with a message about what you did to these files.\n\n14\n00:00:42,000 --> 00:00:46,400\nCongratulations, you just created the first commit on the head of the master branch in this repo.\n\n15\n00:00:46,400 --> 00:00:49,680\nThe changed files disappeared and you're now on a clean working directory.\n\n16\n00:00:49,680 --> 00:00:51,680\nThe head represents the most recent commit.\n\n17\n00:00:51,680 --> 00:00:55,120\nIf we make some changes, commit them to the repo, the head moves forward,\n\n18\n00:00:55,120 --> 00:00:58,720\nbut we still have a reference to our previous commit so we can always go back to it.\n\n19\n00:00:58,720 --> 00:00:59,440\nBut the thing about\n\n20\n00:00:59,440 --> 00:01:02,160\nsoftware is that it's developed in a non-linear fashion.\n\n21\n00:01:02,160 --> 00:01:06,880\nYou might have multiple teams working on different features for the same codebase simultaneously.\n\n22\n00:01:06,880 --> 00:01:08,960\nGit makes that possible by branching.\n\n23\n00:01:08,960 --> 00:01:13,200\nCreate one by running git branch and then run git checkout to move into that branch.\n\n24\n00:01:13,200 --> 00:01:17,040\nYou can now safely work on your feature in this branch without affecting the code or\n\n25\n00:01:17,040 --> 00:01:18,400\nfiles in the master branch.\n\n26\n00:01:18,400 --> 00:01:22,000\nThe commits you make here live in an alternate universe with its own unique history.\n\n27\n00:01:22,000 --> 00:01:26,240\nAt some point though, you'll likely want to merge this history with the history in the master branch.\n\n28\n00:01:26,240 --> 00:01:29,280\nWhen you're ready, go back to the master branch by running git checkout.\n\n29\n00:01:29,280 --> 00:01:31,840\nThen run git merge on your alternate universe.\n\n30\n00:01:31,840 --> 00:01:35,280\nThe tip of your feature branch now becomes the head of the master branch.\n\n31\n00:01:35,280 --> 00:01:38,320\nOr in other words, our fragmented universe has become one.\n\n32\n00:01:38,320 --> 00:01:40,400\nUnless you ran into a merge conflict.\n\n33\n00:01:40,400 --> 00:01:42,640\nIn which case, you'll just have to wait for the sequel.\n\n34\n00:01:42,640 --> 00:01:45,200\nThis has been Git Explained in 100 seconds.\n\n35\n00:01:45,200 --> 00:01:48,400\nIf you want to see more short videos like this, make sure to hit the like button,\n\n36\n00:01:48,400 --> 00:01:50,560\nsubscribe, and let me know what you think in the comments.\n\n37\n00:01:50,560 --> 00:01:56,640\nThanks for watching and I will see you in the next one.\n\n",
+    "word_timestamps": [
+        {
+            "end": 0.56,
+            "start": 0,
+            "word": " Git,"
+        },
+        {
+            "end": 0.88,
+            "start": 0.6,
+            "word": " a"
+        },
+        {
+            "end": 1.24,
+            "start": 0.88,
+            "word": " system"
+        },
+        {
+            "end": 1.42,
+            "start": 1.24,
+            "word": " for"
+        },
+        {
+            "end": 1.64,
+            "start": 1.42,
+            "word": " keeping"
+        },
+        {
+            "end": 1.86,
+            "start": 1.64,
+            "word": " track"
+        },
+        {
+            "end": 2.04,
+            "start": 1.86,
+            "word": " of"
+        },
+        {
+            "end": 2.32,
+            "start": 2.04,
+            "word": " changes"
+        },
+        {
+            "end": 2.64,
+            "start": 2.32,
+            "word": " that"
+        },
+        {
+            "end": 2.98,
+            "start": 2.64,
+            "word": " happen"
+        },
+        {
+            "end": 3.22,
+            "start": 2.98,
+            "word": " across"
+        },
+        {
+            "end": 3.5,
+            "start": 3.22,
+            "word": " a"
+        },
+        {
+            "end": 3.7,
+            "start": 3.5,
+            "word": " set"
+        },
+        {
+            "end": 3.82,
+            "start": 3.7,
+            "word": " of"
+        },
+        {
+            "end": 4.1,
+            "start": 3.82,
+            "word": " files."
+        },
+        {
+            "end": 4.6,
+            "start": 4.32,
+            "word": " Open"
+        },
+        {
+            "end": 4.76,
+            "start": 4.6,
+            "word": " a"
+        },
+        {
+            "end": 5.06,
+            "start": 4.76,
+            "word": " directory"
+        },
+        {
+            "end": 5.18,
+            "start": 5.06,
+            "word": " on"
+        },
+        {
+            "end": 5.26,
+            "start": 5.18,
+            "word": " your"
+        },
+        {
+            "end": 5.44,
+            "start": 5.26,
+            "word": " local"
+        },
+        {
+            "end": 5.74,
+            "start": 5.44,
+            "word": " system"
+        },
+        {
+            "end": 6.06,
+            "start": 5.74,
+            "word": " with"
+        },
+        {
+            "end": 6.2,
+            "start": 6.06,
+            "word": " an"
+        },
+        {
+            "end": 6.48,
+            "start": 6.2,
+            "word": " editor"
+        },
+        {
+            "end": 6.72,
+            "start": 6.48,
+            "word": " like"
+        },
+        {
+            "end": 7.26,
+            "start": 6.72,
+            "word": " VSCode,"
+        },
+        {
+            "end": 7.66,
+            "start": 7.38,
+            "word": " then"
+        },
+        {
+            "end": 7.84,
+            "start": 7.66,
+            "word": " run"
+        },
+        {
+            "end": 8.12,
+            "start": 7.84,
+            "word": " git"
+        },
+        {
+            "end": 8.38,
+            "start": 8.12,
+            "word": " init"
+        },
+        {
+            "end": 8.72,
+            "start": 8.38,
+            "word": " from"
+        },
+        {
+            "end": 8.82,
+            "start": 8.72,
+            "word": " the"
+        },
+        {
+            "end": 9.02,
+            "start": 8.82,
+            "word": " command"
+        },
+        {
+            "end": 9.28,
+            "start": 9.02,
+            "word": " line."
+        },
+        {
+            "end": 9.64,
+            "start": 9.42,
+            "word": " You"
+        },
+        {
+            "end": 9.74,
+            "start": 9.64,
+            "word": " just"
+        },
+        {
+            "end": 10.06,
+            "start": 9.74,
+            "word": " created"
+        },
+        {
+            "end": 10.22,
+            "start": 10.06,
+            "word": " a"
+        },
+        {
+            "end": 10.46,
+            "start": 10.22,
+            "word": " git"
+        },
+        {
+            "end": 10.88,
+            "start": 10.46,
+            "word": " repository"
+        },
+        {
+            "end": 11.36,
+            "start": 10.88,
+            "word": " or"
+        },
+        {
+            "end": 11.66,
+            "start": 11.36,
+            "word": " repo."
+        },
+        {
+            "end": 12.2,
+            "start": 11.9,
+            "word": " It"
+        },
+        {
+            "end": 12.46,
+            "start": 12.2,
+            "word": " lives"
+        },
+        {
+            "end": 12.6,
+            "start": 12.46,
+            "word": " in"
+        },
+        {
+            "end": 12.7,
+            "start": 12.6,
+            "word": " this"
+        },
+        {
+            "end": 12.96,
+            "start": 12.7,
+            "word": " hidden"
+        },
+        {
+            "end": 13.18,
+            "start": 12.96,
+            "word": " git"
+        },
+        {
+            "end": 13.62,
+            "start": 13.18,
+            "word": " directory"
+        },
+        {
+            "end": 13.94,
+            "start": 13.62,
+            "word": " and"
+        },
+        {
+            "end": 14.14,
+            "start": 13.94,
+            "word": " keeps"
+        },
+        {
+            "end": 14.36,
+            "start": 14.14,
+            "word": " track"
+        },
+        {
+            "end": 14.6,
+            "start": 14.36,
+            "word": " of"
+        },
+        {
+            "end": 14.72,
+            "start": 14.6,
+            "word": " all"
+        },
+        {
+            "end": 14.84,
+            "start": 14.72,
+            "word": " the"
+        },
+        {
+            "end": 15.14,
+            "start": 14.84,
+            "word": " changes"
+        },
+        {
+            "end": 15.38,
+            "start": 15.14,
+            "word": " that"
+        },
+        {
+            "end": 15.64,
+            "start": 15.38,
+            "word": " happen"
+        },
+        {
+            "end": 15.82,
+            "start": 15.64,
+            "word": " to"
+        },
+        {
+            "end": 15.94,
+            "start": 15.82,
+            "word": " these"
+        },
+        {
+            "end": 16.22,
+            "start": 15.94,
+            "word": " files."
+        },
+        {
+            "end": 16.78,
+            "start": 16.48,
+            "word": " As"
+        },
+        {
+            "end": 16.88,
+            "start": 16.78,
+            "word": " you"
+        },
+        {
+            "end": 17.08,
+            "start": 16.88,
+            "word": " work"
+        },
+        {
+            "end": 17.18,
+            "start": 17.08,
+            "word": " on"
+        },
+        {
+            "end": 17.26,
+            "start": 17.18,
+            "word": " a"
+        },
+        {
+            "end": 17.58,
+            "start": 17.26,
+            "word": " codebase,"
+        },
+        {
+            "end": 17.88,
+            "start": 17.74,
+            "word": " you"
+        },
+        {
+            "end": 18.04,
+            "start": 17.88,
+            "word": " take"
+        },
+        {
+            "end": 18.64,
+            "start": 18.04,
+            "word": " snapshots"
+        },
+        {
+            "end": 18.8,
+            "start": 18.64,
+            "word": " or"
+        },
+        {
+            "end": 19.18,
+            "start": 18.8,
+            "word": " commits"
+        },
+        {
+            "end": 19.44,
+            "start": 19.18,
+            "word": " of"
+        },
+        {
+            "end": 19.58,
+            "start": 19.44,
+            "word": " the"
+        },
+        {
+            "end": 19.8,
+            "start": 19.58,
+            "word": " current"
+        },
+        {
+            "end": 20.14,
+            "start": 19.8,
+            "word": " state"
+        },
+        {
+            "end": 20.36,
+            "start": 20.14,
+            "word": " of"
+        },
+        {
+            "end": 20.46,
+            "start": 20.36,
+            "word": " these"
+        },
+        {
+            "end": 20.7,
+            "start": 20.46,
+            "word": " files."
+        },
+        {
+            "end": 21.26,
+            "start": 20.98,
+            "word": " Every"
+        },
+        {
+            "end": 21.48,
+            "start": 21.26,
+            "word": " commit"
+        },
+        {
+            "end": 21.66,
+            "start": 21.48,
+            "word": " has"
+        },
+        {
+            "end": 21.8,
+            "start": 21.66,
+            "word": " a"
+        },
+        {
+            "end": 22,
+            "start": 21.8,
+            "word": " unique"
+        },
+        {
+            "end": 22.26,
+            "start": 22,
+            "word": " ID"
+        },
+        {
+            "end": 22.6,
+            "start": 22.26,
+            "word": " and"
+        },
+        {
+            "end": 22.72,
+            "start": 22.6,
+            "word": " is"
+        },
+        {
+            "end": 22.96,
+            "start": 22.72,
+            "word": " linked"
+        },
+        {
+            "end": 23.08,
+            "start": 22.96,
+            "word": " to"
+        },
+        {
+            "end": 23.22,
+            "start": 23.08,
+            "word": " its"
+        },
+        {
+            "end": 23.5,
+            "start": 23.22,
+            "word": " parent,"
+        },
+        {
+            "end": 23.98,
+            "start": 23.62,
+            "word": " and"
+        },
+        {
+            "end": 24.08,
+            "start": 23.98,
+            "word": " this"
+        },
+        {
+            "end": 24.26,
+            "start": 24.08,
+            "word": " means"
+        },
+        {
+            "end": 24.4,
+            "start": 24.26,
+            "word": " we"
+        },
+        {
+            "end": 24.48,
+            "start": 24.4,
+            "word": " can"
+        },
+        {
+            "end": 24.7,
+            "start": 24.48,
+            "word": " travel"
+        },
+        {
+            "end": 24.88,
+            "start": 24.7,
+            "word": " back"
+        },
+        {
+            "end": 25.04,
+            "start": 24.88,
+            "word": " in"
+        },
+        {
+            "end": 25.32,
+            "start": 25.04,
+            "word": " time"
+        },
+        {
+            "end": 25.56,
+            "start": 25.32,
+            "word": " to"
+        },
+        {
+            "end": 25.68,
+            "start": 25.56,
+            "word": " a"
+        },
+        {
+            "end": 26.02,
+            "start": 25.68,
+            "word": " previous"
+        },
+        {
+            "end": 26.42,
+            "start": 26.02,
+            "word": " version"
+        },
+        {
+            "end": 26.64,
+            "start": 26.42,
+            "word": " of"
+        },
+        {
+            "end": 26.72,
+            "start": 26.64,
+            "word": " our"
+        },
+        {
+            "end": 27.04,
+            "start": 26.72,
+            "word": " files."
+        },
+        {
+            "end": 27.56,
+            "start": 27.2,
+            "word": " Notice"
+        },
+        {
+            "end": 27.74,
+            "start": 27.56,
+            "word": " how"
+        },
+        {
+            "end": 27.86,
+            "start": 27.74,
+            "word": " our"
+        },
+        {
+            "end": 28.06,
+            "start": 27.86,
+            "word": " source"
+        },
+        {
+            "end": 28.24,
+            "start": 28.06,
+            "word": " control"
+        },
+        {
+            "end": 28.6,
+            "start": 28.24,
+            "word": " icon"
+        },
+        {
+            "end": 28.96,
+            "start": 28.6,
+            "word": " is"
+        },
+        {
+            "end": 29.22,
+            "start": 28.96,
+            "word": " lit"
+        },
+        {
+            "end": 29.36,
+            "start": 29.22,
+            "word": " up."
+        },
+        {
+            "end": 29.88,
+            "start": 29.36,
+            "word": " Currently,"
+        },
+        {
+            "end": 30.18,
+            "start": 29.98,
+            "word": " all"
+        },
+        {
+            "end": 30.3,
+            "start": 30.18,
+            "word": " of"
+        },
+        {
+            "end": 30.38,
+            "start": 30.3,
+            "word": " our"
+        },
+        {
+            "end": 30.64,
+            "start": 30.38,
+            "word": " files"
+        },
+        {
+            "end": 30.78,
+            "start": 30.64,
+            "word": " are"
+        },
+        {
+            "end": 31.2,
+            "start": 30.78,
+            "word": " untracked"
+        },
+        {
+            "end": 31.5,
+            "start": 31.2,
+            "word": " because"
+        },
+        {
+            "end": 31.66,
+            "start": 31.5,
+            "word": " we"
+        },
+        {
+            "end": 31.84,
+            "start": 31.66,
+            "word": " need"
+        },
+        {
+            "end": 31.98,
+            "start": 31.84,
+            "word": " to"
+        },
+        {
+            "end": 32.28,
+            "start": 31.98,
+            "word": " add"
+        },
+        {
+            "end": 32.46,
+            "start": 32.28,
+            "word": " them"
+        },
+        {
+            "end": 32.6,
+            "start": 32.46,
+            "word": " to"
+        },
+        {
+            "end": 32.74,
+            "start": 32.6,
+            "word": " the"
+        },
+        {
+            "end": 32.96,
+            "start": 32.74,
+            "word": " repo."
+        },
+        {
+            "end": 33.56,
+            "start": 33.18,
+            "word": " Run"
+        },
+        {
+            "end": 33.76,
+            "start": 33.56,
+            "word": " git"
+        },
+        {
+            "end": 33.92,
+            "start": 33.76,
+            "word": " add"
+        },
+        {
+            "end": 34.16,
+            "start": 33.92,
+            "word": " to"
+        },
+        {
+            "end": 34.54,
+            "start": 34.16,
+            "word": " include"
+        },
+        {
+            "end": 34.82,
+            "start": 34.54,
+            "word": " or"
+        },
+        {
+            "end": 35.16,
+            "start": 34.82,
+            "word": " stage"
+        },
+        {
+            "end": 35.36,
+            "start": 35.16,
+            "word": " these"
+        },
+        {
+            "end": 35.62,
+            "start": 35.36,
+            "word": " files"
+        },
+        {
+            "end": 35.86,
+            "start": 35.62,
+            "word": " in"
+        },
+        {
+            "end": 35.94,
+            "start": 35.86,
+            "word": " the"
+        },
+        {
+            "end": 36.18,
+            "start": 35.94,
+            "word": " repo,"
+        },
+        {
+            "end": 36.66,
+            "start": 36.36,
+            "word": " then"
+        },
+        {
+            "end": 36.86,
+            "start": 36.66,
+            "word": " create"
+        },
+        {
+            "end": 37,
+            "start": 36.86,
+            "word": " a"
+        },
+        {
+            "end": 37.32,
+            "start": 37,
+            "word": " snapshot"
+        },
+        {
+            "end": 37.6,
+            "start": 37.32,
+            "word": " of"
+        },
+        {
+            "end": 37.74,
+            "start": 37.6,
+            "word": " their"
+        },
+        {
+            "end": 37.96,
+            "start": 37.74,
+            "word": " current"
+        },
+        {
+            "end": 38.26,
+            "start": 37.96,
+            "word": " state"
+        },
+        {
+            "end": 38.56,
+            "start": 38.26,
+            "word": " by"
+        },
+        {
+            "end": 38.78,
+            "start": 38.56,
+            "word": " running"
+        },
+        {
+            "end": 39.02,
+            "start": 38.78,
+            "word": " git"
+        },
+        {
+            "end": 39.24,
+            "start": 39.02,
+            "word": " commit"
+        },
+        {
+            "end": 39.68,
+            "start": 39.24,
+            "word": " along"
+        },
+        {
+            "end": 39.88,
+            "start": 39.68,
+            "word": " with"
+        },
+        {
+            "end": 39.98,
+            "start": 39.88,
+            "word": " a"
+        },
+        {
+            "end": 40.32,
+            "start": 39.98,
+            "word": " message"
+        },
+        {
+            "end": 40.62,
+            "start": 40.32,
+            "word": " about"
+        },
+        {
+            "end": 40.86,
+            "start": 40.62,
+            "word": " what"
+        },
+        {
+            "end": 40.96,
+            "start": 40.86,
+            "word": " you"
+        },
+        {
+            "end": 41.18,
+            "start": 40.96,
+            "word": " did"
+        },
+        {
+            "end": 41.32,
+            "start": 41.18,
+            "word": " to"
+        },
+        {
+            "end": 41.46,
+            "start": 41.32,
+            "word": " these"
+        },
+        {
+            "end": 41.74,
+            "start": 41.46,
+            "word": " files."
+        },
+        {
+            "end": 42.48,
+            "start": 42.04,
+            "word": " Congratulations,"
+        },
+        {
+            "end": 43.14,
+            "start": 42.92,
+            "word": " you"
+        },
+        {
+            "end": 43.28,
+            "start": 43.14,
+            "word": " just"
+        },
+        {
+            "end": 43.54,
+            "start": 43.28,
+            "word": " created"
+        },
+        {
+            "end": 43.66,
+            "start": 43.54,
+            "word": " the"
+        },
+        {
+            "end": 43.88,
+            "start": 43.66,
+            "word": " first"
+        },
+        {
+            "end": 44.14,
+            "start": 43.88,
+            "word": " commit"
+        },
+        {
+            "end": 44.36,
+            "start": 44.14,
+            "word": " on"
+        },
+        {
+            "end": 44.5,
+            "start": 44.36,
+            "word": " the"
+        },
+        {
+            "end": 44.76,
+            "start": 44.5,
+            "word": " head"
+        },
+        {
+            "end": 44.92,
+            "start": 44.76,
+            "word": " of"
+        },
+        {
+            "end": 45,
+            "start": 44.92,
+            "word": " the"
+        },
+        {
+            "end": 45.18,
+            "start": 45,
+            "word": " master"
+        },
+        {
+            "end": 45.52,
+            "start": 45.18,
+            "word": " branch"
+        },
+        {
+            "end": 45.8,
+            "start": 45.52,
+            "word": " in"
+        },
+        {
+            "end": 45.96,
+            "start": 45.8,
+            "word": " this"
+        },
+        {
+            "end": 46.24,
+            "start": 45.96,
+            "word": " repo."
+        },
+        {
+            "end": 46.6,
+            "start": 46.42,
+            "word": " The"
+        },
+        {
+            "end": 46.82,
+            "start": 46.6,
+            "word": " changed"
+        },
+        {
+            "end": 47.06,
+            "start": 46.82,
+            "word": " files"
+        },
+        {
+            "end": 47.54,
+            "start": 47.06,
+            "word": " disappeared,"
+        },
+        {
+            "end": 47.98,
+            "start": 47.76,
+            "word": " and"
+        },
+        {
+            "end": 48.1,
+            "start": 47.98,
+            "word": " you're"
+        },
+        {
+            "end": 48.22,
+            "start": 48.1,
+            "word": " now"
+        },
+        {
+            "end": 48.38,
+            "start": 48.22,
+            "word": " on"
+        },
+        {
+            "end": 48.46,
+            "start": 48.38,
+            "word": " a"
+        },
+        {
+            "end": 48.7,
+            "start": 48.46,
+            "word": " clean"
+        },
+        {
+            "end": 48.94,
+            "start": 48.7,
+            "word": " working"
+        },
+        {
+            "end": 49.38,
+            "start": 48.94,
+            "word": " directory."
+        },
+        {
+            "end": 49.9,
+            "start": 49.62,
+            "word": " The"
+        },
+        {
+            "end": 50.06,
+            "start": 49.9,
+            "word": " head"
+        },
+        {
+            "end": 50.36,
+            "start": 50.06,
+            "word": " represents"
+        },
+        {
+            "end": 50.66,
+            "start": 50.36,
+            "word": " the"
+        },
+        {
+            "end": 50.82,
+            "start": 50.66,
+            "word": " most"
+        },
+        {
+            "end": 51.12,
+            "start": 50.82,
+            "word": " recent"
+        },
+        {
+            "end": 51.38,
+            "start": 51.12,
+            "word": " commit."
+        },
+        {
+            "end": 51.9,
+            "start": 51.56,
+            "word": " If"
+        },
+        {
+            "end": 52,
+            "start": 51.9,
+            "word": " we"
+        },
+        {
+            "end": 52.14,
+            "start": 52,
+            "word": " make"
+        },
+        {
+            "end": 52.24,
+            "start": 52.14,
+            "word": " some"
+        },
+        {
+            "end": 52.6,
+            "start": 52.24,
+            "word": " changes,"
+        },
+        {
+            "end": 53.08,
+            "start": 52.82,
+            "word": " commit"
+        },
+        {
+            "end": 53.28,
+            "start": 53.08,
+            "word": " them"
+        },
+        {
+            "end": 53.42,
+            "start": 53.28,
+            "word": " to"
+        },
+        {
+            "end": 53.52,
+            "start": 53.42,
+            "word": " the"
+        },
+        {
+            "end": 53.78,
+            "start": 53.52,
+            "word": " repo,"
+        },
+        {
+            "end": 54.12,
+            "start": 53.96,
+            "word": " the"
+        },
+        {
+            "end": 54.3,
+            "start": 54.12,
+            "word": " head"
+        },
+        {
+            "end": 54.44,
+            "start": 54.3,
+            "word": " moves"
+        },
+        {
+            "end": 54.82,
+            "start": 54.44,
+            "word": " forward,"
+        },
+        {
+            "end": 55.38,
+            "start": 55.04,
+            "word": " but"
+        },
+        {
+            "end": 55.5,
+            "start": 55.38,
+            "word": " we"
+        },
+        {
+            "end": 55.66,
+            "start": 55.5,
+            "word": " still"
+        },
+        {
+            "end": 55.8,
+            "start": 55.66,
+            "word": " have"
+        },
+        {
+            "end": 55.92,
+            "start": 55.8,
+            "word": " a"
+        },
+        {
+            "end": 56.2,
+            "start": 55.92,
+            "word": " reference"
+        },
+        {
+            "end": 56.46,
+            "start": 56.2,
+            "word": " to"
+        },
+        {
+            "end": 56.56,
+            "start": 56.46,
+            "word": " our"
+        },
+        {
+            "end": 56.84,
+            "start": 56.56,
+            "word": " previous"
+        },
+        {
+            "end": 57.16,
+            "start": 56.84,
+            "word": " commit,"
+        },
+        {
+            "end": 57.48,
+            "start": 57.26,
+            "word": " so"
+        },
+        {
+            "end": 57.58,
+            "start": 57.48,
+            "word": " we"
+        },
+        {
+            "end": 57.66,
+            "start": 57.58,
+            "word": " can"
+        },
+        {
+            "end": 57.84,
+            "start": 57.66,
+            "word": " always"
+        },
+        {
+            "end": 58.02,
+            "start": 57.84,
+            "word": " go"
+        },
+        {
+            "end": 58.22,
+            "start": 58.02,
+            "word": " back"
+        },
+        {
+            "end": 58.4,
+            "start": 58.22,
+            "word": " to"
+        },
+        {
+            "end": 58.54,
+            "start": 58.4,
+            "word": " it."
+        },
+        {
+            "end": 59,
+            "start": 58.66,
+            "word": " But"
+        },
+        {
+            "end": 59.1,
+            "start": 59,
+            "word": " the"
+        },
+        {
+            "end": 59.24,
+            "start": 59.1,
+            "word": " thing"
+        },
+        {
+            "end": 59.34,
+            "start": 59.24,
+            "word": " about"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " git"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " commit"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " is"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " that"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " it's"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " not"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " always"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " the"
+        },
+        {
+            "end": 59.34,
+            "start": 59.34,
+            "word": " case."
+        },
+        {
+            "end": 59.48,
+            "start": 59.36,
+            "word": " The"
+        },
+        {
+            "end": 59.48,
+            "start": 59.48,
+            "word": " thing"
+        },
+        {
+            "end": 59.48,
+            "start": 59.48,
+            "word": " about"
+        },
+        {
+            "end": 59.78,
+            "start": 59.48,
+            "word": " software"
+        },
+        {
+            "end": 60.1,
+            "start": 59.78,
+            "word": " is"
+        },
+        {
+            "end": 60.2,
+            "start": 60.1,
+            "word": " that"
+        },
+        {
+            "end": 60.36,
+            "start": 60.2,
+            "word": " it's"
+        },
+        {
+            "end": 60.68,
+            "start": 60.36,
+            "word": " developed"
+        },
+        {
+            "end": 60.96,
+            "start": 60.68,
+            "word": " in"
+        },
+        {
+            "end": 61.08,
+            "start": 60.96,
+            "word": " a"
+        },
+        {
+            "end": 61.3,
+            "start": 61.08,
+            "word": " non"
+        },
+        {
+            "end": 61.52,
+            "start": 61.3,
+            "word": "-linear"
+        },
+        {
+            "end": 61.86,
+            "start": 61.52,
+            "word": " fashion."
+        },
+        {
+            "end": 62.36,
+            "start": 62.12,
+            "word": " You"
+        },
+        {
+            "end": 62.48,
+            "start": 62.36,
+            "word": " might"
+        },
+        {
+            "end": 62.64,
+            "start": 62.48,
+            "word": " have"
+        },
+        {
+            "end": 62.9,
+            "start": 62.64,
+            "word": " multiple"
+        },
+        {
+            "end": 63.3,
+            "start": 62.9,
+            "word": " teams"
+        },
+        {
+            "end": 63.64,
+            "start": 63.3,
+            "word": " working"
+        },
+        {
+            "end": 63.88,
+            "start": 63.64,
+            "word": " on"
+        },
+        {
+            "end": 64.1,
+            "start": 63.88,
+            "word": " different"
+        },
+        {
+            "end": 64.52,
+            "start": 64.1,
+            "word": " features"
+        },
+        {
+            "end": 64.72,
+            "start": 64.52,
+            "word": " for"
+        },
+        {
+            "end": 64.84,
+            "start": 64.72,
+            "word": " the"
+        },
+        {
+            "end": 65.04,
+            "start": 64.84,
+            "word": " same"
+        },
+        {
+            "end": 65.48,
+            "start": 65.04,
+            "word": " codebase"
+        },
+        {
+            "end": 65.96,
+            "start": 65.48,
+            "word": " simultaneously."
+        },
+        {
+            "end": 67.08,
+            "start": 66.68,
+            "word": " Git"
+        },
+        {
+            "end": 67.2,
+            "start": 67.08,
+            "word": " makes"
+        },
+        {
+            "end": 67.42,
+            "start": 67.2,
+            "word": " that"
+        },
+        {
+            "end": 67.76,
+            "start": 67.42,
+            "word": " possible"
+        },
+        {
+            "end": 68.08,
+            "start": 67.76,
+            "word": " by"
+        },
+        {
+            "end": 68.68,
+            "start": 68.08,
+            "word": " branching."
+        },
+        {
+            "end": 69.26,
+            "start": 68.82,
+            "word": " Create"
+        },
+        {
+            "end": 69.42,
+            "start": 69.26,
+            "word": " one"
+        },
+        {
+            "end": 69.6,
+            "start": 69.42,
+            "word": " by"
+        },
+        {
+            "end": 69.82,
+            "start": 69.6,
+            "word": " running"
+        },
+        {
+            "end": 70.04,
+            "start": 69.82,
+            "word": " git"
+        },
+        {
+            "end": 70.26,
+            "start": 70.04,
+            "word": " branch,"
+        },
+        {
+            "end": 70.82,
+            "start": 70.56,
+            "word": " and"
+        },
+        {
+            "end": 70.94,
+            "start": 70.82,
+            "word": " then"
+        },
+        {
+            "end": 71.04,
+            "start": 70.94,
+            "word": " run"
+        },
+        {
+            "end": 71.26,
+            "start": 71.04,
+            "word": " git"
+        },
+        {
+            "end": 71.58,
+            "start": 71.26,
+            "word": " checkout"
+        },
+        {
+            "end": 71.92,
+            "start": 71.58,
+            "word": " to"
+        },
+        {
+            "end": 72.2,
+            "start": 71.92,
+            "word": " move"
+        },
+        {
+            "end": 72.46,
+            "start": 72.2,
+            "word": " into"
+        },
+        {
+            "end": 72.62,
+            "start": 72.46,
+            "word": " that"
+        },
+        {
+            "end": 72.92,
+            "start": 72.62,
+            "word": " branch."
+        },
+        {
+            "end": 73.46,
+            "start": 73.12,
+            "word": " You"
+        },
+        {
+            "end": 73.54,
+            "start": 73.46,
+            "word": " can"
+        },
+        {
+            "end": 73.64,
+            "start": 73.54,
+            "word": " now"
+        },
+        {
+            "end": 73.94,
+            "start": 73.64,
+            "word": " safely"
+        },
+        {
+            "end": 74.22,
+            "start": 73.94,
+            "word": " work"
+        },
+        {
+            "end": 74.36,
+            "start": 74.22,
+            "word": " on"
+        },
+        {
+            "end": 74.48,
+            "start": 74.36,
+            "word": " your"
+        },
+        {
+            "end": 74.78,
+            "start": 74.48,
+            "word": " feature"
+        },
+        {
+            "end": 74.98,
+            "start": 74.78,
+            "word": " in"
+        },
+        {
+            "end": 75.14,
+            "start": 74.98,
+            "word": " this"
+        },
+        {
+            "end": 75.38,
+            "start": 75.14,
+            "word": " branch"
+        },
+        {
+            "end": 75.74,
+            "start": 75.38,
+            "word": " without"
+        },
+        {
+            "end": 76.1,
+            "start": 75.74,
+            "word": " affecting"
+        },
+        {
+            "end": 76.4,
+            "start": 76.1,
+            "word": " the"
+        },
+        {
+            "end": 76.76,
+            "start": 76.4,
+            "word": " code"
+        },
+        {
+            "end": 76.94,
+            "start": 76.76,
+            "word": " or"
+        },
+        {
+            "end": 77.38,
+            "start": 76.94,
+            "word": " files"
+        },
+        {
+            "end": 77.62,
+            "start": 77.38,
+            "word": " in"
+        },
+        {
+            "end": 77.72,
+            "start": 77.62,
+            "word": " the"
+        },
+        {
+            "end": 77.96,
+            "start": 77.72,
+            "word": " master"
+        },
+        {
+            "end": 78.24,
+            "start": 77.96,
+            "word": " branch."
+        },
+        {
+            "end": 78.68,
+            "start": 78.46,
+            "word": " The"
+        },
+        {
+            "end": 78.86,
+            "start": 78.68,
+            "word": " commits"
+        },
+        {
+            "end": 79,
+            "start": 78.86,
+            "word": " you"
+        },
+        {
+            "end": 79.12,
+            "start": 79,
+            "word": " make"
+        },
+        {
+            "end": 79.36,
+            "start": 79.12,
+            "word": " here"
+        },
+        {
+            "end": 79.66,
+            "start": 79.36,
+            "word": " live"
+        },
+        {
+            "end": 79.76,
+            "start": 79.66,
+            "word": " in"
+        },
+        {
+            "end": 79.88,
+            "start": 79.76,
+            "word": " an"
+        },
+        {
+            "end": 80.1,
+            "start": 79.88,
+            "word": " alternate"
+        },
+        {
+            "end": 80.5,
+            "start": 80.1,
+            "word": " universe"
+        },
+        {
+            "end": 80.82,
+            "start": 80.5,
+            "word": " with"
+        },
+        {
+            "end": 80.96,
+            "start": 80.82,
+            "word": " its"
+        },
+        {
+            "end": 81.1,
+            "start": 80.96,
+            "word": " own"
+        },
+        {
+            "end": 81.36,
+            "start": 81.1,
+            "word": " unique"
+        },
+        {
+            "end": 81.72,
+            "start": 81.36,
+            "word": " history."
+        },
+        {
+            "end": 82.16,
+            "start": 81.9,
+            "word": " At"
+        },
+        {
+            "end": 82.3,
+            "start": 82.16,
+            "word": " some"
+        },
+        {
+            "end": 82.6,
+            "start": 82.3,
+            "word": " point,"
+        },
+        {
+            "end": 82.76,
+            "start": 82.6,
+            "word": " though,"
+        },
+        {
+            "end": 83.04,
+            "start": 82.82,
+            "word": " you'll"
+        },
+        {
+            "end": 83.22,
+            "start": 83.04,
+            "word": " likely"
+        },
+        {
+            "end": 83.42,
+            "start": 83.22,
+            "word": " want"
+        },
+        {
+            "end": 83.58,
+            "start": 83.42,
+            "word": " to"
+        },
+        {
+            "end": 83.84,
+            "start": 83.58,
+            "word": " merge"
+        },
+        {
+            "end": 84.04,
+            "start": 83.84,
+            "word": " this"
+        },
+        {
+            "end": 84.36,
+            "start": 84.04,
+            "word": " history"
+        },
+        {
+            "end": 84.64,
+            "start": 84.36,
+            "word": " with"
+        },
+        {
+            "end": 84.74,
+            "start": 84.64,
+            "word": " the"
+        },
+        {
+            "end": 85.08,
+            "start": 84.74,
+            "word": " history"
+        },
+        {
+            "end": 85.28,
+            "start": 85.08,
+            "word": " in"
+        },
+        {
+            "end": 85.32,
+            "start": 85.28,
+            "word": " the"
+        },
+        {
+            "end": 85.6,
+            "start": 85.32,
+            "word": " master"
+        },
+        {
+            "end": 85.88,
+            "start": 85.6,
+            "word": " branch."
+        },
+        {
+            "end": 86.48,
+            "start": 86.1,
+            "word": " When"
+        },
+        {
+            "end": 86.6,
+            "start": 86.48,
+            "word": " you're"
+        },
+        {
+            "end": 86.82,
+            "start": 86.6,
+            "word": " ready,"
+        },
+        {
+            "end": 87.08,
+            "start": 86.9,
+            "word": " go"
+        },
+        {
+            "end": 87.28,
+            "start": 87.08,
+            "word": " back"
+        },
+        {
+            "end": 87.44,
+            "start": 87.28,
+            "word": " to"
+        },
+        {
+            "end": 87.48,
+            "start": 87.44,
+            "word": " the"
+        },
+        {
+            "end": 87.68,
+            "start": 87.48,
+            "word": " master"
+        },
+        {
+            "end": 87.96,
+            "start": 87.68,
+            "word": " branch"
+        },
+        {
+            "end": 88.2,
+            "start": 87.96,
+            "word": " by"
+        },
+        {
+            "end": 88.38,
+            "start": 88.2,
+            "word": " running"
+        },
+        {
+            "end": 88.64,
+            "start": 88.38,
+            "word": " git"
+        },
+        {
+            "end": 88.92,
+            "start": 88.64,
+            "word": " checkout."
+        },
+        {
+            "end": 89.32,
+            "start": 88.92,
+            "word": " Then"
+        },
+        {
+            "end": 89.6,
+            "start": 89.32,
+            "word": " run"
+        },
+        {
+            "end": 89.84,
+            "start": 89.6,
+            "word": " git"
+        },
+        {
+            "end": 90.06,
+            "start": 89.84,
+            "word": " merge"
+        },
+        {
+            "end": 90.4,
+            "start": 90.06,
+            "word": " on"
+        },
+        {
+            "end": 90.56,
+            "start": 90.4,
+            "word": " your"
+        },
+        {
+            "end": 90.84,
+            "start": 90.56,
+            "word": " alternate"
+        },
+        {
+            "end": 91.2,
+            "start": 90.84,
+            "word": " universe."
+        },
+        {
+            "end": 92.04,
+            "start": 91.64000000000001,
+            "word": " The"
+        },
+        {
+            "end": 92.2,
+            "start": 92.04,
+            "word": " tip"
+        },
+        {
+            "end": 92.32,
+            "start": 92.2,
+            "word": " of"
+        },
+        {
+            "end": 92.42,
+            "start": 92.32,
+            "word": " your"
+        },
+        {
+            "end": 92.66,
+            "start": 92.42,
+            "word": " feature"
+        },
+        {
+            "end": 92.88,
+            "start": 92.66,
+            "word": " branch"
+        },
+        {
+            "end": 93.22,
+            "start": 92.88,
+            "word": " now"
+        },
+        {
+            "end": 93.52,
+            "start": 93.22,
+            "word": " becomes"
+        },
+        {
+            "end": 93.76,
+            "start": 93.52,
+            "word": " the"
+        },
+        {
+            "end": 94.02,
+            "start": 93.76,
+            "word": " head"
+        },
+        {
+            "end": 94.18,
+            "start": 94.02,
+            "word": " of"
+        },
+        {
+            "end": 94.24,
+            "start": 94.18,
+            "word": " the"
+        },
+        {
+            "end": 94.48,
+            "start": 94.24,
+            "word": " master"
+        },
+        {
+            "end": 94.8,
+            "start": 94.48,
+            "word": " branch."
+        },
+        {
+            "end": 95.48,
+            "start": 95.08,
+            "word": " Or"
+        },
+        {
+            "end": 95.6,
+            "start": 95.48,
+            "word": " in"
+        },
+        {
+            "end": 95.68,
+            "start": 95.6,
+            "word": " other"
+        },
+        {
+            "end": 96,
+            "start": 95.68,
+            "word": " words,"
+        },
+        {
+            "end": 96.2,
+            "start": 96.06,
+            "word": " our"
+        },
+        {
+            "end": 96.66,
+            "start": 96.2,
+            "word": " fragmented"
+        },
+        {
+            "end": 97.02,
+            "start": 96.66,
+            "word": " universe"
+        },
+        {
+            "end": 97.36,
+            "start": 97.02,
+            "word": " has"
+        },
+        {
+            "end": 97.66,
+            "start": 97.36,
+            "word": " become"
+        },
+        {
+            "end": 97.96,
+            "start": 97.66,
+            "word": " one."
+        },
+        {
+            "end": 98.56,
+            "start": 98.16,
+            "word": " Unless"
+        },
+        {
+            "end": 99,
+            "start": 98.56,
+            "word": " you"
+        },
+        {
+            "end": 99.14,
+            "start": 99,
+            "word": " ran"
+        },
+        {
+            "end": 99.36,
+            "start": 99.14,
+            "word": " into"
+        },
+        {
+            "end": 99.52,
+            "start": 99.36,
+            "word": " a"
+        },
+        {
+            "end": 99.76,
+            "start": 99.52,
+            "word": " merge"
+        },
+        {
+            "end": 100.14,
+            "start": 99.76,
+            "word": " conflict,"
+        },
+        {
+            "end": 100.56,
+            "start": 100.38,
+            "word": " in"
+        },
+        {
+            "end": 100.7,
+            "start": 100.56,
+            "word": " which"
+        },
+        {
+            "end": 100.98,
+            "start": 100.7,
+            "word": " case"
+        },
+        {
+            "end": 101.2,
+            "start": 100.98,
+            "word": " you'll"
+        },
+        {
+            "end": 101.32,
+            "start": 101.2,
+            "word": " just"
+        },
+        {
+            "end": 101.46,
+            "start": 101.32,
+            "word": " have"
+        },
+        {
+            "end": 101.66,
+            "start": 101.46,
+            "word": " to"
+        },
+        {
+            "end": 101.9,
+            "start": 101.66,
+            "word": " wait"
+        },
+        {
+            "end": 102.02,
+            "start": 101.9,
+            "word": " for"
+        },
+        {
+            "end": 102.12,
+            "start": 102.02,
+            "word": " the"
+        },
+        {
+            "end": 102.38,
+            "start": 102.12,
+            "word": " sequel."
+        },
+        {
+            "end": 102.88,
+            "start": 102.62,
+            "word": " This"
+        },
+        {
+            "end": 102.96,
+            "start": 102.88,
+            "word": " has"
+        },
+        {
+            "end": 103.12,
+            "start": 102.96,
+            "word": " been"
+        },
+        {
+            "end": 103.34,
+            "start": 103.12,
+            "word": " Git"
+        },
+        {
+            "end": 103.92,
+            "start": 103.34,
+            "word": " Explained"
+        },
+        {
+            "end": 104.08,
+            "start": 103.92,
+            "word": " in"
+        },
+        {
+            "end": 104.42,
+            "start": 104.08,
+            "word": " 100"
+        },
+        {
+            "end": 104.88,
+            "start": 104.42,
+            "word": " seconds."
+        },
+        {
+            "end": 105.4,
+            "start": 105.1,
+            "word": " If"
+        },
+        {
+            "end": 105.48,
+            "start": 105.4,
+            "word": " you"
+        },
+        {
+            "end": 105.6,
+            "start": 105.48,
+            "word": " want"
+        },
+        {
+            "end": 105.68,
+            "start": 105.6,
+            "word": " to"
+        },
+        {
+            "end": 105.76,
+            "start": 105.68,
+            "word": " see"
+        },
+        {
+            "end": 105.94,
+            "start": 105.76,
+            "word": " more"
+        },
+        {
+            "end": 106.12,
+            "start": 105.94,
+            "word": " short"
+        },
+        {
+            "end": 106.38,
+            "start": 106.12,
+            "word": " videos"
+        },
+        {
+            "end": 106.66,
+            "start": 106.38,
+            "word": " like"
+        },
+        {
+            "end": 106.88,
+            "start": 106.66,
+            "word": " this,"
+        },
+        {
+            "end": 107.08,
+            "start": 106.94,
+            "word": " make"
+        },
+        {
+            "end": 107.26,
+            "start": 107.08,
+            "word": " sure"
+        },
+        {
+            "end": 107.44,
+            "start": 107.26,
+            "word": " to"
+        },
+        {
+            "end": 107.64,
+            "start": 107.44,
+            "word": " hit"
+        },
+        {
+            "end": 107.74,
+            "start": 107.64,
+            "word": " the"
+        },
+        {
+            "end": 107.92,
+            "start": 107.74,
+            "word": " like"
+        },
+        {
+            "end": 108.16,
+            "start": 107.92,
+            "word": " button,"
+        },
+        {
+            "end": 108.72,
+            "start": 108.32,
+            "word": " subscribe,"
+        },
+        {
+            "end": 109.2,
+            "start": 109,
+            "word": " and"
+        },
+        {
+            "end": 109.32,
+            "start": 109.2,
+            "word": " let"
+        },
+        {
+            "end": 109.42,
+            "start": 109.32,
+            "word": " me"
+        },
+        {
+            "end": 109.52,
+            "start": 109.42,
+            "word": " know"
+        },
+        {
+            "end": 109.6,
+            "start": 109.52,
+            "word": " what"
+        },
+        {
+            "end": 109.7,
+            "start": 109.6,
+            "word": " you"
+        },
+        {
+            "end": 109.84,
+            "start": 109.7,
+            "word": " think"
+        },
+        {
+            "end": 109.98,
+            "start": 109.84,
+            "word": " in"
+        },
+        {
+            "end": 110.06,
+            "start": 109.98,
+            "word": " the"
+        },
+        {
+            "end": 110.34,
+            "start": 110.06,
+            "word": " comments."
+        },
+        {
+            "end": 110.84,
+            "start": 110.54,
+            "word": " Thanks"
+        },
+        {
+            "end": 110.96,
+            "start": 110.84,
+            "word": " for"
+        },
+        {
+            "end": 111.26,
+            "start": 110.96,
+            "word": " watching,"
+        },
+        {
+            "end": 111.6,
+            "start": 111.4,
+            "word": " and"
+        },
+        {
+            "end": 111.7,
+            "start": 111.6,
+            "word": " I"
+        },
+        {
+            "end": 111.86,
+            "start": 111.7,
+            "word": " will"
+        },
+        {
+            "end": 112.04,
+            "start": 111.86,
+            "word": " see"
+        },
+        {
+            "end": 112.2,
+            "start": 112.04,
+            "word": " you"
+        },
+        {
+            "end": 112.38,
+            "start": 112.2,
+            "word": " in"
+        },
+        {
+            "end": 112.52,
+            "start": 112.38,
+            "word": " the"
+        },
+        {
+            "end": 112.7,
+            "start": 112.52,
+            "word": " next"
+        },
+        {
+            "end": 112.86,
+            "start": 112.7,
+            "word": " one."
+        }
+    ]
+}

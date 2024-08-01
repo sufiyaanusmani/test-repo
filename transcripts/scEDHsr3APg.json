@@ -1,0 +1,3137 @@
+{
+    "detected_language": "en",
+    "device": "cuda",
+    "model": "large-v3",
+    "segments": [
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 4.96,
+            "id": 1,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 0,
+            "temperature": 0,
+            "text": " DevOps. A set of practices to build, test, and release your code in small, frequent steps.",
+            "tokens": [
+                50389,
+                43051,
+                13,
+                316,
+                992,
+                295,
+                7525,
+                281,
+                1322,
+                11,
+                1500,
+                11,
+                293,
+                4374,
+                428,
+                3089,
+                294,
+                1359,
+                11,
+                18004,
+                4439,
+                13,
+                50633
+            ]
+        },
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 10.04,
+            "id": 2,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 5.2,
+            "temperature": 0,
+            "text": " One of the core practices of DevOps is continuous integration, which has developers commit their",
+            "tokens": [
+                50633,
+                1485,
+                295,
+                264,
+                4965,
+                7525,
+                295,
+                43051,
+                307,
+                10957,
+                10980,
+                11,
+                597,
+                575,
+                8849,
+                5599,
+                641,
+                50873
+            ]
+        },
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 14.86,
+            "id": 3,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 10.04,
+            "temperature": 0,
+            "text": " code to a shared repository, often on a daily basis. Each commit triggers an automated workflow",
+            "tokens": [
+                50873,
+                3089,
+                281,
+                257,
+                5507,
+                25841,
+                11,
+                2049,
+                322,
+                257,
+                5212,
+                5143,
+                13,
+                6947,
+                5599,
+                22827,
+                364,
+                18473,
+                20993,
+                51125
+            ]
+        },
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 19.54,
+            "id": 4,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 14.86,
+            "temperature": 0,
+            "text": " on a CI server that can notify developers of any issues integrating their changes. When a",
+            "tokens": [
+                51125,
+                322,
+                257,
+                37777,
+                7154,
+                300,
+                393,
+                36560,
+                8849,
+                295,
+                604,
+                2663,
+                26889,
+                641,
+                2962,
+                13,
+                1133,
+                257,
+                51341
+            ]
+        },
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 24.38,
+            "id": 5,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 19.54,
+            "temperature": 0,
+            "text": " repo evolves in small steps like this, it prevents what's known as merge hell. Imagine Mary, your",
+            "tokens": [
+                51341,
+                49040,
+                43737,
+                294,
+                1359,
+                4439,
+                411,
+                341,
+                11,
+                309,
+                22367,
+                437,
+                311,
+                2570,
+                382,
+                22183,
+                4921,
+                13,
+                11739,
+                6059,
+                11,
+                428,
+                51585
+            ]
+        },
+        {
+            "avg_logprob": -0.07976017441860465,
+            "compression_ratio": 1.6627218934911243,
+            "end": 29.28,
+            "id": 6,
+            "no_speech_prob": 0.11700439453125,
+            "seek": 2928,
+            "start": 24.38,
+            "temperature": 0,
+            "text": " back-end developer, builds a new API for your product. Shortly after, Jane, your front-end",
+            "tokens": [
+                51585,
+                646,
+                12,
+                521,
+                10754,
+                11,
+                15182,
+                257,
+                777,
+                9362,
+                337,
+                428,
+                1674,
+                13,
+                40109,
+                934,
+                11,
+                13048,
+                11,
+                428,
+                1868,
+                12,
+                521,
+                51829
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 34,
+            "id": 7,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 29.28,
+            "temperature": 0.2,
+            "text": " developer, starts work on a new UI. A few months later, when it comes time to merge their features,",
+            "tokens": [
+                50365,
+                10754,
+                11,
+                3719,
+                589,
+                322,
+                257,
+                777,
+                15682,
+                13,
+                316,
+                1326,
+                2493,
+                1780,
+                11,
+                562,
+                309,
+                1487,
+                565,
+                281,
+                22183,
+                641,
+                4122,
+                11,
+                50609
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 38.22,
+            "id": 8,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 34.14,
+            "temperature": 0.2,
+            "text": " we find that they're completely incompatible, the build fails, and we now have to spend a bunch of",
+            "tokens": [
+                50609,
+                321,
+                915,
+                300,
+                436,
+                434,
+                2584,
+                40393,
+                267,
+                964,
+                11,
+                264,
+                1322,
+                18199,
+                11,
+                293,
+                321,
+                586,
+                362,
+                281,
+                3496,
+                257,
+                3840,
+                295,
+                50813
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 42.54,
+            "id": 9,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 38.22,
+            "temperature": 0.2,
+            "text": " time and money resolving these conflicts. Let's go ahead and build a continuous integration pipeline",
+            "tokens": [
+                50813,
+                565,
+                293,
+                1460,
+                49940,
+                613,
+                19807,
+                13,
+                961,
+                311,
+                352,
+                2286,
+                293,
+                1322,
+                257,
+                10957,
+                10980,
+                15517,
+                51041
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 47.8,
+            "id": 10,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 42.54,
+            "temperature": 0.2,
+            "text": " now to see how it prevents issues like this. Here on GitHub, I have a Node.js web app. In order to",
+            "tokens": [
+                51041,
+                586,
+                281,
+                536,
+                577,
+                309,
+                22367,
+                2663,
+                411,
+                341,
+                13,
+                1692,
+                322,
+                23331,
+                11,
+                286,
+                362,
+                257,
+                38640,
+                13,
+                25530,
+                3670,
+                724,
+                13,
+                682,
+                1668,
+                281,
+                51293
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 53.04,
+            "id": 11,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 47.8,
+            "temperature": 0.2,
+            "text": " deliver this app to my customers, I need to run three commands, test, build, and deploy. I can",
+            "tokens": [
+                51293,
+                4239,
+                341,
+                724,
+                281,
+                452,
+                4581,
+                11,
+                286,
+                643,
+                281,
+                1190,
+                1045,
+                16901,
+                11,
+                1500,
+                11,
+                1322,
+                11,
+                293,
+                7274,
+                13,
+                286,
+                393,
+                51553
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 58.16,
+            "id": 12,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 53.04,
+            "temperature": 0.2,
+            "text": " automate this entire process in the cloud by using a CI service like GitHub Actions. First, I create",
+            "tokens": [
+                51553,
+                31605,
+                341,
+                2302,
+                1399,
+                294,
+                264,
+                4588,
+                538,
+                1228,
+                257,
+                37777,
+                2643,
+                411,
+                23331,
+                3251,
+                626,
+                13,
+                2386,
+                11,
+                286,
+                1884,
+                51813
+            ]
+        },
+        {
+            "avg_logprob": -0.18218094830351753,
+            "compression_ratio": 2.032994923857868,
+            "end": 59.26,
+            "id": 13,
+            "no_speech_prob": 0.0014095306396484375,
+            "seek": 5926,
+            "start": 58.16,
+            "temperature": 0.2,
+            "text": " a workflow, and then I test it. I can use the API to create a workflow, and then I test it. I can",
+            "tokens": [
+                51813,
+                257,
+                20993,
+                11,
+                293,
+                550,
+                286,
+                1500,
+                309,
+                13,
+                286,
+                393,
+                764,
+                264,
+                9362,
+                281,
+                1884,
+                257,
+                20993,
+                11,
+                293,
+                550,
+                286,
+                1500,
+                309,
+                13,
+                286,
+                393,
+                51863
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 64.28,
+            "id": 14,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 59.26,
+            "temperature": 0,
+            "text": " tell it to run on every push to the master branch. The event triggers a job that runs on a Linux",
+            "tokens": [
+                50365,
+                980,
+                309,
+                281,
+                1190,
+                322,
+                633,
+                2944,
+                281,
+                264,
+                4505,
+                9819,
+                13,
+                440,
+                2280,
+                22827,
+                257,
+                1691,
+                300,
+                6676,
+                322,
+                257,
+                18734,
+                50621
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 69.44,
+            "id": 15,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 64.28,
+            "temperature": 0,
+            "text": " container in the cloud. Then we tell the container what to do as a series of steps. First, it checks",
+            "tokens": [
+                50621,
+                10129,
+                294,
+                264,
+                4588,
+                13,
+                1396,
+                321,
+                980,
+                264,
+                10129,
+                437,
+                281,
+                360,
+                382,
+                257,
+                2638,
+                295,
+                4439,
+                13,
+                2386,
+                11,
+                309,
+                13834,
+                50873
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 74.22,
+            "id": 16,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 69.44,
+            "temperature": 0,
+            "text": " out the code in this GitHub repo, then sets up Node.js, installs my dependencies, and runs my",
+            "tokens": [
+                50873,
+                484,
+                264,
+                3089,
+                294,
+                341,
+                23331,
+                49040,
+                11,
+                550,
+                6352,
+                493,
+                38640,
+                13,
+                25530,
+                11,
+                3625,
+                82,
+                452,
+                36606,
+                11,
+                293,
+                6676,
+                452,
+                51117
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 78.86,
+            "id": 17,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 74.22,
+            "temperature": 0,
+            "text": " test, build, and deploy commands. Now, any time we commit code to the master branch in this repo,",
+            "tokens": [
+                51117,
+                1500,
+                11,
+                1322,
+                11,
+                293,
+                7274,
+                16901,
+                13,
+                823,
+                11,
+                604,
+                565,
+                321,
+                5599,
+                3089,
+                281,
+                264,
+                4505,
+                9819,
+                294,
+                341,
+                49040,
+                11,
+                51353
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 83.18,
+            "id": 18,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 79,
+            "temperature": 0,
+            "text": " it will run this workflow. If any of the steps fail, the bad software won't be delivered to",
+            "tokens": [
+                51353,
+                309,
+                486,
+                1190,
+                341,
+                20993,
+                13,
+                759,
+                604,
+                295,
+                264,
+                4439,
+                3061,
+                11,
+                264,
+                1578,
+                4722,
+                1582,
+                380,
+                312,
+                10144,
+                281,
+                51561
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 86.1,
+            "id": 19,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 83.18,
+            "temperature": 0,
+            "text": " our customers, and we'll automatically know there's an issue that needs to be addressed.",
+            "tokens": [
+                51561,
+                527,
+                4581,
+                11,
+                293,
+                321,
+                603,
+                6772,
+                458,
+                456,
+                311,
+                364,
+                2734,
+                300,
+                2203,
+                281,
+                312,
+                13847,
+                13,
+                51725
+            ]
+        },
+        {
+            "avg_logprob": -0.05390625,
+            "compression_ratio": 1.7313019390581716,
+            "end": 89.24,
+            "id": 20,
+            "no_speech_prob": 0.0010232925415039062,
+            "seek": 8926,
+            "start": 86.38,
+            "temperature": 0,
+            "text": " At the end of the day, CI-CD offers two main benefits.",
+            "tokens": [
+                51725,
+                1711,
+                264,
+                917,
+                295,
+                264,
+                786,
+                11,
+                37777,
+                12,
+                16508,
+                7736,
+                732,
+                2135,
+                5311,
+                13,
+                51865
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 92.88,
+            "id": 21,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 89.26,
+            "temperature": 0,
+            "text": " It helps you automate things that would otherwise have to be done manually by developers.",
+            "tokens": [
+                50365,
+                467,
+                3665,
+                291,
+                31605,
+                721,
+                300,
+                576,
+                5911,
+                362,
+                281,
+                312,
+                1096,
+                16945,
+                538,
+                8849,
+                13,
+                50561
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 96.86,
+            "id": 22,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 93.1,
+            "temperature": 0,
+            "text": " That will increase your velocity, but it also detects small problems early before",
+            "tokens": [
+                50561,
+                663,
+                486,
+                3488,
+                428,
+                9269,
+                11,
+                457,
+                309,
+                611,
+                5531,
+                82,
+                1359,
+                2740,
+                2440,
+                949,
+                50745
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 100.76,
+            "id": 23,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 96.86,
+            "temperature": 0,
+            "text": " they can grow into major disasters, and that results in higher code quality.",
+            "tokens": [
+                50745,
+                436,
+                393,
+                1852,
+                666,
+                2563,
+                27966,
+                11,
+                293,
+                300,
+                3542,
+                294,
+                2946,
+                3089,
+                3125,
+                13,
+                50949
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 105.62,
+            "id": 24,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 101.04,
+            "temperature": 0,
+            "text": " This has been CI-CD, or DevOps, in 100 seconds. Make sure to hit the like button if you want to",
+            "tokens": [
+                50949,
+                639,
+                575,
+                668,
+                37777,
+                12,
+                16508,
+                11,
+                420,
+                43051,
+                11,
+                294,
+                2319,
+                3949,
+                13,
+                4387,
+                988,
+                281,
+                2045,
+                264,
+                411,
+                2960,
+                498,
+                291,
+                528,
+                281,
+                51177
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 109.36,
+            "id": 25,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 105.62,
+            "temperature": 0,
+            "text": " see more short videos like this, and stay tuned tomorrow for a full DevOps project",
+            "tokens": [
+                51177,
+                536,
+                544,
+                2099,
+                2145,
+                411,
+                341,
+                11,
+                293,
+                1754,
+                10870,
+                4153,
+                337,
+                257,
+                1577,
+                43051,
+                1716,
+                51381
+            ]
+        },
+        {
+            "avg_logprob": -0.07510504201680672,
+            "compression_ratio": 1.5911949685534592,
+            "end": 113.16,
+            "id": 26,
+            "no_speech_prob": 0.0019407272338867188,
+            "seek": 11510,
+            "start": 109.36,
+            "temperature": 0,
+            "text": " using GitHub Actions. Thanks for watching, and I will see you in the next one.",
+            "tokens": [
+                51381,
+                1228,
+                23331,
+                3251,
+                626,
+                13,
+                2561,
+                337,
+                1976,
+                11,
+                293,
+                286,
+                486,
+                536,
+                291,
+                294,
+                264,
+                958,
+                472,
+                13,
+                51645
+            ]
+        }
+    ],
+    "transcription": "DevOps. A set of practices to build, test, and release your code in small, frequent steps.\nOne of the core practices of DevOps is continuous integration, which has developers commit their\ncode to a shared repository, often on a daily basis. Each commit triggers an automated workflow\non a CI server that can notify developers of any issues integrating their changes. When a\nrepo evolves in small steps like this, it prevents what's known as merge hell. Imagine Mary, your\nback-end developer, builds a new API for your product. Shortly after, Jane, your front-end\ndeveloper, starts work on a new UI. A few months later, when it comes time to merge their features,\nwe find that they're completely incompatible, the build fails, and we now have to spend a bunch of\ntime and money resolving these conflicts. Let's go ahead and build a continuous integration pipeline\nnow to see how it prevents issues like this. Here on GitHub, I have a Node.js web app. In order to\ndeliver this app to my customers, I need to run three commands, test, build, and deploy. I can\nautomate this entire process in the cloud by using a CI service like GitHub Actions. First, I create\na workflow, and then I test it. I can use the API to create a workflow, and then I test it. I can\ntell it to run on every push to the master branch. The event triggers a job that runs on a Linux\ncontainer in the cloud. Then we tell the container what to do as a series of steps. First, it checks\nout the code in this GitHub repo, then sets up Node.js, installs my dependencies, and runs my\ntest, build, and deploy commands. Now, any time we commit code to the master branch in this repo,\nit will run this workflow. If any of the steps fail, the bad software won't be delivered to\nour customers, and we'll automatically know there's an issue that needs to be addressed.\nAt the end of the day, CI-CD offers two main benefits.\nIt helps you automate things that would otherwise have to be done manually by developers.\nThat will increase your velocity, but it also detects small problems early before\nthey can grow into major disasters, and that results in higher code quality.\nThis has been CI-CD, or DevOps, in 100 seconds. Make sure to hit the like button if you want to\nsee more short videos like this, and stay tuned tomorrow for a full DevOps project\nusing GitHub Actions. Thanks for watching, and I will see you in the next one.",
+    "translation": "1\n00:00:00,480 --> 00:00:05,360\nDevOps. A set of practices to build, test, and release your code in small, frequent steps.\n\n2\n00:00:05,360 --> 00:00:10,160\nOne of the core practices of DevOps is continuous integration, which has developers commit their\n\n3\n00:00:10,160 --> 00:00:15,200\ncode to a shared repository often on a daily basis. Each commit triggers an automated workflow\n\n4\n00:00:15,200 --> 00:00:19,520\non a CI server that can notify developers of any issues integrating their changes. When a\n\n5\n00:00:19,520 --> 00:00:24,400\nrepo evolves in small steps like this, it prevents what's known as merge hell. Imagine Mary, your\n\n6\n00:00:24,400 --> 00:00:29,280\nback-end developer, builds a new API for your product. Shortly after, Jane, your front-end\n\n7\n00:00:29,280 --> 00:00:34,080\ndeveloper, starts work on a new UI. A few months later, when it comes time to merge their features,\n\n8\n00:00:34,080 --> 00:00:38,240\nwe find that they're completely incompatible, the build fails, and we now have to spend a bunch of\n\n9\n00:00:38,240 --> 00:00:42,800\ntime and money resolving these conflicts. Let's go ahead and build a continuous integration pipeline\n\n10\n00:00:42,800 --> 00:00:47,760\nnow to see how it prevents issues like this. Here on GitHub, I have a Node.js web app. In order to\n\n11\n00:00:47,760 --> 00:00:52,960\ndeliver this app to my customers, I need to run three commands, test, build, and deploy. I can\n\n12\n00:00:52,960 --> 00:00:58,160\nautomate this entire process in the cloud by using a CI service like GitHub Actions. First, I create\n\n13\n00:00:58,160 --> 00:00:59,200\na workflow, and then I take the code and run it on my own. I can then create a workflow, and then I\n\n14\n00:00:59,200 --> 00:00:59,240\ntake the code and run it on my own. I can then create a workflow, and then I take the code and run it on my own.\n\n15\n00:00:59,240 --> 00:01:04,360\ntell it to run on every push to the master branch. The event triggers a job that runs on a Linux\n\n16\n00:01:04,360 --> 00:01:09,480\ncontainer in the cloud. Then we tell the container what to do as a series of steps. First, it checks\n\n17\n00:01:09,480 --> 00:01:14,280\nout the code in this GitHub repo, then sets up Node.js, installs my dependencies, and runs my\n\n18\n00:01:14,280 --> 00:01:19,000\ntest, build, and deploy commands. Now, anytime we commit code to the master branch in this repo,\n\n19\n00:01:19,000 --> 00:01:23,160\nit will run this workflow. If any of the steps fail, the bad software won't be delivered to\n\n20\n00:01:23,160 --> 00:01:26,440\nour customers, and we'll automatically know there's an issue that needs to be addressed.\n\n21\n00:01:26,440 --> 00:01:29,160\nAt the end of the day, CI-CD offers two main benefits.\n\n22\n00:01:29,160 --> 00:01:33,160\nIt helps you automate things that would otherwise have to be done manually by developers.\n\n23\n00:01:33,160 --> 00:01:37,160\nThat will increase your velocity, but it also detects small problems early before they can\n\n24\n00:01:37,160 --> 00:01:42,280\ngrow into major disasters, and that results in higher code quality. This has been CI-CD,\n\n25\n00:01:42,280 --> 00:01:46,360\nor DevOps, in 100 seconds. Make sure to hit the like button if you want to see more short videos\n\n26\n00:01:46,360 --> 00:01:50,840\nlike this, and stay tuned tomorrow for a full DevOps project using GitHub Actions.\n\n27\n00:01:50,840 --> 00:01:54,840\nThanks for watching, and I will see you in the next one.\n\n",
+    "word_timestamps": [
+        {
+            "end": 0.74,
+            "start": 0,
+            "word": " DevOps."
+        },
+        {
+            "end": 1.16,
+            "start": 0.98,
+            "word": " A"
+        },
+        {
+            "end": 1.38,
+            "start": 1.16,
+            "word": " set"
+        },
+        {
+            "end": 1.48,
+            "start": 1.38,
+            "word": " of"
+        },
+        {
+            "end": 1.84,
+            "start": 1.48,
+            "word": " practices"
+        },
+        {
+            "end": 2.22,
+            "start": 1.84,
+            "word": " to"
+        },
+        {
+            "end": 2.58,
+            "start": 2.22,
+            "word": " build,"
+        },
+        {
+            "end": 2.8,
+            "start": 2.66,
+            "word": " test,"
+        },
+        {
+            "end": 3.08,
+            "start": 2.96,
+            "word": " and"
+        },
+        {
+            "end": 3.26,
+            "start": 3.08,
+            "word": " release"
+        },
+        {
+            "end": 3.48,
+            "start": 3.26,
+            "word": " your"
+        },
+        {
+            "end": 3.72,
+            "start": 3.48,
+            "word": " code"
+        },
+        {
+            "end": 3.94,
+            "start": 3.72,
+            "word": " in"
+        },
+        {
+            "end": 4.28,
+            "start": 3.94,
+            "word": " small,"
+        },
+        {
+            "end": 4.62,
+            "start": 4.34,
+            "word": " frequent"
+        },
+        {
+            "end": 4.96,
+            "start": 4.62,
+            "word": " steps."
+        },
+        {
+            "end": 5.46,
+            "start": 5.2,
+            "word": " One"
+        },
+        {
+            "end": 5.58,
+            "start": 5.46,
+            "word": " of"
+        },
+        {
+            "end": 5.66,
+            "start": 5.58,
+            "word": " the"
+        },
+        {
+            "end": 5.9,
+            "start": 5.66,
+            "word": " core"
+        },
+        {
+            "end": 6.38,
+            "start": 5.9,
+            "word": " practices"
+        },
+        {
+            "end": 6.68,
+            "start": 6.38,
+            "word": " of"
+        },
+        {
+            "end": 7,
+            "start": 6.68,
+            "word": " DevOps"
+        },
+        {
+            "end": 7.34,
+            "start": 7,
+            "word": " is"
+        },
+        {
+            "end": 7.7,
+            "start": 7.34,
+            "word": " continuous"
+        },
+        {
+            "end": 8.3,
+            "start": 7.7,
+            "word": " integration,"
+        },
+        {
+            "end": 8.88,
+            "start": 8.62,
+            "word": " which"
+        },
+        {
+            "end": 9.02,
+            "start": 8.88,
+            "word": " has"
+        },
+        {
+            "end": 9.44,
+            "start": 9.02,
+            "word": " developers"
+        },
+        {
+            "end": 9.84,
+            "start": 9.44,
+            "word": " commit"
+        },
+        {
+            "end": 10.04,
+            "start": 9.84,
+            "word": " their"
+        },
+        {
+            "end": 10.32,
+            "start": 10.04,
+            "word": " code"
+        },
+        {
+            "end": 10.5,
+            "start": 10.32,
+            "word": " to"
+        },
+        {
+            "end": 10.64,
+            "start": 10.5,
+            "word": " a"
+        },
+        {
+            "end": 10.96,
+            "start": 10.64,
+            "word": " shared"
+        },
+        {
+            "end": 11.38,
+            "start": 10.96,
+            "word": " repository,"
+        },
+        {
+            "end": 12.04,
+            "start": 11.54,
+            "word": " often"
+        },
+        {
+            "end": 12.22,
+            "start": 12.04,
+            "word": " on"
+        },
+        {
+            "end": 12.32,
+            "start": 12.22,
+            "word": " a"
+        },
+        {
+            "end": 12.52,
+            "start": 12.32,
+            "word": " daily"
+        },
+        {
+            "end": 12.86,
+            "start": 12.52,
+            "word": " basis."
+        },
+        {
+            "end": 13.34,
+            "start": 13.16,
+            "word": " Each"
+        },
+        {
+            "end": 13.58,
+            "start": 13.34,
+            "word": " commit"
+        },
+        {
+            "end": 13.88,
+            "start": 13.58,
+            "word": " triggers"
+        },
+        {
+            "end": 14.12,
+            "start": 13.88,
+            "word": " an"
+        },
+        {
+            "end": 14.46,
+            "start": 14.12,
+            "word": " automated"
+        },
+        {
+            "end": 14.86,
+            "start": 14.46,
+            "word": " workflow"
+        },
+        {
+            "end": 15.24,
+            "start": 14.86,
+            "word": " on"
+        },
+        {
+            "end": 15.36,
+            "start": 15.24,
+            "word": " a"
+        },
+        {
+            "end": 15.64,
+            "start": 15.36,
+            "word": " CI"
+        },
+        {
+            "end": 15.96,
+            "start": 15.64,
+            "word": " server"
+        },
+        {
+            "end": 16.22,
+            "start": 15.96,
+            "word": " that"
+        },
+        {
+            "end": 16.38,
+            "start": 16.22,
+            "word": " can"
+        },
+        {
+            "end": 16.66,
+            "start": 16.38,
+            "word": " notify"
+        },
+        {
+            "end": 17.12,
+            "start": 16.66,
+            "word": " developers"
+        },
+        {
+            "end": 17.42,
+            "start": 17.12,
+            "word": " of"
+        },
+        {
+            "end": 17.56,
+            "start": 17.42,
+            "word": " any"
+        },
+        {
+            "end": 17.9,
+            "start": 17.56,
+            "word": " issues"
+        },
+        {
+            "end": 18.32,
+            "start": 17.9,
+            "word": " integrating"
+        },
+        {
+            "end": 18.64,
+            "start": 18.32,
+            "word": " their"
+        },
+        {
+            "end": 18.98,
+            "start": 18.64,
+            "word": " changes."
+        },
+        {
+            "end": 19.44,
+            "start": 19.22,
+            "word": " When"
+        },
+        {
+            "end": 19.54,
+            "start": 19.44,
+            "word": " a"
+        },
+        {
+            "end": 19.8,
+            "start": 19.54,
+            "word": " repo"
+        },
+        {
+            "end": 20.18,
+            "start": 19.8,
+            "word": " evolves"
+        },
+        {
+            "end": 20.42,
+            "start": 20.18,
+            "word": " in"
+        },
+        {
+            "end": 20.58,
+            "start": 20.42,
+            "word": " small"
+        },
+        {
+            "end": 20.8,
+            "start": 20.58,
+            "word": " steps"
+        },
+        {
+            "end": 21.08,
+            "start": 20.8,
+            "word": " like"
+        },
+        {
+            "end": 21.34,
+            "start": 21.08,
+            "word": " this,"
+        },
+        {
+            "end": 21.52,
+            "start": 21.42,
+            "word": " it"
+        },
+        {
+            "end": 21.8,
+            "start": 21.52,
+            "word": " prevents"
+        },
+        {
+            "end": 22.04,
+            "start": 21.8,
+            "word": " what's"
+        },
+        {
+            "end": 22.18,
+            "start": 22.04,
+            "word": " known"
+        },
+        {
+            "end": 22.5,
+            "start": 22.18,
+            "word": " as"
+        },
+        {
+            "end": 22.88,
+            "start": 22.5,
+            "word": " merge"
+        },
+        {
+            "end": 23.12,
+            "start": 22.88,
+            "word": " hell."
+        },
+        {
+            "end": 23.78,
+            "start": 23.34,
+            "word": " Imagine"
+        },
+        {
+            "end": 24,
+            "start": 23.78,
+            "word": " Mary,"
+        },
+        {
+            "end": 24.38,
+            "start": 24.2,
+            "word": " your"
+        },
+        {
+            "end": 24.62,
+            "start": 24.38,
+            "word": " back"
+        },
+        {
+            "end": 24.76,
+            "start": 24.62,
+            "word": "-end"
+        },
+        {
+            "end": 25.02,
+            "start": 24.76,
+            "word": " developer,"
+        },
+        {
+            "end": 25.42,
+            "start": 25.2,
+            "word": " builds"
+        },
+        {
+            "end": 25.6,
+            "start": 25.42,
+            "word": " a"
+        },
+        {
+            "end": 25.74,
+            "start": 25.6,
+            "word": " new"
+        },
+        {
+            "end": 26.1,
+            "start": 25.74,
+            "word": " API"
+        },
+        {
+            "end": 26.44,
+            "start": 26.1,
+            "word": " for"
+        },
+        {
+            "end": 26.66,
+            "start": 26.44,
+            "word": " your"
+        },
+        {
+            "end": 27,
+            "start": 26.66,
+            "word": " product."
+        },
+        {
+            "end": 27.62,
+            "start": 27.18,
+            "word": " Shortly"
+        },
+        {
+            "end": 28,
+            "start": 27.62,
+            "word": " after,"
+        },
+        {
+            "end": 28.54,
+            "start": 28.2,
+            "word": " Jane,"
+        },
+        {
+            "end": 28.96,
+            "start": 28.76,
+            "word": " your"
+        },
+        {
+            "end": 29.18,
+            "start": 28.96,
+            "word": " front"
+        },
+        {
+            "end": 29.28,
+            "start": 29.18,
+            "word": "-end"
+        },
+        {
+            "end": 29.56,
+            "start": 29.28,
+            "word": " developer,"
+        },
+        {
+            "end": 29.92,
+            "start": 29.74,
+            "word": " starts"
+        },
+        {
+            "end": 30.2,
+            "start": 29.92,
+            "word": " work"
+        },
+        {
+            "end": 30.4,
+            "start": 30.2,
+            "word": " on"
+        },
+        {
+            "end": 30.52,
+            "start": 30.4,
+            "word": " a"
+        },
+        {
+            "end": 30.66,
+            "start": 30.52,
+            "word": " new"
+        },
+        {
+            "end": 30.94,
+            "start": 30.66,
+            "word": " UI."
+        },
+        {
+            "end": 31.54,
+            "start": 31.22,
+            "word": " A"
+        },
+        {
+            "end": 31.74,
+            "start": 31.54,
+            "word": " few"
+        },
+        {
+            "end": 31.9,
+            "start": 31.74,
+            "word": " months"
+        },
+        {
+            "end": 32.18,
+            "start": 31.9,
+            "word": " later,"
+        },
+        {
+            "end": 32.48,
+            "start": 32.3,
+            "word": " when"
+        },
+        {
+            "end": 32.58,
+            "start": 32.48,
+            "word": " it"
+        },
+        {
+            "end": 32.74,
+            "start": 32.58,
+            "word": " comes"
+        },
+        {
+            "end": 32.9,
+            "start": 32.74,
+            "word": " time"
+        },
+        {
+            "end": 33.16,
+            "start": 32.9,
+            "word": " to"
+        },
+        {
+            "end": 33.42,
+            "start": 33.16,
+            "word": " merge"
+        },
+        {
+            "end": 33.62,
+            "start": 33.42,
+            "word": " their"
+        },
+        {
+            "end": 34,
+            "start": 33.62,
+            "word": " features,"
+        },
+        {
+            "end": 34.3,
+            "start": 34.14,
+            "word": " we"
+        },
+        {
+            "end": 34.54,
+            "start": 34.3,
+            "word": " find"
+        },
+        {
+            "end": 34.66,
+            "start": 34.54,
+            "word": " that"
+        },
+        {
+            "end": 34.82,
+            "start": 34.66,
+            "word": " they're"
+        },
+        {
+            "end": 35.16,
+            "start": 34.82,
+            "word": " completely"
+        },
+        {
+            "end": 35.86,
+            "start": 35.16,
+            "word": " incompatible,"
+        },
+        {
+            "end": 36.08,
+            "start": 35.96,
+            "word": " the"
+        },
+        {
+            "end": 36.32,
+            "start": 36.08,
+            "word": " build"
+        },
+        {
+            "end": 36.62,
+            "start": 36.32,
+            "word": " fails,"
+        },
+        {
+            "end": 37.04,
+            "start": 36.8,
+            "word": " and"
+        },
+        {
+            "end": 37.16,
+            "start": 37.04,
+            "word": " we"
+        },
+        {
+            "end": 37.28,
+            "start": 37.16,
+            "word": " now"
+        },
+        {
+            "end": 37.44,
+            "start": 37.28,
+            "word": " have"
+        },
+        {
+            "end": 37.64,
+            "start": 37.44,
+            "word": " to"
+        },
+        {
+            "end": 37.88,
+            "start": 37.64,
+            "word": " spend"
+        },
+        {
+            "end": 38,
+            "start": 37.88,
+            "word": " a"
+        },
+        {
+            "end": 38.12,
+            "start": 38,
+            "word": " bunch"
+        },
+        {
+            "end": 38.22,
+            "start": 38.12,
+            "word": " of"
+        },
+        {
+            "end": 38.46,
+            "start": 38.22,
+            "word": " time"
+        },
+        {
+            "end": 38.6,
+            "start": 38.46,
+            "word": " and"
+        },
+        {
+            "end": 38.86,
+            "start": 38.6,
+            "word": " money"
+        },
+        {
+            "end": 39.22,
+            "start": 38.86,
+            "word": " resolving"
+        },
+        {
+            "end": 39.48,
+            "start": 39.22,
+            "word": " these"
+        },
+        {
+            "end": 39.84,
+            "start": 39.48,
+            "word": " conflicts."
+        },
+        {
+            "end": 40.66,
+            "start": 40.26,
+            "word": " Let's"
+        },
+        {
+            "end": 40.74,
+            "start": 40.66,
+            "word": " go"
+        },
+        {
+            "end": 40.9,
+            "start": 40.74,
+            "word": " ahead"
+        },
+        {
+            "end": 41.06,
+            "start": 40.9,
+            "word": " and"
+        },
+        {
+            "end": 41.3,
+            "start": 41.06,
+            "word": " build"
+        },
+        {
+            "end": 41.42,
+            "start": 41.3,
+            "word": " a"
+        },
+        {
+            "end": 41.72,
+            "start": 41.42,
+            "word": " continuous"
+        },
+        {
+            "end": 42.04,
+            "start": 41.72,
+            "word": " integration"
+        },
+        {
+            "end": 42.54,
+            "start": 42.04,
+            "word": " pipeline"
+        },
+        {
+            "end": 42.92,
+            "start": 42.54,
+            "word": " now"
+        },
+        {
+            "end": 43.22,
+            "start": 42.92,
+            "word": " to"
+        },
+        {
+            "end": 43.42,
+            "start": 43.22,
+            "word": " see"
+        },
+        {
+            "end": 43.58,
+            "start": 43.42,
+            "word": " how"
+        },
+        {
+            "end": 43.7,
+            "start": 43.58,
+            "word": " it"
+        },
+        {
+            "end": 43.96,
+            "start": 43.7,
+            "word": " prevents"
+        },
+        {
+            "end": 44.26,
+            "start": 43.96,
+            "word": " issues"
+        },
+        {
+            "end": 44.56,
+            "start": 44.26,
+            "word": " like"
+        },
+        {
+            "end": 44.8,
+            "start": 44.56,
+            "word": " this."
+        },
+        {
+            "end": 45.1,
+            "start": 44.94,
+            "word": " Here"
+        },
+        {
+            "end": 45.22,
+            "start": 45.1,
+            "word": " on"
+        },
+        {
+            "end": 45.44,
+            "start": 45.22,
+            "word": " GitHub,"
+        },
+        {
+            "end": 45.76,
+            "start": 45.62,
+            "word": " I"
+        },
+        {
+            "end": 45.92,
+            "start": 45.76,
+            "word": " have"
+        },
+        {
+            "end": 46.06,
+            "start": 45.92,
+            "word": " a"
+        },
+        {
+            "end": 46.26,
+            "start": 46.06,
+            "word": " Node"
+        },
+        {
+            "end": 46.46,
+            "start": 46.26,
+            "word": ".js"
+        },
+        {
+            "end": 46.76,
+            "start": 46.46,
+            "word": " web"
+        },
+        {
+            "end": 46.98,
+            "start": 46.76,
+            "word": " app."
+        },
+        {
+            "end": 47.42,
+            "start": 47.16,
+            "word": " In"
+        },
+        {
+            "end": 47.62,
+            "start": 47.42,
+            "word": " order"
+        },
+        {
+            "end": 47.8,
+            "start": 47.62,
+            "word": " to"
+        },
+        {
+            "end": 48.08,
+            "start": 47.8,
+            "word": " deliver"
+        },
+        {
+            "end": 48.26,
+            "start": 48.08,
+            "word": " this"
+        },
+        {
+            "end": 48.4,
+            "start": 48.26,
+            "word": " app"
+        },
+        {
+            "end": 48.56,
+            "start": 48.4,
+            "word": " to"
+        },
+        {
+            "end": 48.64,
+            "start": 48.56,
+            "word": " my"
+        },
+        {
+            "end": 49.04,
+            "start": 48.64,
+            "word": " customers,"
+        },
+        {
+            "end": 49.36,
+            "start": 49.22,
+            "word": " I"
+        },
+        {
+            "end": 49.5,
+            "start": 49.36,
+            "word": " need"
+        },
+        {
+            "end": 49.58,
+            "start": 49.5,
+            "word": " to"
+        },
+        {
+            "end": 49.72,
+            "start": 49.58,
+            "word": " run"
+        },
+        {
+            "end": 49.94,
+            "start": 49.72,
+            "word": " three"
+        },
+        {
+            "end": 50.3,
+            "start": 49.94,
+            "word": " commands,"
+        },
+        {
+            "end": 50.94,
+            "start": 50.52,
+            "word": " test,"
+        },
+        {
+            "end": 51.42,
+            "start": 51.1,
+            "word": " build,"
+        },
+        {
+            "end": 51.82,
+            "start": 51.6,
+            "word": " and"
+        },
+        {
+            "end": 52.06,
+            "start": 51.82,
+            "word": " deploy."
+        },
+        {
+            "end": 52.88,
+            "start": 52.48,
+            "word": " I"
+        },
+        {
+            "end": 53.04,
+            "start": 52.88,
+            "word": " can"
+        },
+        {
+            "end": 53.32,
+            "start": 53.04,
+            "word": " automate"
+        },
+        {
+            "end": 53.56,
+            "start": 53.32,
+            "word": " this"
+        },
+        {
+            "end": 53.78,
+            "start": 53.56,
+            "word": " entire"
+        },
+        {
+            "end": 54.24,
+            "start": 53.78,
+            "word": " process"
+        },
+        {
+            "end": 54.46,
+            "start": 54.24,
+            "word": " in"
+        },
+        {
+            "end": 54.52,
+            "start": 54.46,
+            "word": " the"
+        },
+        {
+            "end": 54.76,
+            "start": 54.52,
+            "word": " cloud"
+        },
+        {
+            "end": 55.04,
+            "start": 54.76,
+            "word": " by"
+        },
+        {
+            "end": 55.28,
+            "start": 55.04,
+            "word": " using"
+        },
+        {
+            "end": 55.44,
+            "start": 55.28,
+            "word": " a"
+        },
+        {
+            "end": 55.66,
+            "start": 55.44,
+            "word": " CI"
+        },
+        {
+            "end": 56.04,
+            "start": 55.66,
+            "word": " service"
+        },
+        {
+            "end": 56.38,
+            "start": 56.04,
+            "word": " like"
+        },
+        {
+            "end": 56.68,
+            "start": 56.38,
+            "word": " GitHub"
+        },
+        {
+            "end": 57.22,
+            "start": 56.68,
+            "word": " Actions."
+        },
+        {
+            "end": 57.82,
+            "start": 57.42,
+            "word": " First,"
+        },
+        {
+            "end": 58.02,
+            "start": 57.92,
+            "word": " I"
+        },
+        {
+            "end": 58.16,
+            "start": 58.02,
+            "word": " create"
+        },
+        {
+            "end": 58.32,
+            "start": 58.16,
+            "word": " a"
+        },
+        {
+            "end": 58.56,
+            "start": 58.32,
+            "word": " workflow,"
+        },
+        {
+            "end": 59.04,
+            "start": 58.74,
+            "word": " and"
+        },
+        {
+            "end": 59.12,
+            "start": 59.04,
+            "word": " then"
+        },
+        {
+            "end": 59.2,
+            "start": 59.12,
+            "word": " I"
+        },
+        {
+            "end": 59.26,
+            "start": 59.2,
+            "word": " test"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " it."
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " I"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " can"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " use"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " the"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " API"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " to"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " create"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " a"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " workflow,"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " and"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " then"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " I"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " test"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " it."
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " I"
+        },
+        {
+            "end": 59.26,
+            "start": 59.26,
+            "word": " can"
+        },
+        {
+            "end": 59.38,
+            "start": 59.26,
+            "word": " tell"
+        },
+        {
+            "end": 59.46,
+            "start": 59.38,
+            "word": " it"
+        },
+        {
+            "end": 59.56,
+            "start": 59.46,
+            "word": " to"
+        },
+        {
+            "end": 59.84,
+            "start": 59.56,
+            "word": " run"
+        },
+        {
+            "end": 60.12,
+            "start": 59.84,
+            "word": " on"
+        },
+        {
+            "end": 60.44,
+            "start": 60.12,
+            "word": " every"
+        },
+        {
+            "end": 60.8,
+            "start": 60.44,
+            "word": " push"
+        },
+        {
+            "end": 61,
+            "start": 60.8,
+            "word": " to"
+        },
+        {
+            "end": 61.12,
+            "start": 61,
+            "word": " the"
+        },
+        {
+            "end": 61.34,
+            "start": 61.12,
+            "word": " master"
+        },
+        {
+            "end": 61.7,
+            "start": 61.34,
+            "word": " branch."
+        },
+        {
+            "end": 62.3,
+            "start": 61.92,
+            "word": " The"
+        },
+        {
+            "end": 62.5,
+            "start": 62.3,
+            "word": " event"
+        },
+        {
+            "end": 62.74,
+            "start": 62.5,
+            "word": " triggers"
+        },
+        {
+            "end": 62.92,
+            "start": 62.74,
+            "word": " a"
+        },
+        {
+            "end": 63.22,
+            "start": 62.92,
+            "word": " job"
+        },
+        {
+            "end": 63.52,
+            "start": 63.22,
+            "word": " that"
+        },
+        {
+            "end": 63.76,
+            "start": 63.52,
+            "word": " runs"
+        },
+        {
+            "end": 63.94,
+            "start": 63.76,
+            "word": " on"
+        },
+        {
+            "end": 64.06,
+            "start": 63.94,
+            "word": " a"
+        },
+        {
+            "end": 64.28,
+            "start": 64.06,
+            "word": " Linux"
+        },
+        {
+            "end": 64.66,
+            "start": 64.28,
+            "word": " container"
+        },
+        {
+            "end": 64.98,
+            "start": 64.66,
+            "word": " in"
+        },
+        {
+            "end": 65.08,
+            "start": 64.98,
+            "word": " the"
+        },
+        {
+            "end": 65.32,
+            "start": 65.08,
+            "word": " cloud."
+        },
+        {
+            "end": 65.8,
+            "start": 65.48,
+            "word": " Then"
+        },
+        {
+            "end": 65.92,
+            "start": 65.8,
+            "word": " we"
+        },
+        {
+            "end": 66.08,
+            "start": 65.92,
+            "word": " tell"
+        },
+        {
+            "end": 66.18,
+            "start": 66.08,
+            "word": " the"
+        },
+        {
+            "end": 66.44,
+            "start": 66.18,
+            "word": " container"
+        },
+        {
+            "end": 66.68,
+            "start": 66.44,
+            "word": " what"
+        },
+        {
+            "end": 66.82,
+            "start": 66.68,
+            "word": " to"
+        },
+        {
+            "end": 67.06,
+            "start": 66.82,
+            "word": " do"
+        },
+        {
+            "end": 67.32,
+            "start": 67.06,
+            "word": " as"
+        },
+        {
+            "end": 67.44,
+            "start": 67.32,
+            "word": " a"
+        },
+        {
+            "end": 67.74,
+            "start": 67.44,
+            "word": " series"
+        },
+        {
+            "end": 67.88,
+            "start": 67.74,
+            "word": " of"
+        },
+        {
+            "end": 68.12,
+            "start": 67.88,
+            "word": " steps."
+        },
+        {
+            "end": 68.92,
+            "start": 68.52,
+            "word": " First,"
+        },
+        {
+            "end": 69.22,
+            "start": 69.1,
+            "word": " it"
+        },
+        {
+            "end": 69.44,
+            "start": 69.22,
+            "word": " checks"
+        },
+        {
+            "end": 69.58,
+            "start": 69.44,
+            "word": " out"
+        },
+        {
+            "end": 69.72,
+            "start": 69.58,
+            "word": " the"
+        },
+        {
+            "end": 69.94,
+            "start": 69.72,
+            "word": " code"
+        },
+        {
+            "end": 70.02,
+            "start": 69.94,
+            "word": " in"
+        },
+        {
+            "end": 70.12,
+            "start": 70.02,
+            "word": " this"
+        },
+        {
+            "end": 70.36,
+            "start": 70.12,
+            "word": " GitHub"
+        },
+        {
+            "end": 70.68,
+            "start": 70.36,
+            "word": " repo,"
+        },
+        {
+            "end": 71.16,
+            "start": 70.88,
+            "word": " then"
+        },
+        {
+            "end": 71.34,
+            "start": 71.16,
+            "word": " sets"
+        },
+        {
+            "end": 71.54,
+            "start": 71.34,
+            "word": " up"
+        },
+        {
+            "end": 71.74,
+            "start": 71.54,
+            "word": " Node"
+        },
+        {
+            "end": 71.92,
+            "start": 71.74,
+            "word": ".js,"
+        },
+        {
+            "end": 72.74,
+            "start": 72.24,
+            "word": " installs"
+        },
+        {
+            "end": 72.8,
+            "start": 72.74,
+            "word": " my"
+        },
+        {
+            "end": 73.16,
+            "start": 72.8,
+            "word": " dependencies,"
+        },
+        {
+            "end": 73.78,
+            "start": 73.54,
+            "word": " and"
+        },
+        {
+            "end": 74.04,
+            "start": 73.78,
+            "word": " runs"
+        },
+        {
+            "end": 74.22,
+            "start": 74.04,
+            "word": " my"
+        },
+        {
+            "end": 74.56,
+            "start": 74.22,
+            "word": " test,"
+        },
+        {
+            "end": 74.98,
+            "start": 74.72,
+            "word": " build,"
+        },
+        {
+            "end": 75.26,
+            "start": 75.12,
+            "word": " and"
+        },
+        {
+            "end": 75.44,
+            "start": 75.26,
+            "word": " deploy"
+        },
+        {
+            "end": 75.76,
+            "start": 75.44,
+            "word": " commands."
+        },
+        {
+            "end": 76.46,
+            "start": 76.08,
+            "word": " Now,"
+        },
+        {
+            "end": 76.8,
+            "start": 76.56,
+            "word": " any"
+        },
+        {
+            "end": 77.02,
+            "start": 76.8,
+            "word": " time"
+        },
+        {
+            "end": 77.16,
+            "start": 77.02,
+            "word": " we"
+        },
+        {
+            "end": 77.3,
+            "start": 77.16,
+            "word": " commit"
+        },
+        {
+            "end": 77.56,
+            "start": 77.3,
+            "word": " code"
+        },
+        {
+            "end": 77.74,
+            "start": 77.56,
+            "word": " to"
+        },
+        {
+            "end": 77.8,
+            "start": 77.74,
+            "word": " the"
+        },
+        {
+            "end": 78.04,
+            "start": 77.8,
+            "word": " master"
+        },
+        {
+            "end": 78.3,
+            "start": 78.04,
+            "word": " branch"
+        },
+        {
+            "end": 78.48,
+            "start": 78.3,
+            "word": " in"
+        },
+        {
+            "end": 78.56,
+            "start": 78.48,
+            "word": " this"
+        },
+        {
+            "end": 78.86,
+            "start": 78.56,
+            "word": " repo,"
+        },
+        {
+            "end": 79.16,
+            "start": 79,
+            "word": " it"
+        },
+        {
+            "end": 79.28,
+            "start": 79.16,
+            "word": " will"
+        },
+        {
+            "end": 79.5,
+            "start": 79.28,
+            "word": " run"
+        },
+        {
+            "end": 79.68,
+            "start": 79.5,
+            "word": " this"
+        },
+        {
+            "end": 80,
+            "start": 79.68,
+            "word": " workflow."
+        },
+        {
+            "end": 80.62,
+            "start": 80.26,
+            "word": " If"
+        },
+        {
+            "end": 80.78,
+            "start": 80.62,
+            "word": " any"
+        },
+        {
+            "end": 80.92,
+            "start": 80.78,
+            "word": " of"
+        },
+        {
+            "end": 81,
+            "start": 80.92,
+            "word": " the"
+        },
+        {
+            "end": 81.2,
+            "start": 81,
+            "word": " steps"
+        },
+        {
+            "end": 81.48,
+            "start": 81.2,
+            "word": " fail,"
+        },
+        {
+            "end": 81.76,
+            "start": 81.64,
+            "word": " the"
+        },
+        {
+            "end": 81.94,
+            "start": 81.76,
+            "word": " bad"
+        },
+        {
+            "end": 82.34,
+            "start": 81.94,
+            "word": " software"
+        },
+        {
+            "end": 82.66,
+            "start": 82.34,
+            "word": " won't"
+        },
+        {
+            "end": 82.76,
+            "start": 82.66,
+            "word": " be"
+        },
+        {
+            "end": 83.02,
+            "start": 82.76,
+            "word": " delivered"
+        },
+        {
+            "end": 83.18,
+            "start": 83.02,
+            "word": " to"
+        },
+        {
+            "end": 83.28,
+            "start": 83.18,
+            "word": " our"
+        },
+        {
+            "end": 83.64,
+            "start": 83.28,
+            "word": " customers,"
+        },
+        {
+            "end": 84,
+            "start": 83.8,
+            "word": " and"
+        },
+        {
+            "end": 84.12,
+            "start": 84,
+            "word": " we'll"
+        },
+        {
+            "end": 84.44,
+            "start": 84.12,
+            "word": " automatically"
+        },
+        {
+            "end": 84.78,
+            "start": 84.44,
+            "word": " know"
+        },
+        {
+            "end": 84.96,
+            "start": 84.78,
+            "word": " there's"
+        },
+        {
+            "end": 85.04,
+            "start": 84.96,
+            "word": " an"
+        },
+        {
+            "end": 85.34,
+            "start": 85.04,
+            "word": " issue"
+        },
+        {
+            "end": 85.48,
+            "start": 85.34,
+            "word": " that"
+        },
+        {
+            "end": 85.64,
+            "start": 85.48,
+            "word": " needs"
+        },
+        {
+            "end": 85.76,
+            "start": 85.64,
+            "word": " to"
+        },
+        {
+            "end": 85.82,
+            "start": 85.76,
+            "word": " be"
+        },
+        {
+            "end": 86.1,
+            "start": 85.82,
+            "word": " addressed."
+        },
+        {
+            "end": 86.62,
+            "start": 86.38,
+            "word": " At"
+        },
+        {
+            "end": 86.72,
+            "start": 86.62,
+            "word": " the"
+        },
+        {
+            "end": 86.86,
+            "start": 86.72,
+            "word": " end"
+        },
+        {
+            "end": 86.94,
+            "start": 86.86,
+            "word": " of"
+        },
+        {
+            "end": 87,
+            "start": 86.94,
+            "word": " the"
+        },
+        {
+            "end": 87.2,
+            "start": 87,
+            "word": " day,"
+        },
+        {
+            "end": 87.66,
+            "start": 87.28,
+            "word": " CI"
+        },
+        {
+            "end": 87.94,
+            "start": 87.66,
+            "word": "-CD"
+        },
+        {
+            "end": 88.36,
+            "start": 87.94,
+            "word": " offers"
+        },
+        {
+            "end": 88.7,
+            "start": 88.36,
+            "word": " two"
+        },
+        {
+            "end": 88.9,
+            "start": 88.7,
+            "word": " main"
+        },
+        {
+            "end": 89.24,
+            "start": 88.9,
+            "word": " benefits."
+        },
+        {
+            "end": 89.68,
+            "start": 89.26,
+            "word": " It"
+        },
+        {
+            "end": 89.9,
+            "start": 89.68,
+            "word": " helps"
+        },
+        {
+            "end": 90.02,
+            "start": 89.9,
+            "word": " you"
+        },
+        {
+            "end": 90.28,
+            "start": 90.02,
+            "word": " automate"
+        },
+        {
+            "end": 90.62,
+            "start": 90.28,
+            "word": " things"
+        },
+        {
+            "end": 90.88,
+            "start": 90.62,
+            "word": " that"
+        },
+        {
+            "end": 91,
+            "start": 90.88,
+            "word": " would"
+        },
+        {
+            "end": 91.28,
+            "start": 91,
+            "word": " otherwise"
+        },
+        {
+            "end": 91.5,
+            "start": 91.28,
+            "word": " have"
+        },
+        {
+            "end": 91.64,
+            "start": 91.5,
+            "word": " to"
+        },
+        {
+            "end": 91.7,
+            "start": 91.64,
+            "word": " be"
+        },
+        {
+            "end": 91.86,
+            "start": 91.7,
+            "word": " done"
+        },
+        {
+            "end": 92.2,
+            "start": 91.86,
+            "word": " manually"
+        },
+        {
+            "end": 92.48,
+            "start": 92.2,
+            "word": " by"
+        },
+        {
+            "end": 92.88,
+            "start": 92.48,
+            "word": " developers."
+        },
+        {
+            "end": 93.44,
+            "start": 93.1,
+            "word": " That"
+        },
+        {
+            "end": 93.62,
+            "start": 93.44,
+            "word": " will"
+        },
+        {
+            "end": 93.9,
+            "start": 93.62,
+            "word": " increase"
+        },
+        {
+            "end": 94.06,
+            "start": 93.9,
+            "word": " your"
+        },
+        {
+            "end": 94.44,
+            "start": 94.06,
+            "word": " velocity,"
+        },
+        {
+            "end": 94.9,
+            "start": 94.62,
+            "word": " but"
+        },
+        {
+            "end": 94.98,
+            "start": 94.9,
+            "word": " it"
+        },
+        {
+            "end": 95.22,
+            "start": 94.98,
+            "word": " also"
+        },
+        {
+            "end": 95.72,
+            "start": 95.22,
+            "word": " detects"
+        },
+        {
+            "end": 95.84,
+            "start": 95.72,
+            "word": " small"
+        },
+        {
+            "end": 96.22,
+            "start": 95.84,
+            "word": " problems"
+        },
+        {
+            "end": 96.48,
+            "start": 96.22,
+            "word": " early"
+        },
+        {
+            "end": 96.86,
+            "start": 96.48,
+            "word": " before"
+        },
+        {
+            "end": 97.06,
+            "start": 96.86,
+            "word": " they"
+        },
+        {
+            "end": 97.18,
+            "start": 97.06,
+            "word": " can"
+        },
+        {
+            "end": 97.44,
+            "start": 97.18,
+            "word": " grow"
+        },
+        {
+            "end": 97.74,
+            "start": 97.44,
+            "word": " into"
+        },
+        {
+            "end": 98.06,
+            "start": 97.74,
+            "word": " major"
+        },
+        {
+            "end": 98.62,
+            "start": 98.06,
+            "word": " disasters,"
+        },
+        {
+            "end": 99.12,
+            "start": 98.82,
+            "word": " and"
+        },
+        {
+            "end": 99.3,
+            "start": 99.12,
+            "word": " that"
+        },
+        {
+            "end": 99.64,
+            "start": 99.3,
+            "word": " results"
+        },
+        {
+            "end": 99.9,
+            "start": 99.64,
+            "word": " in"
+        },
+        {
+            "end": 100.12,
+            "start": 99.9,
+            "word": " higher"
+        },
+        {
+            "end": 100.38,
+            "start": 100.12,
+            "word": " code"
+        },
+        {
+            "end": 100.76,
+            "start": 100.38,
+            "word": " quality."
+        },
+        {
+            "end": 101.24,
+            "start": 101.04,
+            "word": " This"
+        },
+        {
+            "end": 101.34,
+            "start": 101.24,
+            "word": " has"
+        },
+        {
+            "end": 101.5,
+            "start": 101.34,
+            "word": " been"
+        },
+        {
+            "end": 101.78,
+            "start": 101.5,
+            "word": " CI"
+        },
+        {
+            "end": 102.1,
+            "start": 101.78,
+            "word": "-CD,"
+        },
+        {
+            "end": 102.52,
+            "start": 102.22,
+            "word": " or"
+        },
+        {
+            "end": 102.9,
+            "start": 102.52,
+            "word": " DevOps,"
+        },
+        {
+            "end": 103.24,
+            "start": 103.12,
+            "word": " in"
+        },
+        {
+            "end": 103.54,
+            "start": 103.24,
+            "word": " 100"
+        },
+        {
+            "end": 104,
+            "start": 103.54,
+            "word": " seconds."
+        },
+        {
+            "end": 104.42,
+            "start": 104.22,
+            "word": " Make"
+        },
+        {
+            "end": 104.54,
+            "start": 104.42,
+            "word": " sure"
+        },
+        {
+            "end": 104.64,
+            "start": 104.54,
+            "word": " to"
+        },
+        {
+            "end": 104.74,
+            "start": 104.64,
+            "word": " hit"
+        },
+        {
+            "end": 104.82,
+            "start": 104.74,
+            "word": " the"
+        },
+        {
+            "end": 104.96,
+            "start": 104.82,
+            "word": " like"
+        },
+        {
+            "end": 105.16,
+            "start": 104.96,
+            "word": " button"
+        },
+        {
+            "end": 105.36,
+            "start": 105.16,
+            "word": " if"
+        },
+        {
+            "end": 105.44,
+            "start": 105.36,
+            "word": " you"
+        },
+        {
+            "end": 105.54,
+            "start": 105.44,
+            "word": " want"
+        },
+        {
+            "end": 105.62,
+            "start": 105.54,
+            "word": " to"
+        },
+        {
+            "end": 105.72,
+            "start": 105.62,
+            "word": " see"
+        },
+        {
+            "end": 105.9,
+            "start": 105.72,
+            "word": " more"
+        },
+        {
+            "end": 106.08,
+            "start": 105.9,
+            "word": " short"
+        },
+        {
+            "end": 106.3,
+            "start": 106.08,
+            "word": " videos"
+        },
+        {
+            "end": 106.58,
+            "start": 106.3,
+            "word": " like"
+        },
+        {
+            "end": 106.88,
+            "start": 106.58,
+            "word": " this,"
+        },
+        {
+            "end": 107.28,
+            "start": 106.96,
+            "word": " and"
+        },
+        {
+            "end": 107.46,
+            "start": 107.28,
+            "word": " stay"
+        },
+        {
+            "end": 107.66,
+            "start": 107.46,
+            "word": " tuned"
+        },
+        {
+            "end": 107.94,
+            "start": 107.66,
+            "word": " tomorrow"
+        },
+        {
+            "end": 108.3,
+            "start": 107.94,
+            "word": " for"
+        },
+        {
+            "end": 108.44,
+            "start": 108.3,
+            "word": " a"
+        },
+        {
+            "end": 108.66,
+            "start": 108.44,
+            "word": " full"
+        },
+        {
+            "end": 109,
+            "start": 108.66,
+            "word": " DevOps"
+        },
+        {
+            "end": 109.36,
+            "start": 109,
+            "word": " project"
+        },
+        {
+            "end": 109.8,
+            "start": 109.36,
+            "word": " using"
+        },
+        {
+            "end": 110.14,
+            "start": 109.8,
+            "word": " GitHub"
+        },
+        {
+            "end": 110.72,
+            "start": 110.14,
+            "word": " Actions."
+        },
+        {
+            "end": 111.18,
+            "start": 110.84,
+            "word": " Thanks"
+        },
+        {
+            "end": 111.32,
+            "start": 111.18,
+            "word": " for"
+        },
+        {
+            "end": 111.64,
+            "start": 111.32,
+            "word": " watching,"
+        },
+        {
+            "end": 111.98,
+            "start": 111.72,
+            "word": " and"
+        },
+        {
+            "end": 112.06,
+            "start": 111.98,
+            "word": " I"
+        },
+        {
+            "end": 112.2,
+            "start": 112.06,
+            "word": " will"
+        },
+        {
+            "end": 112.36,
+            "start": 112.2,
+            "word": " see"
+        },
+        {
+            "end": 112.52,
+            "start": 112.36,
+            "word": " you"
+        },
+        {
+            "end": 112.7,
+            "start": 112.52,
+            "word": " in"
+        },
+        {
+            "end": 112.82,
+            "start": 112.7,
+            "word": " the"
+        },
+        {
+            "end": 113,
+            "start": 112.82,
+            "word": " next"
+        },
+        {
+            "end": 113.16,
+            "start": 113,
+            "word": " one."
+        }
+    ]
+}

@@ -1,0 +1,3299 @@
+{
+    "detected_language": "en",
+    "device": "cuda",
+    "model": "large-v3",
+    "segments": [
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 3.98,
+            "id": 1,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 0,
+            "temperature": 0,
+            "text": " Kubernetes, a tool for managing and automating containerized workloads in the cloud.",
+            "tokens": [
+                50365,
+                23145,
+                11,
+                257,
+                2290,
+                337,
+                11642,
+                293,
+                3553,
+                990,
+                10129,
+                1602,
+                32452,
+                294,
+                264,
+                4588,
+                13,
+                50571
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 7.94,
+            "id": 2,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 4.16,
+            "temperature": 0,
+            "text": " Imagine you have an orchestra. Think of each individual musician as a Docker container.",
+            "tokens": [
+                50584,
+                11739,
+                291,
+                362,
+                364,
+                25280,
+                13,
+                6557,
+                295,
+                1184,
+                2609,
+                19570,
+                382,
+                257,
+                33772,
+                10129,
+                13,
+                50771
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 12.4,
+            "id": 3,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 8.18,
+            "temperature": 0,
+            "text": " To create beautiful music, we need a conductor to manage the musicians and set the tempo.",
+            "tokens": [
+                50785,
+                1407,
+                1884,
+                2238,
+                1318,
+                11,
+                321,
+                643,
+                257,
+                29957,
+                281,
+                3067,
+                264,
+                16916,
+                293,
+                992,
+                264,
+                8972,
+                13,
+                50989
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 16.56,
+            "id": 4,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 12.6,
+            "temperature": 0,
+            "text": " Now imagine the conductor as Kubernetes and the orchestra as an app like Robinhood.",
+            "tokens": [
+                51001,
+                823,
+                3811,
+                264,
+                29957,
+                382,
+                23145,
+                293,
+                264,
+                25280,
+                382,
+                364,
+                724,
+                411,
+                16533,
+                3809,
+                13,
+                51198
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 19.52,
+            "id": 5,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 16.74,
+            "temperature": 0,
+            "text": " When the markets are closed, an app like Robinhood isn't doing much.",
+            "tokens": [
+                51210,
+                1133,
+                264,
+                8383,
+                366,
+                5395,
+                11,
+                364,
+                724,
+                411,
+                16533,
+                3809,
+                1943,
+                380,
+                884,
+                709,
+                13,
+                51346
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 23.86,
+            "id": 6,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 19.6,
+            "temperature": 0,
+            "text": " But when they open, it needs to fulfill millions of trades for overpriced stocks like Tesla and Shopify.",
+            "tokens": [
+                51349,
+                583,
+                562,
+                436,
+                1269,
+                11,
+                309,
+                2203,
+                281,
+                13875,
+                6803,
+                295,
+                21287,
+                337,
+                670,
+                79,
+                1341,
+                292,
+                12966,
+                411,
+                13666,
+                293,
+                43991,
+                13,
+                51566
+            ]
+        },
+        {
+            "avg_logprob": -0.08588005514705882,
+            "compression_ratio": 1.7923976608187135,
+            "end": 28.1,
+            "id": 7,
+            "no_speech_prob": 0.10211181640625,
+            "seek": 2810,
+            "start": 24.14,
+            "temperature": 0,
+            "text": " Kubernetes is the tool that orchestrates the infrastructure to handle the changing workload.",
+            "tokens": [
+                51579,
+                23145,
+                307,
+                264,
+                2290,
+                300,
+                14161,
+                12507,
+                264,
+                6896,
+                281,
+                4813,
+                264,
+                4473,
+                20139,
+                13,
+                51779
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 33.08,
+            "id": 8,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 28.1,
+            "temperature": 0,
+            "text": " It can scale containers across multiple machines, and if one fails, it knows how to replace it with a new one.",
+            "tokens": [
+                50365,
+                467,
+                393,
+                4373,
+                17089,
+                2108,
+                3866,
+                8379,
+                11,
+                293,
+                498,
+                472,
+                18199,
+                11,
+                309,
+                3255,
+                577,
+                281,
+                7406,
+                309,
+                365,
+                257,
+                777,
+                472,
+                13,
+                50619
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 35.68,
+            "id": 9,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 33.2,
+            "temperature": 0,
+            "text": " A system deployed on Kubernetes is known as a cluster.",
+            "tokens": [
+                50630,
+                316,
+                1185,
+                17826,
+                322,
+                23145,
+                307,
+                2570,
+                382,
+                257,
+                13630,
+                13,
+                50749
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 38.34,
+            "id": 10,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 35.88,
+            "temperature": 0,
+            "text": " The brain of the operation is known as the control plane.",
+            "tokens": [
+                50772,
+                440,
+                3567,
+                295,
+                264,
+                6916,
+                307,
+                2570,
+                382,
+                264,
+                1969,
+                5720,
+                13,
+                50884
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 43.26,
+            "id": 11,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 38.52,
+            "temperature": 0,
+            "text": " It exposes an API server that can handle both internal and external requests to manage the cluster.",
+            "tokens": [
+                50897,
+                467,
+                1278,
+                4201,
+                364,
+                9362,
+                7154,
+                300,
+                393,
+                4813,
+                1293,
+                6920,
+                293,
+                8320,
+                12475,
+                281,
+                3067,
+                264,
+                13630,
+                13,
+                51128
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 48.8,
+            "id": 12,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 43.44,
+            "temperature": 0,
+            "text": " It also contains its own key-value database called etcd, used to store important information about running the cluster.",
+            "tokens": [
+                51141,
+                467,
+                611,
+                8306,
+                1080,
+                1065,
+                2141,
+                12,
+                29155,
+                8149,
+                1219,
+                5183,
+                67,
+                11,
+                1143,
+                281,
+                3531,
+                1021,
+                1589,
+                466,
+                2614,
+                264,
+                13630,
+                13,
+                51404
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 51.94,
+            "id": 13,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 48.98,
+            "temperature": 0,
+            "text": " What it's managing is one or more worker machines called nodes.",
+            "tokens": [
+                51423,
+                708,
+                309,
+                311,
+                11642,
+                307,
+                472,
+                420,
+                544,
+                11346,
+                8379,
+                1219,
+                13891,
+                13,
+                51567
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 53.76,
+            "id": 14,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 52.18,
+            "temperature": 0,
+            "text": " When you hear node, think of a machine.",
+            "tokens": [
+                51578,
+                1133,
+                291,
+                1568,
+                9984,
+                11,
+                519,
+                295,
+                257,
+                3479,
+                13,
+                51657
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 55.94,
+            "id": 15,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 54.02,
+            "temperature": 0,
+            "text": " Each node is running something called a kubelet,",
+            "tokens": [
+                51657,
+                6947,
+                9984,
+                307,
+                2614,
+                746,
+                1219,
+                257,
+                350,
+                836,
+                15966,
+                11,
+                51759
+            ]
+        },
+        {
+            "avg_logprob": -0.07858455882352941,
+            "compression_ratio": 1.790633608815427,
+            "end": 58.08,
+            "id": 16,
+            "no_speech_prob": 0.00020992755889892578,
+            "seek": 5810,
+            "start": 56.04,
+            "temperature": 0,
+            "text": " which is a tiny application that runs on the machine.",
+            "tokens": [
+                51775,
+                597,
+                307,
+                257,
+                5870,
+                3861,
+                300,
+                6676,
+                322,
+                264,
+                3479,
+                13,
+                51857
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 60.94,
+            "id": 17,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 58.1,
+            "temperature": 0,
+            "text": " To communicate back with the main control plane mothership.",
+            "tokens": [
+                50365,
+                1407,
+                7890,
+                646,
+                365,
+                264,
+                2135,
+                1969,
+                5720,
+                17941,
+                1210,
+                13,
+                50511
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 65.32,
+            "id": 18,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 60.98,
+            "temperature": 0,
+            "text": " Inside of each node, we have multiple pods, which is the smallest deployable unit in Kubernetes.",
+            "tokens": [
+                50521,
+                15123,
+                295,
+                1184,
+                9984,
+                11,
+                321,
+                362,
+                3866,
+                31925,
+                11,
+                597,
+                307,
+                264,
+                16998,
+                7274,
+                712,
+                4985,
+                294,
+                23145,
+                13,
+                50745
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 69,
+            "id": 19,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 65.62,
+            "temperature": 0,
+            "text": " When you hear pod, think of a pod of whales or containers running together.",
+            "tokens": [
+                50756,
+                1133,
+                291,
+                1568,
+                2497,
+                11,
+                519,
+                295,
+                257,
+                2497,
+                295,
+                32403,
+                420,
+                17089,
+                2614,
+                1214,
+                13,
+                50924
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 74.6,
+            "id": 20,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 69.24,
+            "temperature": 0,
+            "text": " As the workload increases, Kubernetes can automatically scale horizontally by adding more nodes to the cluster.",
+            "tokens": [
+                50935,
+                1018,
+                264,
+                20139,
+                8637,
+                11,
+                23145,
+                393,
+                6772,
+                4373,
+                33796,
+                538,
+                5127,
+                544,
+                13891,
+                281,
+                264,
+                13630,
+                13,
+                51199
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 80.1,
+            "id": 21,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 74.78,
+            "temperature": 0,
+            "text": " In the process, it takes care of complicated things like networking, secret management, persistent storage, and so on.",
+            "tokens": [
+                51209,
+                682,
+                264,
+                1399,
+                11,
+                309,
+                2516,
+                1127,
+                295,
+                6179,
+                721,
+                411,
+                17985,
+                11,
+                4054,
+                4592,
+                11,
+                24315,
+                6725,
+                11,
+                293,
+                370,
+                322,
+                13,
+                51471
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 84.92,
+            "id": 22,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 80.18,
+            "temperature": 0,
+            "text": " It's designed for high availability, and one way it achieves that is by maintaining a replica set,",
+            "tokens": [
+                51481,
+                467,
+                311,
+                4761,
+                337,
+                1090,
+                17945,
+                11,
+                293,
+                472,
+                636,
+                309,
+                3538,
+                977,
+                300,
+                307,
+                538,
+                14916,
+                257,
+                35456,
+                992,
+                11,
+                51715
+            ]
+        },
+        {
+            "avg_logprob": -0.20471014492753623,
+            "compression_ratio": 1.7265193370165746,
+            "end": 88.02,
+            "id": 23,
+            "no_speech_prob": 0.006702423095703125,
+            "seek": 8810,
+            "start": 85.04,
+            "temperature": 0,
+            "text": " which is just a set of running pods or containers ready to go,",
+            "tokens": [
+                51720,
+                597,
+                307,
+                445,
+                257,
+                992,
+                295,
+                2614,
+                31925,
+                420,
+                17089,
+                1919,
+                281,
+                352,
+                11,
+                51863
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 89,
+            "id": 24,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 88.1,
+            "temperature": 0,
+            "text": " at any given time.",
+            "tokens": [
+                50369,
+                412,
+                604,
+                2212,
+                565,
+                13,
+                50417
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 93.58,
+            "id": 25,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 89.12,
+            "temperature": 0,
+            "text": " As a developer, you define objects in YAML that describe the desired state of your cluster.",
+            "tokens": [
+                50427,
+                1018,
+                257,
+                10754,
+                11,
+                291,
+                6964,
+                6565,
+                294,
+                398,
+                2865,
+                43,
+                300,
+                6786,
+                264,
+                14721,
+                1785,
+                295,
+                428,
+                13630,
+                13,
+                50647
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 97.88,
+            "id": 26,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 93.74,
+            "temperature": 0,
+            "text": " For example, we might have an Nginx deployment that has a replica set with three pods.",
+            "tokens": [
+                50657,
+                1171,
+                1365,
+                11,
+                321,
+                1062,
+                362,
+                364,
+                426,
+                1494,
+                87,
+                19317,
+                300,
+                575,
+                257,
+                35456,
+                992,
+                365,
+                1045,
+                31925,
+                13,
+                50865
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 100.7,
+            "id": 27,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 98.1,
+            "temperature": 0,
+            "text": " In the spec field, we can define exactly how it should behave,",
+            "tokens": [
+                50875,
+                682,
+                264,
+                1608,
+                2519,
+                11,
+                321,
+                393,
+                6964,
+                2293,
+                577,
+                309,
+                820,
+                15158,
+                11,
+                51003
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 103.24,
+            "id": 28,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 100.82,
+            "temperature": 0,
+            "text": " like its containers, volumes, ports, and so on.",
+            "tokens": [
+                51013,
+                411,
+                1080,
+                17089,
+                11,
+                22219,
+                11,
+                18160,
+                11,
+                293,
+                370,
+                322,
+                13,
+                51129
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 107.7,
+            "id": 29,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 103.36,
+            "temperature": 0,
+            "text": " You can then take this configuration and use it to provision and scale containers automatically,",
+            "tokens": [
+                51139,
+                509,
+                393,
+                550,
+                747,
+                341,
+                11694,
+                293,
+                764,
+                309,
+                281,
+                17225,
+                293,
+                4373,
+                17089,
+                6772,
+                11,
+                51365
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 110.24,
+            "id": 30,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 108.02,
+            "temperature": 0,
+            "text": " and ensure that they're always up and running and healthy.",
+            "tokens": [
+                51375,
+                293,
+                5586,
+                300,
+                436,
+                434,
+                1009,
+                493,
+                293,
+                2614,
+                293,
+                4627,
+                13,
+                51483
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 112.46,
+            "id": 31,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 110.44,
+            "temperature": 0,
+            "text": " This has been Kubernetes in 100 seconds.",
+            "tokens": [
+                51493,
+                639,
+                575,
+                668,
+                23145,
+                294,
+                2319,
+                3949,
+                13,
+                51595
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 116.14,
+            "id": 32,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 112.68,
+            "temperature": 0,
+            "text": " Like and subscribe for more, and you can support my work by sponsoring me on GitHub,",
+            "tokens": [
+                51605,
+                1743,
+                293,
+                3022,
+                337,
+                544,
+                11,
+                293,
+                291,
+                393,
+                1406,
+                452,
+                589,
+                538,
+                30311,
+                385,
+                322,
+                23331,
+                11,
+                51781
+            ]
+        },
+        {
+            "avg_logprob": -0.1980187908496732,
+            "compression_ratio": 1.6472148541114058,
+            "end": 117.9,
+            "id": 33,
+            "no_speech_prob": 0.004558563232421875,
+            "seek": 11810,
+            "start": 116.26,
+            "temperature": 0,
+            "text": " or by becoming a pro member at",
+            "tokens": [
+                51791,
+                420,
+                538,
+                5617,
+                257,
+                447,
+                4006,
+                412,
+                51859
+            ]
+        },
+        {
+            "avg_logprob": -0.18036099137931033,
+            "compression_ratio": 1.0705882352941176,
+            "end": 119.6,
+            "id": 34,
+            "no_speech_prob": 0.0021762847900390625,
+            "seek": 12620,
+            "start": 118.1,
+            "temperature": 0,
+            "text": " Wireship.io for even more content.",
+            "tokens": [
+                50365,
+                343,
+                3145,
+                1210,
+                13,
+                1004,
+                337,
+                754,
+                544,
+                2701,
+                13,
+                50453
+            ]
+        },
+        {
+            "avg_logprob": -0.18036099137931033,
+            "compression_ratio": 1.0705882352941176,
+            "end": 122.34,
+            "id": 35,
+            "no_speech_prob": 0.0021762847900390625,
+            "seek": 12620,
+            "start": 119.82,
+            "temperature": 0,
+            "text": " Thanks for watching, and I will see you in the next one.",
+            "tokens": [
+                50463,
+                2561,
+                337,
+                1976,
+                11,
+                293,
+                286,
+                486,
+                536,
+                291,
+                294,
+                264,
+                958,
+                472,
+                13,
+                50585
+            ]
+        }
+    ],
+    "transcription": "Kubernetes, a tool for managing and automating containerized workloads in the cloud.\nImagine you have an orchestra. Think of each individual musician as a Docker container.\nTo create beautiful music, we need a conductor to manage the musicians and set the tempo.\nNow imagine the conductor as Kubernetes and the orchestra as an app like Robinhood.\nWhen the markets are closed, an app like Robinhood isn't doing much.\nBut when they open, it needs to fulfill millions of trades for overpriced stocks like Tesla and Shopify.\nKubernetes is the tool that orchestrates the infrastructure to handle the changing workload.\nIt can scale containers across multiple machines, and if one fails, it knows how to replace it with a new one.\nA system deployed on Kubernetes is known as a cluster.\nThe brain of the operation is known as the control plane.\nIt exposes an API server that can handle both internal and external requests to manage the cluster.\nIt also contains its own key-value database called etcd, used to store important information about running the cluster.\nWhat it's managing is one or more worker machines called nodes.\nWhen you hear node, think of a machine.\nEach node is running something called a kubelet,\nwhich is a tiny application that runs on the machine.\nTo communicate back with the main control plane mothership.\nInside of each node, we have multiple pods, which is the smallest deployable unit in Kubernetes.\nWhen you hear pod, think of a pod of whales or containers running together.\nAs the workload increases, Kubernetes can automatically scale horizontally by adding more nodes to the cluster.\nIn the process, it takes care of complicated things like networking, secret management, persistent storage, and so on.\nIt's designed for high availability, and one way it achieves that is by maintaining a replica set,\nwhich is just a set of running pods or containers ready to go,\nat any given time.\nAs a developer, you define objects in YAML that describe the desired state of your cluster.\nFor example, we might have an Nginx deployment that has a replica set with three pods.\nIn the spec field, we can define exactly how it should behave,\nlike its containers, volumes, ports, and so on.\nYou can then take this configuration and use it to provision and scale containers automatically,\nand ensure that they're always up and running and healthy.\nThis has been Kubernetes in 100 seconds.\nLike and subscribe for more, and you can support my work by sponsoring me on GitHub,\nor by becoming a pro member at\nWireship.io for even more content.\nThanks for watching, and I will see you in the next one.",
+    "translation": "1\n00:00:00,000 --> 00:00:04,120\nKubernetes, a tool for managing and automating containerized workloads in the cloud.\n\n2\n00:00:04,380 --> 00:00:08,120\nImagine you have an orchestra. Think of each individual musician as a Docker container.\n\n3\n00:00:08,400 --> 00:00:12,480\nTo create beautiful music, we need a conductor to manage the musicians and set the tempo.\n\n4\n00:00:12,720 --> 00:00:16,660\nNow imagine the conductor as Kubernetes and the orchestra as an app like Robinhood.\n\n5\n00:00:16,900 --> 00:00:19,620\nWhen the markets are closed, an app like Robinhood isn't doing much.\n\n6\n00:00:19,680 --> 00:00:24,020\nBut when they open, it needs to fulfill millions of trades for overpriced stocks like Tesla and Shopify.\n\n7\n00:00:24,280 --> 00:00:28,280\nKubernetes is the tool that orchestrates the infrastructure to handle the changing workload.\n\n8\n00:00:28,280 --> 00:00:33,180\nIt can scale containers across multiple machines, and if one fails, it knows how to replace it with a new one.\n\n9\n00:00:33,400 --> 00:00:35,780\nA system deployed on Kubernetes is known as a cluster.\n\n10\n00:00:36,240 --> 00:00:38,480\nThe brain of the operation is known as the control plane.\n\n11\n00:00:38,740 --> 00:00:43,360\nIt exposes an API server that can handle both internal and external requests to manage the cluster.\n\n12\n00:00:43,620 --> 00:00:48,880\nIt also contains its own key-value database called etcd, used to store important information about running the cluster.\n\n13\n00:00:49,260 --> 00:00:52,140\nWhat it's managing is one or more worker machines called nodes.\n\n14\n00:00:52,360 --> 00:00:53,940\nWhen you hear node, think of a machine.\n\n15\n00:00:53,940 --> 00:00:58,260\nEach node is running something called a kubelet, which is a tiny application that runs on the machine,\n\n16\n00:00:58,420 --> 00:01:01,000\nto communicate back with the main control plane mothership.\n\n17\n00:01:01,200 --> 00:01:05,700\nInside of each node, we have multiple pods, which is the smallest deployable unit in Kubernetes.\n\n18\n00:01:05,900 --> 00:01:09,280\nWhen you hear pod, think of a pod of whales or containers running together.\n\n19\n00:01:09,480 --> 00:01:14,780\nAs the workload increases, Kubernetes can automatically scale horizontally by adding more nodes to the cluster.\n\n20\n00:01:14,960 --> 00:01:20,200\nIn the process, it takes care of complicated things like networking, secret management, persistent storage, and so on.\n\n21\n00:01:20,400 --> 00:01:25,060\nIt's designed for high availability, and one way it achieves that is by maintaining a replica set,\n\n22\n00:01:25,160 --> 00:01:28,120\nwhich is just a set of running pods or containers ready to go\n\n23\n00:01:28,280 --> 00:01:29,180\nat any given time.\n\n24\n00:01:29,300 --> 00:01:33,800\nAs a developer, you define objects in YAML that describe the desired state of your cluster.\n\n25\n00:01:33,920 --> 00:01:38,160\nFor example, we might have an Nginx deployment that has a replica set with three pods.\n\n26\n00:01:38,280 --> 00:01:43,440\nIn the spec field, we can define exactly how it should behave, like its containers, volumes, ports, and so on.\n\n27\n00:01:43,560 --> 00:01:48,160\nYou can then take this configuration and use it to provision and scale containers automatically,\n\n28\n00:01:48,240 --> 00:01:50,520\nand ensure that they're always up and running and healthy.\n\n29\n00:01:50,680 --> 00:01:52,760\nThis has been Kubernetes in 100 Seconds.\n\n30\n00:01:52,840 --> 00:01:57,840\nLike and subscribe for more, and you can support my work by sponsoring me on GitHub or by becoming a pro member\n\n31\n00:01:57,840 --> 00:01:58,260\nat Fireshark.\n\n32\n00:01:58,360 --> 00:02:01,020\nYou can also join the membership IO for even more content.\n\n33\n00:02:01,140 --> 00:02:03,700\nThanks for watching, and I will see you in the next one.\n\n",
+    "word_timestamps": [
+        {
+            "end": 0.44,
+            "start": 0,
+            "word": " Kubernetes,"
+        },
+        {
+            "end": 0.8,
+            "start": 0.6,
+            "word": " a"
+        },
+        {
+            "end": 1,
+            "start": 0.8,
+            "word": " tool"
+        },
+        {
+            "end": 1.16,
+            "start": 1,
+            "word": " for"
+        },
+        {
+            "end": 1.48,
+            "start": 1.16,
+            "word": " managing"
+        },
+        {
+            "end": 1.8,
+            "start": 1.48,
+            "word": " and"
+        },
+        {
+            "end": 2.34,
+            "start": 1.8,
+            "word": " automating"
+        },
+        {
+            "end": 2.94,
+            "start": 2.34,
+            "word": " containerized"
+        },
+        {
+            "end": 3.24,
+            "start": 2.94,
+            "word": " workloads"
+        },
+        {
+            "end": 3.64,
+            "start": 3.24,
+            "word": " in"
+        },
+        {
+            "end": 3.74,
+            "start": 3.64,
+            "word": " the"
+        },
+        {
+            "end": 3.98,
+            "start": 3.74,
+            "word": " cloud."
+        },
+        {
+            "end": 4.48,
+            "start": 4.16,
+            "word": " Imagine"
+        },
+        {
+            "end": 4.7,
+            "start": 4.48,
+            "word": " you"
+        },
+        {
+            "end": 4.8,
+            "start": 4.7,
+            "word": " have"
+        },
+        {
+            "end": 4.9,
+            "start": 4.8,
+            "word": " an"
+        },
+        {
+            "end": 5.2,
+            "start": 4.9,
+            "word": " orchestra."
+        },
+        {
+            "end": 5.76,
+            "start": 5.48,
+            "word": " Think"
+        },
+        {
+            "end": 5.86,
+            "start": 5.76,
+            "word": " of"
+        },
+        {
+            "end": 6.02,
+            "start": 5.86,
+            "word": " each"
+        },
+        {
+            "end": 6.38,
+            "start": 6.02,
+            "word": " individual"
+        },
+        {
+            "end": 6.76,
+            "start": 6.38,
+            "word": " musician"
+        },
+        {
+            "end": 7.22,
+            "start": 6.76,
+            "word": " as"
+        },
+        {
+            "end": 7.36,
+            "start": 7.22,
+            "word": " a"
+        },
+        {
+            "end": 7.62,
+            "start": 7.36,
+            "word": " Docker"
+        },
+        {
+            "end": 7.94,
+            "start": 7.62,
+            "word": " container."
+        },
+        {
+            "end": 8.38,
+            "start": 8.18,
+            "word": " To"
+        },
+        {
+            "end": 8.68,
+            "start": 8.38,
+            "word": " create"
+        },
+        {
+            "end": 8.92,
+            "start": 8.68,
+            "word": " beautiful"
+        },
+        {
+            "end": 9.3,
+            "start": 8.92,
+            "word": " music,"
+        },
+        {
+            "end": 9.68,
+            "start": 9.5,
+            "word": " we"
+        },
+        {
+            "end": 9.78,
+            "start": 9.68,
+            "word": " need"
+        },
+        {
+            "end": 9.88,
+            "start": 9.78,
+            "word": " a"
+        },
+        {
+            "end": 10.22,
+            "start": 9.88,
+            "word": " conductor"
+        },
+        {
+            "end": 10.54,
+            "start": 10.22,
+            "word": " to"
+        },
+        {
+            "end": 10.92,
+            "start": 10.54,
+            "word": " manage"
+        },
+        {
+            "end": 11.06,
+            "start": 10.92,
+            "word": " the"
+        },
+        {
+            "end": 11.4,
+            "start": 11.06,
+            "word": " musicians"
+        },
+        {
+            "end": 11.74,
+            "start": 11.4,
+            "word": " and"
+        },
+        {
+            "end": 11.98,
+            "start": 11.74,
+            "word": " set"
+        },
+        {
+            "end": 12.12,
+            "start": 11.98,
+            "word": " the"
+        },
+        {
+            "end": 12.4,
+            "start": 12.12,
+            "word": " tempo."
+        },
+        {
+            "end": 12.74,
+            "start": 12.6,
+            "word": " Now"
+        },
+        {
+            "end": 13.06,
+            "start": 12.74,
+            "word": " imagine"
+        },
+        {
+            "end": 13.18,
+            "start": 13.06,
+            "word": " the"
+        },
+        {
+            "end": 13.54,
+            "start": 13.18,
+            "word": " conductor"
+        },
+        {
+            "end": 13.82,
+            "start": 13.54,
+            "word": " as"
+        },
+        {
+            "end": 14.18,
+            "start": 13.82,
+            "word": " Kubernetes"
+        },
+        {
+            "end": 14.62,
+            "start": 14.18,
+            "word": " and"
+        },
+        {
+            "end": 14.78,
+            "start": 14.62,
+            "word": " the"
+        },
+        {
+            "end": 15.1,
+            "start": 14.78,
+            "word": " orchestra"
+        },
+        {
+            "end": 15.56,
+            "start": 15.1,
+            "word": " as"
+        },
+        {
+            "end": 15.7,
+            "start": 15.56,
+            "word": " an"
+        },
+        {
+            "end": 15.92,
+            "start": 15.7,
+            "word": " app"
+        },
+        {
+            "end": 16.12,
+            "start": 15.92,
+            "word": " like"
+        },
+        {
+            "end": 16.56,
+            "start": 16.12,
+            "word": " Robinhood."
+        },
+        {
+            "end": 16.98,
+            "start": 16.74,
+            "word": " When"
+        },
+        {
+            "end": 17.08,
+            "start": 16.98,
+            "word": " the"
+        },
+        {
+            "end": 17.32,
+            "start": 17.08,
+            "word": " markets"
+        },
+        {
+            "end": 17.46,
+            "start": 17.32,
+            "word": " are"
+        },
+        {
+            "end": 17.7,
+            "start": 17.46,
+            "word": " closed,"
+        },
+        {
+            "end": 18,
+            "start": 17.88,
+            "word": " an"
+        },
+        {
+            "end": 18.16,
+            "start": 18,
+            "word": " app"
+        },
+        {
+            "end": 18.32,
+            "start": 18.16,
+            "word": " like"
+        },
+        {
+            "end": 18.74,
+            "start": 18.32,
+            "word": " Robinhood"
+        },
+        {
+            "end": 19.1,
+            "start": 18.74,
+            "word": " isn't"
+        },
+        {
+            "end": 19.24,
+            "start": 19.1,
+            "word": " doing"
+        },
+        {
+            "end": 19.52,
+            "start": 19.24,
+            "word": " much."
+        },
+        {
+            "end": 19.72,
+            "start": 19.6,
+            "word": " But"
+        },
+        {
+            "end": 19.84,
+            "start": 19.72,
+            "word": " when"
+        },
+        {
+            "end": 19.92,
+            "start": 19.84,
+            "word": " they"
+        },
+        {
+            "end": 20.18,
+            "start": 19.92,
+            "word": " open,"
+        },
+        {
+            "end": 20.48,
+            "start": 20.38,
+            "word": " it"
+        },
+        {
+            "end": 20.62,
+            "start": 20.48,
+            "word": " needs"
+        },
+        {
+            "end": 20.74,
+            "start": 20.62,
+            "word": " to"
+        },
+        {
+            "end": 20.94,
+            "start": 20.74,
+            "word": " fulfill"
+        },
+        {
+            "end": 21.32,
+            "start": 20.94,
+            "word": " millions"
+        },
+        {
+            "end": 21.48,
+            "start": 21.32,
+            "word": " of"
+        },
+        {
+            "end": 21.72,
+            "start": 21.48,
+            "word": " trades"
+        },
+        {
+            "end": 21.94,
+            "start": 21.72,
+            "word": " for"
+        },
+        {
+            "end": 22.5,
+            "start": 21.94,
+            "word": " overpriced"
+        },
+        {
+            "end": 22.72,
+            "start": 22.5,
+            "word": " stocks"
+        },
+        {
+            "end": 23.02,
+            "start": 22.72,
+            "word": " like"
+        },
+        {
+            "end": 23.34,
+            "start": 23.02,
+            "word": " Tesla"
+        },
+        {
+            "end": 23.54,
+            "start": 23.34,
+            "word": " and"
+        },
+        {
+            "end": 23.86,
+            "start": 23.54,
+            "word": " Shopify."
+        },
+        {
+            "end": 24.46,
+            "start": 24.14,
+            "word": " Kubernetes"
+        },
+        {
+            "end": 24.88,
+            "start": 24.46,
+            "word": " is"
+        },
+        {
+            "end": 25,
+            "start": 24.88,
+            "word": " the"
+        },
+        {
+            "end": 25.24,
+            "start": 25,
+            "word": " tool"
+        },
+        {
+            "end": 25.38,
+            "start": 25.24,
+            "word": " that"
+        },
+        {
+            "end": 25.92,
+            "start": 25.38,
+            "word": " orchestrates"
+        },
+        {
+            "end": 26.1,
+            "start": 25.92,
+            "word": " the"
+        },
+        {
+            "end": 26.46,
+            "start": 26.1,
+            "word": " infrastructure"
+        },
+        {
+            "end": 26.96,
+            "start": 26.46,
+            "word": " to"
+        },
+        {
+            "end": 27.34,
+            "start": 26.96,
+            "word": " handle"
+        },
+        {
+            "end": 27.48,
+            "start": 27.34,
+            "word": " the"
+        },
+        {
+            "end": 27.68,
+            "start": 27.48,
+            "word": " changing"
+        },
+        {
+            "end": 28.1,
+            "start": 27.68,
+            "word": " workload."
+        },
+        {
+            "end": 28.38,
+            "start": 28.1,
+            "word": " It"
+        },
+        {
+            "end": 28.6,
+            "start": 28.38,
+            "word": " can"
+        },
+        {
+            "end": 28.86,
+            "start": 28.6,
+            "word": " scale"
+        },
+        {
+            "end": 29.2,
+            "start": 28.86,
+            "word": " containers"
+        },
+        {
+            "end": 29.48,
+            "start": 29.2,
+            "word": " across"
+        },
+        {
+            "end": 29.84,
+            "start": 29.48,
+            "word": " multiple"
+        },
+        {
+            "end": 30.2,
+            "start": 29.84,
+            "word": " machines,"
+        },
+        {
+            "end": 30.62,
+            "start": 30.42,
+            "word": " and"
+        },
+        {
+            "end": 30.74,
+            "start": 30.62,
+            "word": " if"
+        },
+        {
+            "end": 30.86,
+            "start": 30.74,
+            "word": " one"
+        },
+        {
+            "end": 31.24,
+            "start": 30.86,
+            "word": " fails,"
+        },
+        {
+            "end": 31.52,
+            "start": 31.38,
+            "word": " it"
+        },
+        {
+            "end": 31.7,
+            "start": 31.52,
+            "word": " knows"
+        },
+        {
+            "end": 31.86,
+            "start": 31.7,
+            "word": " how"
+        },
+        {
+            "end": 32,
+            "start": 31.86,
+            "word": " to"
+        },
+        {
+            "end": 32.36,
+            "start": 32,
+            "word": " replace"
+        },
+        {
+            "end": 32.58,
+            "start": 32.36,
+            "word": " it"
+        },
+        {
+            "end": 32.68,
+            "start": 32.58,
+            "word": " with"
+        },
+        {
+            "end": 32.78,
+            "start": 32.68,
+            "word": " a"
+        },
+        {
+            "end": 32.9,
+            "start": 32.78,
+            "word": " new"
+        },
+        {
+            "end": 33.08,
+            "start": 32.9,
+            "word": " one."
+        },
+        {
+            "end": 33.4,
+            "start": 33.2,
+            "word": " A"
+        },
+        {
+            "end": 33.72,
+            "start": 33.4,
+            "word": " system"
+        },
+        {
+            "end": 34.02,
+            "start": 33.72,
+            "word": " deployed"
+        },
+        {
+            "end": 34.2,
+            "start": 34.02,
+            "word": " on"
+        },
+        {
+            "end": 34.5,
+            "start": 34.2,
+            "word": " Kubernetes"
+        },
+        {
+            "end": 34.88,
+            "start": 34.5,
+            "word": " is"
+        },
+        {
+            "end": 35.1,
+            "start": 34.88,
+            "word": " known"
+        },
+        {
+            "end": 35.24,
+            "start": 35.1,
+            "word": " as"
+        },
+        {
+            "end": 35.34,
+            "start": 35.24,
+            "word": " a"
+        },
+        {
+            "end": 35.68,
+            "start": 35.34,
+            "word": " cluster."
+        },
+        {
+            "end": 36.26,
+            "start": 35.88,
+            "word": " The"
+        },
+        {
+            "end": 36.48,
+            "start": 36.26,
+            "word": " brain"
+        },
+        {
+            "end": 36.62,
+            "start": 36.48,
+            "word": " of"
+        },
+        {
+            "end": 36.66,
+            "start": 36.62,
+            "word": " the"
+        },
+        {
+            "end": 37.06,
+            "start": 36.66,
+            "word": " operation"
+        },
+        {
+            "end": 37.38,
+            "start": 37.06,
+            "word": " is"
+        },
+        {
+            "end": 37.56,
+            "start": 37.38,
+            "word": " known"
+        },
+        {
+            "end": 37.72,
+            "start": 37.56,
+            "word": " as"
+        },
+        {
+            "end": 37.78,
+            "start": 37.72,
+            "word": " the"
+        },
+        {
+            "end": 38.04,
+            "start": 37.78,
+            "word": " control"
+        },
+        {
+            "end": 38.34,
+            "start": 38.04,
+            "word": " plane."
+        },
+        {
+            "end": 38.74,
+            "start": 38.52,
+            "word": " It"
+        },
+        {
+            "end": 39.16,
+            "start": 38.74,
+            "word": " exposes"
+        },
+        {
+            "end": 39.28,
+            "start": 39.16,
+            "word": " an"
+        },
+        {
+            "end": 39.52,
+            "start": 39.28,
+            "word": " API"
+        },
+        {
+            "end": 39.88,
+            "start": 39.52,
+            "word": " server"
+        },
+        {
+            "end": 40.18,
+            "start": 39.88,
+            "word": " that"
+        },
+        {
+            "end": 40.32,
+            "start": 40.18,
+            "word": " can"
+        },
+        {
+            "end": 40.58,
+            "start": 40.32,
+            "word": " handle"
+        },
+        {
+            "end": 40.74,
+            "start": 40.58,
+            "word": " both"
+        },
+        {
+            "end": 41.14,
+            "start": 40.74,
+            "word": " internal"
+        },
+        {
+            "end": 41.36,
+            "start": 41.14,
+            "word": " and"
+        },
+        {
+            "end": 41.68,
+            "start": 41.36,
+            "word": " external"
+        },
+        {
+            "end": 42.1,
+            "start": 41.68,
+            "word": " requests"
+        },
+        {
+            "end": 42.44,
+            "start": 42.1,
+            "word": " to"
+        },
+        {
+            "end": 42.8,
+            "start": 42.44,
+            "word": " manage"
+        },
+        {
+            "end": 42.98,
+            "start": 42.8,
+            "word": " the"
+        },
+        {
+            "end": 43.26,
+            "start": 42.98,
+            "word": " cluster."
+        },
+        {
+            "end": 43.64,
+            "start": 43.44,
+            "word": " It"
+        },
+        {
+            "end": 43.86,
+            "start": 43.64,
+            "word": " also"
+        },
+        {
+            "end": 44.22,
+            "start": 43.86,
+            "word": " contains"
+        },
+        {
+            "end": 44.42,
+            "start": 44.22,
+            "word": " its"
+        },
+        {
+            "end": 44.58,
+            "start": 44.42,
+            "word": " own"
+        },
+        {
+            "end": 44.84,
+            "start": 44.58,
+            "word": " key"
+        },
+        {
+            "end": 44.98,
+            "start": 44.84,
+            "word": "-value"
+        },
+        {
+            "end": 45.4,
+            "start": 44.98,
+            "word": " database"
+        },
+        {
+            "end": 45.8,
+            "start": 45.4,
+            "word": " called"
+        },
+        {
+            "end": 46.4,
+            "start": 45.8,
+            "word": " etcd,"
+        },
+        {
+            "end": 46.74,
+            "start": 46.52,
+            "word": " used"
+        },
+        {
+            "end": 46.9,
+            "start": 46.74,
+            "word": " to"
+        },
+        {
+            "end": 47.06,
+            "start": 46.9,
+            "word": " store"
+        },
+        {
+            "end": 47.26,
+            "start": 47.06,
+            "word": " important"
+        },
+        {
+            "end": 47.72,
+            "start": 47.26,
+            "word": " information"
+        },
+        {
+            "end": 48.06,
+            "start": 47.72,
+            "word": " about"
+        },
+        {
+            "end": 48.34,
+            "start": 48.06,
+            "word": " running"
+        },
+        {
+            "end": 48.5,
+            "start": 48.34,
+            "word": " the"
+        },
+        {
+            "end": 48.8,
+            "start": 48.5,
+            "word": " cluster."
+        },
+        {
+            "end": 49.34,
+            "start": 48.98,
+            "word": " What"
+        },
+        {
+            "end": 49.44,
+            "start": 49.34,
+            "word": " it's"
+        },
+        {
+            "end": 49.76,
+            "start": 49.44,
+            "word": " managing"
+        },
+        {
+            "end": 50.16,
+            "start": 49.76,
+            "word": " is"
+        },
+        {
+            "end": 50.34,
+            "start": 50.16,
+            "word": " one"
+        },
+        {
+            "end": 50.48,
+            "start": 50.34,
+            "word": " or"
+        },
+        {
+            "end": 50.6,
+            "start": 50.48,
+            "word": " more"
+        },
+        {
+            "end": 50.88,
+            "start": 50.6,
+            "word": " worker"
+        },
+        {
+            "end": 51.2,
+            "start": 50.88,
+            "word": " machines"
+        },
+        {
+            "end": 51.62,
+            "start": 51.2,
+            "word": " called"
+        },
+        {
+            "end": 51.94,
+            "start": 51.62,
+            "word": " nodes."
+        },
+        {
+            "end": 52.44,
+            "start": 52.18,
+            "word": " When"
+        },
+        {
+            "end": 52.54,
+            "start": 52.44,
+            "word": " you"
+        },
+        {
+            "end": 52.7,
+            "start": 52.54,
+            "word": " hear"
+        },
+        {
+            "end": 52.94,
+            "start": 52.7,
+            "word": " node,"
+        },
+        {
+            "end": 53.3,
+            "start": 53.1,
+            "word": " think"
+        },
+        {
+            "end": 53.44,
+            "start": 53.3,
+            "word": " of"
+        },
+        {
+            "end": 53.52,
+            "start": 53.44,
+            "word": " a"
+        },
+        {
+            "end": 53.76,
+            "start": 53.52,
+            "word": " machine."
+        },
+        {
+            "end": 54.26,
+            "start": 54.02,
+            "word": " Each"
+        },
+        {
+            "end": 54.52,
+            "start": 54.26,
+            "word": " node"
+        },
+        {
+            "end": 54.72,
+            "start": 54.52,
+            "word": " is"
+        },
+        {
+            "end": 54.88,
+            "start": 54.72,
+            "word": " running"
+        },
+        {
+            "end": 55.12,
+            "start": 54.88,
+            "word": " something"
+        },
+        {
+            "end": 55.42,
+            "start": 55.12,
+            "word": " called"
+        },
+        {
+            "end": 55.54,
+            "start": 55.42,
+            "word": " a"
+        },
+        {
+            "end": 55.94,
+            "start": 55.54,
+            "word": " kubelet,"
+        },
+        {
+            "end": 56.36,
+            "start": 56.04,
+            "word": " which"
+        },
+        {
+            "end": 56.48,
+            "start": 56.36,
+            "word": " is"
+        },
+        {
+            "end": 56.6,
+            "start": 56.48,
+            "word": " a"
+        },
+        {
+            "end": 56.8,
+            "start": 56.6,
+            "word": " tiny"
+        },
+        {
+            "end": 57.26,
+            "start": 56.8,
+            "word": " application"
+        },
+        {
+            "end": 57.52,
+            "start": 57.26,
+            "word": " that"
+        },
+        {
+            "end": 57.68,
+            "start": 57.52,
+            "word": " runs"
+        },
+        {
+            "end": 57.84,
+            "start": 57.68,
+            "word": " on"
+        },
+        {
+            "end": 57.9,
+            "start": 57.84,
+            "word": " the"
+        },
+        {
+            "end": 58.08,
+            "start": 57.9,
+            "word": " machine."
+        },
+        {
+            "end": 58.42,
+            "start": 58.1,
+            "word": " To"
+        },
+        {
+            "end": 58.8,
+            "start": 58.42,
+            "word": " communicate"
+        },
+        {
+            "end": 59.2,
+            "start": 58.8,
+            "word": " back"
+        },
+        {
+            "end": 59.44,
+            "start": 59.2,
+            "word": " with"
+        },
+        {
+            "end": 59.54,
+            "start": 59.44,
+            "word": " the"
+        },
+        {
+            "end": 59.76,
+            "start": 59.54,
+            "word": " main"
+        },
+        {
+            "end": 60.12,
+            "start": 59.76,
+            "word": " control"
+        },
+        {
+            "end": 60.42,
+            "start": 60.12,
+            "word": " plane"
+        },
+        {
+            "end": 60.94,
+            "start": 60.42,
+            "word": " mothership."
+        },
+        {
+            "end": 61.34,
+            "start": 60.98,
+            "word": " Inside"
+        },
+        {
+            "end": 61.56,
+            "start": 61.34,
+            "word": " of"
+        },
+        {
+            "end": 61.66,
+            "start": 61.56,
+            "word": " each"
+        },
+        {
+            "end": 61.86,
+            "start": 61.66,
+            "word": " node,"
+        },
+        {
+            "end": 62.18,
+            "start": 62.04,
+            "word": " we"
+        },
+        {
+            "end": 62.32,
+            "start": 62.18,
+            "word": " have"
+        },
+        {
+            "end": 62.64,
+            "start": 62.32,
+            "word": " multiple"
+        },
+        {
+            "end": 63.02,
+            "start": 62.64,
+            "word": " pods,"
+        },
+        {
+            "end": 63.42,
+            "start": 63.2,
+            "word": " which"
+        },
+        {
+            "end": 63.54,
+            "start": 63.42,
+            "word": " is"
+        },
+        {
+            "end": 63.66,
+            "start": 63.54,
+            "word": " the"
+        },
+        {
+            "end": 63.98,
+            "start": 63.66,
+            "word": " smallest"
+        },
+        {
+            "end": 64.46,
+            "start": 63.98,
+            "word": " deployable"
+        },
+        {
+            "end": 64.78,
+            "start": 64.46,
+            "word": " unit"
+        },
+        {
+            "end": 65,
+            "start": 64.78,
+            "word": " in"
+        },
+        {
+            "end": 65.32,
+            "start": 65,
+            "word": " Kubernetes."
+        },
+        {
+            "end": 65.96,
+            "start": 65.62,
+            "word": " When"
+        },
+        {
+            "end": 66.06,
+            "start": 65.96,
+            "word": " you"
+        },
+        {
+            "end": 66.2,
+            "start": 66.06,
+            "word": " hear"
+        },
+        {
+            "end": 66.44,
+            "start": 66.2,
+            "word": " pod,"
+        },
+        {
+            "end": 66.84,
+            "start": 66.66,
+            "word": " think"
+        },
+        {
+            "end": 66.96,
+            "start": 66.84,
+            "word": " of"
+        },
+        {
+            "end": 67.04,
+            "start": 66.96,
+            "word": " a"
+        },
+        {
+            "end": 67.26,
+            "start": 67.04,
+            "word": " pod"
+        },
+        {
+            "end": 67.34,
+            "start": 67.26,
+            "word": " of"
+        },
+        {
+            "end": 67.58,
+            "start": 67.34,
+            "word": " whales"
+        },
+        {
+            "end": 67.9,
+            "start": 67.58,
+            "word": " or"
+        },
+        {
+            "end": 68.28,
+            "start": 67.9,
+            "word": " containers"
+        },
+        {
+            "end": 68.68,
+            "start": 68.28,
+            "word": " running"
+        },
+        {
+            "end": 69,
+            "start": 68.68,
+            "word": " together."
+        },
+        {
+            "end": 69.54,
+            "start": 69.24,
+            "word": " As"
+        },
+        {
+            "end": 69.66,
+            "start": 69.54,
+            "word": " the"
+        },
+        {
+            "end": 69.88,
+            "start": 69.66,
+            "word": " workload"
+        },
+        {
+            "end": 70.26,
+            "start": 69.88,
+            "word": " increases,"
+        },
+        {
+            "end": 70.94,
+            "start": 70.6,
+            "word": " Kubernetes"
+        },
+        {
+            "end": 71.28,
+            "start": 70.94,
+            "word": " can"
+        },
+        {
+            "end": 71.68,
+            "start": 71.28,
+            "word": " automatically"
+        },
+        {
+            "end": 72.2,
+            "start": 71.68,
+            "word": " scale"
+        },
+        {
+            "end": 72.62,
+            "start": 72.2,
+            "word": " horizontally"
+        },
+        {
+            "end": 73.2,
+            "start": 72.62,
+            "word": " by"
+        },
+        {
+            "end": 73.44,
+            "start": 73.2,
+            "word": " adding"
+        },
+        {
+            "end": 73.68,
+            "start": 73.44,
+            "word": " more"
+        },
+        {
+            "end": 74.04,
+            "start": 73.68,
+            "word": " nodes"
+        },
+        {
+            "end": 74.22,
+            "start": 74.04,
+            "word": " to"
+        },
+        {
+            "end": 74.3,
+            "start": 74.22,
+            "word": " the"
+        },
+        {
+            "end": 74.6,
+            "start": 74.3,
+            "word": " cluster."
+        },
+        {
+            "end": 75.02,
+            "start": 74.78,
+            "word": " In"
+        },
+        {
+            "end": 75.1,
+            "start": 75.02,
+            "word": " the"
+        },
+        {
+            "end": 75.44,
+            "start": 75.1,
+            "word": " process,"
+        },
+        {
+            "end": 75.74,
+            "start": 75.62,
+            "word": " it"
+        },
+        {
+            "end": 75.92,
+            "start": 75.74,
+            "word": " takes"
+        },
+        {
+            "end": 76.08,
+            "start": 75.92,
+            "word": " care"
+        },
+        {
+            "end": 76.16,
+            "start": 76.08,
+            "word": " of"
+        },
+        {
+            "end": 76.42,
+            "start": 76.16,
+            "word": " complicated"
+        },
+        {
+            "end": 76.76,
+            "start": 76.42,
+            "word": " things"
+        },
+        {
+            "end": 77.02,
+            "start": 76.76,
+            "word": " like"
+        },
+        {
+            "end": 77.34,
+            "start": 77.02,
+            "word": " networking,"
+        },
+        {
+            "end": 78.06,
+            "start": 77.76,
+            "word": " secret"
+        },
+        {
+            "end": 78.42,
+            "start": 78.06,
+            "word": " management,"
+        },
+        {
+            "end": 78.94,
+            "start": 78.7,
+            "word": " persistent"
+        },
+        {
+            "end": 79.46,
+            "start": 78.94,
+            "word": " storage,"
+        },
+        {
+            "end": 79.76,
+            "start": 79.54,
+            "word": " and"
+        },
+        {
+            "end": 79.88,
+            "start": 79.76,
+            "word": " so"
+        },
+        {
+            "end": 80.1,
+            "start": 79.88,
+            "word": " on."
+        },
+        {
+            "end": 80.54,
+            "start": 80.18,
+            "word": " It's"
+        },
+        {
+            "end": 80.84,
+            "start": 80.54,
+            "word": " designed"
+        },
+        {
+            "end": 81.12,
+            "start": 80.84,
+            "word": " for"
+        },
+        {
+            "end": 81.4,
+            "start": 81.12,
+            "word": " high"
+        },
+        {
+            "end": 81.82,
+            "start": 81.4,
+            "word": " availability,"
+        },
+        {
+            "end": 82.44,
+            "start": 82.14,
+            "word": " and"
+        },
+        {
+            "end": 82.58,
+            "start": 82.44,
+            "word": " one"
+        },
+        {
+            "end": 82.76,
+            "start": 82.58,
+            "word": " way"
+        },
+        {
+            "end": 82.84,
+            "start": 82.76,
+            "word": " it"
+        },
+        {
+            "end": 83.16,
+            "start": 82.84,
+            "word": " achieves"
+        },
+        {
+            "end": 83.32,
+            "start": 83.16,
+            "word": " that"
+        },
+        {
+            "end": 83.52,
+            "start": 83.32,
+            "word": " is"
+        },
+        {
+            "end": 83.66,
+            "start": 83.52,
+            "word": " by"
+        },
+        {
+            "end": 84,
+            "start": 83.66,
+            "word": " maintaining"
+        },
+        {
+            "end": 84.3,
+            "start": 84,
+            "word": " a"
+        },
+        {
+            "end": 84.62,
+            "start": 84.3,
+            "word": " replica"
+        },
+        {
+            "end": 84.92,
+            "start": 84.62,
+            "word": " set,"
+        },
+        {
+            "end": 85.26,
+            "start": 85.04,
+            "word": " which"
+        },
+        {
+            "end": 85.38,
+            "start": 85.26,
+            "word": " is"
+        },
+        {
+            "end": 85.58,
+            "start": 85.38,
+            "word": " just"
+        },
+        {
+            "end": 85.72,
+            "start": 85.58,
+            "word": " a"
+        },
+        {
+            "end": 85.92,
+            "start": 85.72,
+            "word": " set"
+        },
+        {
+            "end": 86.04,
+            "start": 85.92,
+            "word": " of"
+        },
+        {
+            "end": 86.24,
+            "start": 86.04,
+            "word": " running"
+        },
+        {
+            "end": 86.6,
+            "start": 86.24,
+            "word": " pods"
+        },
+        {
+            "end": 86.82,
+            "start": 86.6,
+            "word": " or"
+        },
+        {
+            "end": 87.18,
+            "start": 86.82,
+            "word": " containers"
+        },
+        {
+            "end": 87.62,
+            "start": 87.18,
+            "word": " ready"
+        },
+        {
+            "end": 87.74,
+            "start": 87.62,
+            "word": " to"
+        },
+        {
+            "end": 88.02,
+            "start": 87.74,
+            "word": " go,"
+        },
+        {
+            "end": 88.24,
+            "start": 88.1,
+            "word": " at"
+        },
+        {
+            "end": 88.46,
+            "start": 88.24,
+            "word": " any"
+        },
+        {
+            "end": 88.66,
+            "start": 88.46,
+            "word": " given"
+        },
+        {
+            "end": 89,
+            "start": 88.66,
+            "word": " time."
+        },
+        {
+            "end": 89.32,
+            "start": 89.12,
+            "word": " As"
+        },
+        {
+            "end": 89.46,
+            "start": 89.32,
+            "word": " a"
+        },
+        {
+            "end": 89.84,
+            "start": 89.46,
+            "word": " developer,"
+        },
+        {
+            "end": 90.16,
+            "start": 89.96,
+            "word": " you"
+        },
+        {
+            "end": 90.36,
+            "start": 90.16,
+            "word": " define"
+        },
+        {
+            "end": 90.86,
+            "start": 90.36,
+            "word": " objects"
+        },
+        {
+            "end": 91.12,
+            "start": 90.86,
+            "word": " in"
+        },
+        {
+            "end": 91.44,
+            "start": 91.12,
+            "word": " YAML"
+        },
+        {
+            "end": 91.68,
+            "start": 91.44,
+            "word": " that"
+        },
+        {
+            "end": 92.04,
+            "start": 91.68,
+            "word": " describe"
+        },
+        {
+            "end": 92.28,
+            "start": 92.04,
+            "word": " the"
+        },
+        {
+            "end": 92.52,
+            "start": 92.28,
+            "word": " desired"
+        },
+        {
+            "end": 92.9,
+            "start": 92.52,
+            "word": " state"
+        },
+        {
+            "end": 93.14,
+            "start": 92.9,
+            "word": " of"
+        },
+        {
+            "end": 93.26,
+            "start": 93.14,
+            "word": " your"
+        },
+        {
+            "end": 93.58,
+            "start": 93.26,
+            "word": " cluster."
+        },
+        {
+            "end": 93.92,
+            "start": 93.74,
+            "word": " For"
+        },
+        {
+            "end": 94.32,
+            "start": 93.92,
+            "word": " example,"
+        },
+        {
+            "end": 94.66,
+            "start": 94.44,
+            "word": " we"
+        },
+        {
+            "end": 94.8,
+            "start": 94.66,
+            "word": " might"
+        },
+        {
+            "end": 94.94,
+            "start": 94.8,
+            "word": " have"
+        },
+        {
+            "end": 95.1,
+            "start": 94.94,
+            "word": " an"
+        },
+        {
+            "end": 95.46,
+            "start": 95.1,
+            "word": " Nginx"
+        },
+        {
+            "end": 95.78,
+            "start": 95.46,
+            "word": " deployment"
+        },
+        {
+            "end": 96.26,
+            "start": 95.78,
+            "word": " that"
+        },
+        {
+            "end": 96.42,
+            "start": 96.26,
+            "word": " has"
+        },
+        {
+            "end": 96.56,
+            "start": 96.42,
+            "word": " a"
+        },
+        {
+            "end": 96.82,
+            "start": 96.56,
+            "word": " replica"
+        },
+        {
+            "end": 97.08,
+            "start": 96.82,
+            "word": " set"
+        },
+        {
+            "end": 97.34,
+            "start": 97.08,
+            "word": " with"
+        },
+        {
+            "end": 97.54,
+            "start": 97.34,
+            "word": " three"
+        },
+        {
+            "end": 97.88,
+            "start": 97.54,
+            "word": " pods."
+        },
+        {
+            "end": 98.28,
+            "start": 98.1,
+            "word": " In"
+        },
+        {
+            "end": 98.38,
+            "start": 98.28,
+            "word": " the"
+        },
+        {
+            "end": 98.56,
+            "start": 98.38,
+            "word": " spec"
+        },
+        {
+            "end": 98.8,
+            "start": 98.56,
+            "word": " field,"
+        },
+        {
+            "end": 99.18,
+            "start": 98.96,
+            "word": " we"
+        },
+        {
+            "end": 99.26,
+            "start": 99.18,
+            "word": " can"
+        },
+        {
+            "end": 99.48,
+            "start": 99.26,
+            "word": " define"
+        },
+        {
+            "end": 99.84,
+            "start": 99.48,
+            "word": " exactly"
+        },
+        {
+            "end": 100.1,
+            "start": 99.84,
+            "word": " how"
+        },
+        {
+            "end": 100.24,
+            "start": 100.1,
+            "word": " it"
+        },
+        {
+            "end": 100.34,
+            "start": 100.24,
+            "word": " should"
+        },
+        {
+            "end": 100.7,
+            "start": 100.34,
+            "word": " behave,"
+        },
+        {
+            "end": 101.1,
+            "start": 100.82,
+            "word": " like"
+        },
+        {
+            "end": 101.24,
+            "start": 101.1,
+            "word": " its"
+        },
+        {
+            "end": 101.68,
+            "start": 101.24,
+            "word": " containers,"
+        },
+        {
+            "end": 102.12,
+            "start": 101.82,
+            "word": " volumes,"
+        },
+        {
+            "end": 102.66,
+            "start": 102.34,
+            "word": " ports,"
+        },
+        {
+            "end": 102.92,
+            "start": 102.74,
+            "word": " and"
+        },
+        {
+            "end": 103.04,
+            "start": 102.92,
+            "word": " so"
+        },
+        {
+            "end": 103.24,
+            "start": 103.04,
+            "word": " on."
+        },
+        {
+            "end": 103.56,
+            "start": 103.36,
+            "word": " You"
+        },
+        {
+            "end": 103.68,
+            "start": 103.56,
+            "word": " can"
+        },
+        {
+            "end": 103.82,
+            "start": 103.68,
+            "word": " then"
+        },
+        {
+            "end": 104,
+            "start": 103.82,
+            "word": " take"
+        },
+        {
+            "end": 104.14,
+            "start": 104,
+            "word": " this"
+        },
+        {
+            "end": 104.62,
+            "start": 104.14,
+            "word": " configuration"
+        },
+        {
+            "end": 105.16,
+            "start": 104.62,
+            "word": " and"
+        },
+        {
+            "end": 105.38,
+            "start": 105.16,
+            "word": " use"
+        },
+        {
+            "end": 105.5,
+            "start": 105.38,
+            "word": " it"
+        },
+        {
+            "end": 105.66,
+            "start": 105.5,
+            "word": " to"
+        },
+        {
+            "end": 105.96,
+            "start": 105.66,
+            "word": " provision"
+        },
+        {
+            "end": 106.42,
+            "start": 105.96,
+            "word": " and"
+        },
+        {
+            "end": 106.74,
+            "start": 106.42,
+            "word": " scale"
+        },
+        {
+            "end": 107.2,
+            "start": 106.74,
+            "word": " containers"
+        },
+        {
+            "end": 107.7,
+            "start": 107.2,
+            "word": " automatically,"
+        },
+        {
+            "end": 108.26,
+            "start": 108.02,
+            "word": " and"
+        },
+        {
+            "end": 108.46,
+            "start": 108.26,
+            "word": " ensure"
+        },
+        {
+            "end": 108.64,
+            "start": 108.46,
+            "word": " that"
+        },
+        {
+            "end": 108.76,
+            "start": 108.64,
+            "word": " they're"
+        },
+        {
+            "end": 109.02,
+            "start": 108.76,
+            "word": " always"
+        },
+        {
+            "end": 109.28,
+            "start": 109.02,
+            "word": " up"
+        },
+        {
+            "end": 109.38,
+            "start": 109.28,
+            "word": " and"
+        },
+        {
+            "end": 109.66,
+            "start": 109.38,
+            "word": " running"
+        },
+        {
+            "end": 109.9,
+            "start": 109.66,
+            "word": " and"
+        },
+        {
+            "end": 110.24,
+            "start": 109.9,
+            "word": " healthy."
+        },
+        {
+            "end": 110.72,
+            "start": 110.44,
+            "word": " This"
+        },
+        {
+            "end": 110.82,
+            "start": 110.72,
+            "word": " has"
+        },
+        {
+            "end": 110.98,
+            "start": 110.82,
+            "word": " been"
+        },
+        {
+            "end": 111.32,
+            "start": 110.98,
+            "word": " Kubernetes"
+        },
+        {
+            "end": 111.72,
+            "start": 111.32,
+            "word": " in"
+        },
+        {
+            "end": 112.02,
+            "start": 111.72,
+            "word": " 100"
+        },
+        {
+            "end": 112.46,
+            "start": 112.02,
+            "word": " seconds."
+        },
+        {
+            "end": 112.88,
+            "start": 112.68,
+            "word": " Like"
+        },
+        {
+            "end": 113,
+            "start": 112.88,
+            "word": " and"
+        },
+        {
+            "end": 113.22,
+            "start": 113,
+            "word": " subscribe"
+        },
+        {
+            "end": 113.48,
+            "start": 113.22,
+            "word": " for"
+        },
+        {
+            "end": 113.7,
+            "start": 113.48,
+            "word": " more,"
+        },
+        {
+            "end": 114.04,
+            "start": 113.8,
+            "word": " and"
+        },
+        {
+            "end": 114.16,
+            "start": 114.04,
+            "word": " you"
+        },
+        {
+            "end": 114.22,
+            "start": 114.16,
+            "word": " can"
+        },
+        {
+            "end": 114.48,
+            "start": 114.22,
+            "word": " support"
+        },
+        {
+            "end": 114.64,
+            "start": 114.48,
+            "word": " my"
+        },
+        {
+            "end": 114.88,
+            "start": 114.64,
+            "word": " work"
+        },
+        {
+            "end": 115.14,
+            "start": 114.88,
+            "word": " by"
+        },
+        {
+            "end": 115.54,
+            "start": 115.14,
+            "word": " sponsoring"
+        },
+        {
+            "end": 115.76,
+            "start": 115.54,
+            "word": " me"
+        },
+        {
+            "end": 115.88,
+            "start": 115.76,
+            "word": " on"
+        },
+        {
+            "end": 116.14,
+            "start": 115.88,
+            "word": " GitHub,"
+        },
+        {
+            "end": 116.56,
+            "start": 116.26,
+            "word": " or"
+        },
+        {
+            "end": 116.7,
+            "start": 116.56,
+            "word": " by"
+        },
+        {
+            "end": 116.96,
+            "start": 116.7,
+            "word": " becoming"
+        },
+        {
+            "end": 117.18,
+            "start": 116.96,
+            "word": " a"
+        },
+        {
+            "end": 117.4,
+            "start": 117.18,
+            "word": " pro"
+        },
+        {
+            "end": 117.58,
+            "start": 117.4,
+            "word": " member"
+        },
+        {
+            "end": 117.9,
+            "start": 117.58,
+            "word": " at"
+        },
+        {
+            "end": 118.36,
+            "start": 118.1,
+            "word": " Wireship"
+        },
+        {
+            "end": 118.56,
+            "start": 118.36,
+            "word": ".io"
+        },
+        {
+            "end": 118.82,
+            "start": 118.56,
+            "word": " for"
+        },
+        {
+            "end": 119.08,
+            "start": 118.82,
+            "word": " even"
+        },
+        {
+            "end": 119.24,
+            "start": 119.08,
+            "word": " more"
+        },
+        {
+            "end": 119.6,
+            "start": 119.24,
+            "word": " content."
+        },
+        {
+            "end": 120.18,
+            "start": 119.82,
+            "word": " Thanks"
+        },
+        {
+            "end": 120.32,
+            "start": 120.18,
+            "word": " for"
+        },
+        {
+            "end": 120.64,
+            "start": 120.32,
+            "word": " watching,"
+        },
+        {
+            "end": 121.04,
+            "start": 120.78,
+            "word": " and"
+        },
+        {
+            "end": 121.14,
+            "start": 121.04,
+            "word": " I"
+        },
+        {
+            "end": 121.3,
+            "start": 121.14,
+            "word": " will"
+        },
+        {
+            "end": 121.48,
+            "start": 121.3,
+            "word": " see"
+        },
+        {
+            "end": 121.66,
+            "start": 121.48,
+            "word": " you"
+        },
+        {
+            "end": 121.84,
+            "start": 121.66,
+            "word": " in"
+        },
+        {
+            "end": 122,
+            "start": 121.84,
+            "word": " the"
+        },
+        {
+            "end": 122.14,
+            "start": 122,
+            "word": " next"
+        },
+        {
+            "end": 122.34,
+            "start": 122.14,
+            "word": " one."
+        }
+    ]
+}
